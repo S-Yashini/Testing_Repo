@@ -1,0 +1,195 @@
+{
+  "9999301123": {
+    "reference_material_code": "9999301123",
+    "jurisdictions": [
+      {
+        "authority_country": "ADR",
+        "un_number": "UN1266",
+        "psn": "Perfumery Products",
+        "packaging_group": "III",
+        "hazard_category": "3"
+      },
+      {
+        "authority_country": "IATA",
+        "un_number": "UN1266",
+        "psn": "Consumer Commodity",
+        "packaging_group": "III",
+        "hazard_category": "9"
+      }
+    ]
+  },
+  "9999391411": {
+    "reference_material_code": "9999391411",
+    "jurisdictions": [
+      {
+        "authority_country": "ADR",
+        "un_number": "UN1170",
+        "psn": "Ethanol Solution",
+        "packaging_group": "II",
+        "hazard_category": "3"
+      }
+    ]
+  },
+  "9999310071": {
+    "reference_material_code": "9999310071",
+    "jurisdictions": [
+      {
+        "authority_country": "ADR",
+        "un_number": "UN1993",
+        "psn": "Flammable Liquid, N.O.S.",
+        "packaging_group": "II",
+        "hazard_category": "3"
+      },
+      {
+        "authority_country": "IMDG",
+        "un_number": "UN1993",
+        "psn": "Flammable Liquid, N.O.S.",
+        "packaging_group": "II",
+        "hazard_category": "3"
+      },
+      {
+        "authority_country": "IATA",
+        "un_number": "UN1993",
+        "psn": "Flammable Liquid, N.O.S.",
+        "packaging_group": "II",
+        "hazard_category": "3"
+      },
+      {
+        "authority_country": "US DOT",
+        "un_number": "UN1993",
+        "psn": "Flammable Liquid, N.O.S.",
+        "packaging_group": "II",
+        "hazard_category": "3"
+      },
+      {
+        "authority_country": "Canada",
+        "un_number": "UN1993",
+        "psn": "Flammable Liquid, N.O.S.",
+        "packaging_group": "II",
+        "hazard_category": "3"
+      },
+      {
+        "authority_country": "Australia",
+        "un_number": "UN1993",
+        "psn": "Flammable Liquid, N.O.S.",
+        "packaging_group": "II",
+        "hazard_category": "3"
+      },
+      {
+        "authority_country": "South Korea",
+        "un_number": "UN1993",
+        "psn": "Flammable Liquid, N.O.S.",
+        "packaging_group": "II",
+        "hazard_category": "3"
+      }
+    ]
+  },
+  "9999-31-8021": {
+    "reference_material_code": "9999-31-8021",
+    "jurisdictions": [
+      {
+        "authority_country": "ADR",
+        "un_number": "UN1993",
+        "psn": "Flammable Liquid, N.O.S.",
+        "packaging_group": "II",
+        "hazard_category": "3"
+      },
+      {
+        "authority_country": "IMDG",
+        "un_number": "UN1993",
+        "psn": "Flammable Liquid, N.O.S.",
+        "packaging_group": "II",
+        "hazard_category": "3"
+      },
+      {
+        "authority_country": "IATA",
+        "un_number": "UN1993",
+        "psn": "Flammable Liquid, N.O.S.",
+        "packaging_group": "II",
+        "hazard_category": "3"
+      },
+      {
+        "authority_country": "US DOT",
+        "un_number": "UN1993",
+        "psn": "Flammable Liquid, N.O.S.",
+        "packaging_group": "II",
+        "hazard_category": "3"
+      },
+      {
+        "authority_country": "Canada",
+        "un_number": "UN1993",
+        "psn": "Flammable Liquid, N.O.S.",
+        "packaging_group": "II",
+        "hazard_category": "3"
+      },
+      {
+        "authority_country": "Australia",
+        "un_number": "UN1993",
+        "psn": "Flammable Liquid, N.O.S.",
+        "packaging_group": "II",
+        "hazard_category": "3"
+      },
+      {
+        "authority_country": "South Korea",
+        "un_number": "UN1993",
+        "psn": "Flammable Liquid, N.O.S.",
+        "packaging_group": "II",
+        "hazard_category": "3"
+      }
+    ]
+  },
+  "9999604604": {
+    "reference_material_code": "9999604604",
+    "jurisdictions": [
+      {
+        "authority_country": "ADR",
+        "un_number": "UN1993",
+        "psn": "Flammable Liquid, N.O.S.",
+        "packaging_group": "II",
+        "hazard_category": "3"
+      },
+      {
+        "authority_country": "IMDG",
+        "un_number": "UN1993",
+        "psn": "Flammable Liquid, N.O.S.",
+        "packaging_group": "II",
+        "hazard_category": "3"
+      },
+      {
+        "authority_country": "IATA",
+        "un_number": "UN1993",
+        "psn": "Flammable Liquid, N.O.S.",
+        "packaging_group": "II",
+        "hazard_category": "3"
+      },
+      {
+        "authority_country": "US DOT",
+        "un_number": "UN1993",
+        "psn": "Flammable Liquid, N.O.S.",
+        "packaging_group": "II",
+        "hazard_category": "3"
+      },
+      {
+        "authority_country": "Canada",
+        "un_number": "UN1993",
+        "psn": "Flammable Liquid, N.O.S.",
+        "packaging_group": "II",
+        "hazard_category": "3"
+      },
+      {
+        "authority_country": "Australia",
+        "un_number": "UN1993",
+        "psn": "Flammable Liquid, N.O.S.",
+        "packaging_group": "II",
+        "hazard_category": "3"
+      },
+      {
+        "authority_country": "South Korea",
+        "un_number": "UN1993",
+        "psn": "Flammable Liquid, N.O.S.",
+        "packaging_group": "II",
+        "hazard_category": "3"
+      }
+    ]
+  }
+}

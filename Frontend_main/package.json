@@ -1,0 +1,46 @@
+{
+  "name": "elc-sds-ai",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview",
+    "server": "node server.js",
+    "sync-records": "node sync-sds-records.js"
+  },
+  "dependencies": {
+    "@tanstack/react-query": "^4.36.1",
+    "@types/recharts": "^1.8.29",
+    "antd": "3.26.20",
+    "framer-motion": "^12.23.26",
+    "motion": "^12.23.26",
+    "mutationobserver-shim": "^0.3.7",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-is": "^17.0.2",
+    "react-router-dom": "^5.3.4",
+    "react-tooltip": "^5.30.0",
+    "recharts": "^3.6.0",
+    "enquire.js": "^2.1.6"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.39.1",
+    "@types/node": "^24.10.1",
+    "@types/react": "^17.0.80",
+    "@types/react-dom": "^17.0.25",
+    "@types/react-router-dom": "^5.3.3",
+    "@vitejs/plugin-react": "^5.1.1",
+    "eslint": "^9.39.1",
+    "eslint-plugin-react-hooks": "^7.0.1",
+    "eslint-plugin-react-refresh": "^0.4.24",
+    "globals": "^16.5.0",
+    "less": "^4.5.1",
+    "sass-embedded": "^1.97.3",
+    "typescript": "~5.9.3",
+    "typescript-eslint": "^8.46.4",
+    "vite": "^7.2.4"
+  }
+}

@@ -1,0 +1,1001 @@
+[
+ 
+ 
+  {
+      "id": 1,
+      "materialId": "999S111316",
+      "materialName": "DRAMATICALLY DIFFERENT HYD JELLY",
+      "source": "WERCS",
+      "partNumber": "999S111316",
+      "internalCode": "999S111316",
+      "synonyms": [],
+      "productType": "Mixture",
+      "intendedUse": "Personal Care Product. For professional use only.",
+      "manufacturer": "WLB Ltd.",
+      "manufacturerLocation": "Petersfield, UK",
+      "emergencyContact": "Not specified",
+    
+      "aiRecommendedDGCode": "Not regulated",
+    
+      "rationaleSummary": "Based on the SDS, this mixture is not classified as hazardous under GHS Regulation (EC) No 1272/2008 and is not regulated as Dangerous Goods for transport under ADR, RID, IMDG, or IATA. The flash point of 94 °C exceeds regulatory thresholds for flammable or combustible liquid classification.",
+    
+      "ghsRationale": "The manufacturer explicitly states that the mixture is not hazardous according to Regulation (EC) No 1272/2008. No hazard classes, categories, H-statements, or pictograms are assigned. Only EUH210 applies.",
+    
+      "dgRationale": "Transport information in Section 14 confirms that the material is not regulated as Dangerous Goods across all transport modes. The flash point of 94 °C does not meet the criteria for Class 3 or combustible liquid classification.",
+    
+      "ghsPictograms": [],
+    
+      "hazardousWaste": false,
+    
+      "sdsSheetUrl": "/public/extenders/999S111316.pdf",
+    
+      "status": "Pending Review",
+      "feedback": "",
+      "sections": {
+          "section2": {
+              "classification": "Not classified as hazardous under Regulation (EC) No 1272/2008",
+              "hazards": [],
+              "ghsCodes": ["EUH210"],
+              "signalWord": "None",
+              "hazardStatements": "EUH210: Safety data sheet available on request.",
+              "precautionaryCodes": [],
+              "precautionaryStatements": "",
+              "carcinogenicity": "No information available",
+              "additionalNotes": "The manufacturer explicitly states that this mixture is not hazardous according to GHS."
+              },
+          "section3": {
+              "chemicalNature": "Personal care product mixture",
+              "description": "Mixture for professional personal care use.",
+              "composition": [
+                  {
+                  "chemicalName": "Glycerin",
+                  "casNumber": "56-81-5",
+                  "concentration": "10–30%",
+                  "ghsClassification": [],
+                  "hazardStatements": []
+                  }
+              ]
+          },
+          "section9": {
+              "physicalState": "Liquid",
+              "appearance": "Match to standard",
+              "odour": "Match to standard",
+              "flashPoint": "94 °C",
+              "boilingPoint": "Not specified",
+              "vapourPressure": "Not specified",
+              "note": "Flash point is above regulatory thresholds for flammable or combustible liquid classification."
+          },
+          "section14": {
+              "dot": "Not regulated",
+              "iata": {
+                  "unNumber": "Not regulated",
+                  "description": "Not regulated as Dangerous Goods",
+                  "class": "Not regulated",
+                  "packingGroup": "Not regulated",
+                  "labels": "Not regulated"
+              },
+              "imdg": {
+                  "unNumber": "Not regulated",
+                  "description": "Not regulated as Dangerous Goods",
+                  "class": "Not regulated",
+                  "packingGroup": "Not regulated",
+                  "labels": "Not regulated",
+                  "marinePollutant": "Not applicable"
+              },
+              "otherInformation": "The SDS confirms that this material is not regulated for transport under ADR, RID, IMDG, ICAO, or IATA."
+          }
+      },
+      "uploadedDate": "2026-02-25"
+  },
+  {
+      "id": 2,
+      "materialId": "9999111668",
+      "materialName": "RE-NUTRIV FLORALIXIR DEW 2X",
+      "source": "WERCS",
+      "partNumber": "9999111668",
+      "internalCode": "9999111668",
+      "synonyms": [],
+      "productType": "Mixture",
+      "intendedUse": "Personal Care Product. For professional use only.",
+      "manufacturer": "WLB Ltd.",
+      "manufacturerLocation": "Petersfield, UK",
+      "emergencyContact": "Not specified",
+    
+      "aiRecommendedDGCode": "Not regulated",
+    
+      "rationaleSummary": "Based on the Safety Data Sheet, this mixture is not classified as hazardous under Regulation (EC) No 1272/2008 (CLP) and is not regulated as Dangerous Goods for transport. The flash point of 94 °C does not meet the criteria for flammable or combustible liquid classification.",
+    
+      "ghsRationale": "The manufacturer explicitly states that the mixture is not hazardous according to Regulation (EC) No 1272/2008. No GHS hazard classes, categories, H-statements, signal word, or pictograms are assigned.",
+    
+      "dgRationale": "Transport information in Section 14 confirms that the material is not regulated as Dangerous Goods under ADR, RID, IMDG, ICAO, or IATA. No UN number, hazard class, or packing group applies.",
+    
+      "ghsPictograms": [],
+    
+      "hazardousWaste": false,
+    
+      "sdsSheetUrl": "/public/extenders/999S111668.pdf",
+    
+      "status": "Approved",
+      "Approve/Reject Date": "2026-01-15",
+      "feedback": "",
+    
+      "sections": {
+        "section2": {
+          "classification": "Not classified as hazardous under Regulation (EC) No 1272/2008",
+          "hazards": [],
+          "ghsCodes": [],
+          "signalWord": "None",
+          "hazardStatements": "",
+          "precautionaryCodes": [],
+          "precautionaryStatements": "",
+          "carcinogenicity": "No information available",
+          "additionalNotes": "The SDS explicitly states that this mixture is not hazardous according to CLP."
+        },
+    
+        "section3": {
+          "chemicalNature": "Personal care product mixture",
+          "description": "Mixture for professional personal care use. Product code 9999111668.",
+          "composition": []
+        },
+    
+        "section9": {
+          "physicalState": "Liquid",
+          "appearance": "Clear amber liquid",
+          "odour": "Characteristic of resveratrol",
+          "flashPoint": "94 °C",
+          "boilingPoint": "Not specified",
+          "vapourPressure": "Not specified",
+          "note": "Flash point exceeds thresholds for flammable or combustible liquid classification."
+        },
+    
+        "section14": {
+          "dot": "Not regulated",
+          "iata": {
+            "unNumber": "Not regulated",
+            "description": "Not regulated as Dangerous Goods",
+            "class": "Not regulated",
+            "packingGroup": "Not regulated",
+            "labels": "Not regulated"
+          },
+          "imdg": {
+            "unNumber": "Not regulated",
+            "description": "Not regulated as Dangerous Goods",
+            "class": "Not regulated",
+            "packingGroup": "Not regulated",
+            "labels": "Not regulated",
+            "marinePollutant": "Not applicable"
+          },
+          "otherInformation": "The SDS confirms no DG regulation across road, sea, or air transport modes."
+        }
+      },
+    
+      "uploadedDate": "2026-01-15"
+    },
+    {
+      "id": 3,
+      "materialId": "999S111984",
+      "materialName": "CHAGA CH/CORDYCEPS (1% SOL)",
+      "source": "WERCS",
+      "partNumber": "999S111984",
+      "internalCode": "999S111984",
+      "synonyms": [],
+      "productType": "Mixture",
+      "intendedUse": "Personal Care Product. For professional use only.",
+      "manufacturer": "WLB Ltd.",
+      "manufacturerLocation": "Petersfield, UK",
+      "emergencyContact": "Chemtrec 1-800-424-9300 / +1 703-741-5970",
+    
+      "aiRecommendedDGCode": "Not regulated",
+    
+      "rationaleSummary": "According to the Safety Data Sheet, this mixture is not classified as hazardous under Regulation (EC) No 1272/2008 (CLP) and is not regulated as Dangerous Goods for transport. The flash point of 94 °C does not meet the criteria for flammable liquid classification.",
+    
+      "ghsRationale": "Section 2 of the SDS explicitly states that the mixture is not classified as hazardous under Regulation (EC) No 1272/2008 (CLP). No hazard classes, categories, pictograms, signal word, or hazard statements are assigned.",
+    
+      "dgRationale": "Section 14 confirms that the material is not regulated as Dangerous Goods under ADR, RID, IMDG, ICAO, or IATA. No UN number, hazard class, packing group, or transport labels apply.",
+    
+      "ghsPictograms": [],
+    
+      "hazardousWaste": false,
+    
+      "sdsSheetUrl": "/public/extenders/999S111984.pdf",
+    
+      "status": "Approved",
+      "Approve/Reject Date": "2025-12-29",
+      "feedback": "",
+    
+      "sections": {
+        "section2": {
+          "classification": "Not classified as hazardous under Regulation (EC) No 1272/2008",
+          "hazards": [],
+          "ghsCodes": [],
+          "signalWord": "None",
+          "hazardStatements": "",
+          "precautionaryCodes": [],
+          "precautionaryStatements": "",
+          "carcinogenicity": "No information available",
+          "additionalNotes": "The supplier confirms no hazards and no CLP classification."
+        },
+    
+        "section3": {
+          "chemicalNature": "Personal care product mixture",
+          "description": "Mixture containing chaga and cordyceps extract at 1% solution.",
+          "composition": []
+        },
+    
+        "section9": {
+          "physicalState": "Liquid",
+          "appearance": "Hazy liquid",
+          "odour": "Characteristic of cordyceps powder",
+          "color": "Dark brown",
+          "flashPoint": "94 °C",
+          "boilingPoint": "Not specified",
+          "vapourPressure": "Not specified",
+          "note": "Flash point is above the threshold for flammable liquid classification."
+        },
+    
+        "section14": {
+          "dot": "Not regulated",
+          "iata": {
+            "unNumber": "Not regulated",
+            "description": "Not regulated as Dangerous Goods",
+            "class": "Not regulated",
+            "packingGroup": "Not regulated",
+            "labels": "Not regulated"
+          },
+          "imdg": {
+            "unNumber": "Not regulated",
+            "description": "Not regulated as Dangerous Goods",
+            "class": "Not regulated",
+            "packingGroup": "Not regulated",
+            "labels": "Not regulated",
+            "marinePollutant": "Not applicable"
+          },
+          "otherInformation": "Not regulated for transport by road, sea, or air as per SDS Section 14."
+        }
+      },
+    
+      "uploadedDate": "2025-12-28"
+    },
+    {
+      "id": 4,
+      "materialId": "999B134842",
+      "materialName": "CRYSTAL BALMS WB* PURE COLOR ENVY COLOR REPLSH",
+      "source": "WERCS",
+      "partNumber": "999B134842",
+      "internalCode": "999B134842",
+      "synonyms": [],
+      "productType": "Mixture",
+      "intendedUse": "Personal Care Product. For professional use only.",
+      "manufacturer": "WLB Ltd.",
+      "manufacturerLocation": "Petersfield, UK",
+    
+      "aiRecommendedDGCode": "Not regulated",
+    
+      "rationaleSummary": "The Safety Data Sheet states that this mixture is not classified as hazardous under Regulation (EC) No 1272/2008 (GHS/CLP) and is not regulated as Dangerous Goods for transport. The material is a solid, not combustible, and has no assigned UN number or hazard class.",
+    
+      "ghsRationale": "Section 2 of the SDS confirms that the mixture is not classified as hazardous according to Regulation (EC) No 1272/2008 (GHS). No hazard classes, categories, pictograms, signal words, or hazard statements apply.",
+    
+      "dgRationale": "Section 14 indicates that the material is not regulated under ADR, RID, IMDG, ICAO, or IATA. The product is a solid, not combustible, with no transport hazard classification.",
+    
+      "ghsPictograms": [],
+    
+      "hazardousWaste": false,
+    
+      "sdsSheetUrl": "/public/extenders/999B134842.pdf",
+    
+      "status": "Approved",
+      "Approve/Reject Date": "2025-11-13",
+      "feedback": "",
+    
+      "sections": {
+        "section2": {
+          "classification": "Not classified as hazardous under Regulation (EC) No 1272/2008 (GHS)",
+          "hazards": [],
+          "ghsCodes": [],
+          "signalWord": "None",
+          "hazardStatements": "",
+          "precautionaryCodes": [],
+          "precautionaryStatements": "",
+          "carcinogenicity": "No information available",
+          "additionalNotes": "Supplier confirms no GHS hazard classification."
+        },
+    
+        "section3": {
+          "chemicalNature": "Personal care product mixture",
+          "description": "Solid wax-based cosmetic mixture.",
+          "composition": []
+        },
+    
+        "section9": {
+          "physicalState": "Solid",
+          "appearance": "Waxy, pale purple",
+          "odour": "Vanilla mint",
+          "color": "Pale lavender",
+          "flashPoint": "Not applicable",
+          "flammability": "Not combustible",
+          "note": "Physical form and properties do not meet criteria for flammable or hazardous classification."
+        },
+    
+        "section10": {
+          "stability": "Stable under normal conditions",
+          "reactivity": "None known",
+          "incompatibleMaterials": "None known",
+          "hazardousDecompositionProducts": "None under normal use conditions"
+        },
+    
+        "section11": {
+          "acuteToxicity": "Not classified",
+          "unknownToxicity": "Majority of components have unknown toxicity, but no hazard classification assigned",
+          "sensitization": "No information available",
+          "carcinogenicity": "No information available"
+        },
+    
+        "section12": {
+          "ecotoxicity": "Majority of components have unknown aquatic toxicity",
+          "persistence": "No information available",
+          "bioaccumulation": "No information available"
+        },
+    
+        "section14": {
+          "dot": "Not regulated",
+          "iata": {
+            "unNumber": "Not regulated",
+            "description": "Not regulated as Dangerous Goods",
+            "class": "Not regulated",
+            "packingGroup": "Not regulated",
+            "labels": "Not regulated"
+          },
+          "imdg": {
+            "unNumber": "Not regulated",
+            "description": "Not regulated as Dangerous Goods",
+            "class": "Not regulated",
+            "packingGroup": "Not regulated",
+            "labels": "Not regulated",
+            "marinePollutant": "Not applicable"
+          },
+          "otherInformation": "Not regulated for transport by road, rail, sea, or air."
+        }
+      },
+    
+      "uploadedDate": "2025-11-13"
+    },
+    {
+      "id": 5,
+      "materialId": "999B134892",
+      "materialName": "BASE OUT PURE COLOR ENVY MATTE SCULPT LIP",
+      "source": "WERCS",
+      "partNumber": "999B134892",
+      "internalCode": "999B134892",
+      "synonyms": [],
+      "productType": "Mixture",
+      "intendedUse": "Personal Care Product. For professional use only.",
+      "manufacturer": "WLB Ltd.",
+      "manufacturerLocation": "Petersfield, UK",
+    
+      "aiRecommendedDGCode": "Not regulated",
+    
+      "rationaleSummary": "The SDS classifies this product as hazardous for environmental reasons only (Chronic Aquatic Toxicity Category 3, H412). The material is a solid, not combustible, and is not regulated as Dangerous Goods for transport under ADR, RID, IMDG, ICAO, or IATA.",
+    
+      "ghsRationale": "Section 2 of the SDS assigns Chronic Aquatic Toxicity Category 3 (H412 – Harmful to aquatic life with long lasting effects). No physical hazards, acute toxicity, or health hazard classifications are assigned at the mixture level.",
+    
+      "dgRationale": "Section 14 confirms that the material is not regulated for transport by road, rail, sea, or air. The product is a solid, not combustible, with no UN number, hazard class, or packing group.",
+    
+      "ghsPictograms": [],
+    
+      "hazardousWaste": false,
+    
+      "sdsSheetUrl": "/public/extenders/999B134892.pdf",
+    
+      "status": "Rejected",
+      "Approve/Reject Date": "2025-11-08",
+      "feedback": "",
+    
+      "sections": {
+        "section2": {
+          "classification": "Chronic Aquatic Toxicity – Category 3",
+          "hazards": [
+            "Aquatic Chronic 3"
+          ],
+          "ghsCodes": [
+            "H412"
+          ],
+          "signalWord": "None",
+          "hazardStatements": "H412 – Harmful to aquatic life with long lasting effects",
+          "precautionaryCodes": [],
+          "precautionaryStatements": "",
+          "carcinogenicity": "No information available",
+          "additionalNotes": "No GHS pictograms or signal word required for Aquatic Chronic Category 3."
+        },
+    
+        "section3": {
+          "chemicalNature": "Personal care product mixture",
+          "description": "Wax-based cosmetic mixture containing silica, paraffin, mica, and minor additives.",
+          "composition": [
+            {
+              "chemicalName": "Silica",
+              "casNumber": "112945-52-5",
+              "percentage": "10–30%"
+            },
+            {
+              "chemicalName": "Paraffin",
+              "casNumber": "8002-74-2",
+              "percentage": "3–7%"
+            },
+            {
+              "chemicalName": "Mica",
+              "casNumber": "12001-26-2",
+              "percentage": "1–5%"
+            },
+            {
+              "chemicalName": "Phenoxyethanol",
+              "casNumber": "122-99-6",
+              "percentage": "<0.1%"
+            },
+            {
+              "chemicalName": "Hexylene Glycol",
+              "casNumber": "107-41-5",
+              "percentage": "<0.1%"
+            }
+          ]
+        },
+    
+        "section9": {
+          "physicalState": "Solid",
+          "appearance": "Uniform, waxy solid stick",
+          "odour": "Not offensive",
+          "color": "Pale white to off-white",
+          "flashPoint": "Not applicable",
+          "flammability": "Not combustible",
+          "note": "Physical properties do not meet DG flammability criteria."
+        },
+    
+        "section10": {
+          "stability": "Stable under normal conditions",
+          "reactivity": "None known",
+          "incompatibleMaterials": "None known",
+          "hazardousDecompositionProducts": "None under normal use conditions"
+        },
+    
+        "section11": {
+          "acuteToxicity": "Not classified",
+          "unknownToxicity": "67.3% of mixture consists of ingredients with unknown toxicity",
+          "sensitization": "No information available",
+          "carcinogenicity": "No information available",
+          "targetOrgans": [
+            "Eyes",
+            "Respiratory system",
+            "Skin"
+          ]
+        },
+    
+        "section12": {
+          "ecotoxicity": "Aquatic Chronic Category 3 (H412)",
+          "persistence": "No information available",
+          "bioaccumulation": "Low to moderate (based on component logKow values)"
+        },
+    
+        "section14": {
+          "dot": "Not regulated",
+          "iata": {
+            "unNumber": "Not regulated",
+            "description": "Not regulated as Dangerous Goods",
+            "class": "Not regulated",
+            "packingGroup": "Not regulated",
+            "labels": "Not regulated"
+          },
+          "imdg": {
+            "unNumber": "Not regulated",
+            "description": "Not regulated as Dangerous Goods",
+            "class": "Not regulated",
+            "packingGroup": "Not regulated",
+            "labels": "Not regulated",
+            "marinePollutant": "Not applicable"
+          },
+          "otherInformation": "Environmental hazard does not trigger DG transport regulation."
+        }
+      },
+    
+      "uploadedDate": "2025-11-08"
+    },
+ 
+  {
+      "id": 6,
+      "materialId": "9999111319",
+      "materialName": "DRAMATICALLY DIFFERENT HYD JELLY",
+      "source": "WERCS",
+      "partNumber": "999S111316",
+      "internalCode": "999S111316",
+      "synonyms": [],
+      "productType": "Mixture",
+      "intendedUse": "Personal Care Product. For professional use only.",
+      "manufacturer": "WLB Ltd.",
+      "manufacturerLocation": "Petersfield, UK",
+      "emergencyContact": "Not specified",
+    
+      "aiRecommendedDGCode": "Not regulated",
+    
+      "rationaleSummary": "Based on the SDS, this mixture is not classified as hazardous under GHS Regulation (EC) No 1272/2008 and is not regulated as Dangerous Goods for transport under ADR, RID, IMDG, or IATA. The flash point of 94 °C exceeds regulatory thresholds for flammable or combustible liquid classification.",
+    
+      "ghsRationale": "The manufacturer explicitly states that the mixture is not hazardous according to Regulation (EC) No 1272/2008. No hazard classes, categories, H-statements, or pictograms are assigned. Only EUH210 applies.",
+    
+      "dgRationale": "Transport information in Section 14 confirms that the material is not regulated as Dangerous Goods across all transport modes. The flash point of 94 °C does not meet the criteria for Class 3 or combustible liquid classification.",
+    
+      "ghsPictograms": [],
+    
+      "hazardousWaste": false,
+    
+      "sdsSheetUrl": "/public/extenders/999S111316.pdf",
+    
+      "status": "Pending Review",
+      "feedback": "",
+      "sections": {
+          "section2": {
+              "classification": "Not classified as hazardous under Regulation (EC) No 1272/2008",
+              "hazards": [],
+              "ghsCodes": ["EUH210"],
+              "signalWord": "None",
+              "hazardStatements": "EUH210: Safety data sheet available on request.",
+              "precautionaryCodes": [],
+              "precautionaryStatements": "",
+              "carcinogenicity": "No information available",
+              "additionalNotes": "The manufacturer explicitly states that this mixture is not hazardous according to GHS."
+              },
+          "section3": {
+              "chemicalNature": "Personal care product mixture",
+              "description": "Mixture for professional personal care use.",
+              "composition": [
+                  {
+                  "chemicalName": "Glycerin",
+                  "casNumber": "56-81-5",
+                  "concentration": "10–30%",
+                  "ghsClassification": [],
+                  "hazardStatements": []
+                  }
+              ]
+          },
+          "section9": {
+              "physicalState": "Liquid",
+              "appearance": "Match to standard",
+              "odour": "Match to standard",
+              "flashPoint": "94 °C",
+              "boilingPoint": "Not specified",
+              "vapourPressure": "Not specified",
+              "note": "Flash point is above regulatory thresholds for flammable or combustible liquid classification."
+          },
+          "section14": {
+              "dot": "Not regulated",
+              "iata": {
+                  "unNumber": "Not regulated",
+                  "description": "Not regulated as Dangerous Goods",
+                  "class": "Not regulated",
+                  "packingGroup": "Not regulated",
+                  "labels": "Not regulated"
+              },
+              "imdg": {
+                  "unNumber": "Not regulated",
+                  "description": "Not regulated as Dangerous Goods",
+                  "class": "Not regulated",
+                  "packingGroup": "Not regulated",
+                  "labels": "Not regulated",
+                  "marinePollutant": "Not applicable"
+              },
+              "otherInformation": "The SDS confirms that this material is not regulated for transport under ADR, RID, IMDG, ICAO, or IATA."
+          }
+      },
+      "uploadedDate": "2026-02-25"
+  },
+  {
+      "id": 7,
+      "materialId": "9999116811",
+      "materialName": "RE-NUTRIV FLORALIXIR DEW 2X",
+      "source": "WERCS",
+      "partNumber": "9999111668",
+      "internalCode": "9999111668",
+      "synonyms": [],
+      "productType": "Mixture",
+      "intendedUse": "Personal Care Product. For professional use only.",
+      "manufacturer": "WLB Ltd.",
+      "manufacturerLocation": "Petersfield, UK",
+      "emergencyContact": "Not specified",
+    
+      "aiRecommendedDGCode": "Not regulated",
+    
+      "rationaleSummary": "Based on the Safety Data Sheet, this mixture is not classified as hazardous under Regulation (EC) No 1272/2008 (CLP) and is not regulated as Dangerous Goods for transport. The flash point of 94 °C does not meet the criteria for flammable or combustible liquid classification.",
+    
+      "ghsRationale": "The manufacturer explicitly states that the mixture is not hazardous according to Regulation (EC) No 1272/2008. No GHS hazard classes, categories, H-statements, signal word, or pictograms are assigned.",
+    
+      "dgRationale": "Transport information in Section 14 confirms that the material is not regulated as Dangerous Goods under ADR, RID, IMDG, ICAO, or IATA. No UN number, hazard class, or packing group applies.",
+    
+      "ghsPictograms": [],
+    
+      "hazardousWaste": false,
+    
+      "sdsSheetUrl": "/public/extenders/999S111668.pdf",
+    
+      "status": "Approved",
+      "Approve/Reject Date": "2026-01-15",
+      "feedback": "",
+    
+      "sections": {
+        "section2": {
+          "classification": "Not classified as hazardous under Regulation (EC) No 1272/2008",
+          "hazards": [],
+          "ghsCodes": [],
+          "signalWord": "None",
+          "hazardStatements": "",
+          "precautionaryCodes": [],
+          "precautionaryStatements": "",
+          "carcinogenicity": "No information available",
+          "additionalNotes": "The SDS explicitly states that this mixture is not hazardous according to CLP."
+        },
+    
+        "section3": {
+          "chemicalNature": "Personal care product mixture",
+          "description": "Mixture for professional personal care use. Product code 9999111668.",
+          "composition": []
+        },
+    
+        "section9": {
+          "physicalState": "Liquid",
+          "appearance": "Clear amber liquid",
+          "odour": "Characteristic of resveratrol",
+          "flashPoint": "94 °C",
+          "boilingPoint": "Not specified",
+          "vapourPressure": "Not specified",
+          "note": "Flash point exceeds thresholds for flammable or combustible liquid classification."
+        },
+    
+        "section14": {
+          "dot": "Not regulated",
+          "iata": {
+            "unNumber": "Not regulated",
+            "description": "Not regulated as Dangerous Goods",
+            "class": "Not regulated",
+            "packingGroup": "Not regulated",
+            "labels": "Not regulated"
+          },
+          "imdg": {
+            "unNumber": "Not regulated",
+            "description": "Not regulated as Dangerous Goods",
+            "class": "Not regulated",
+            "packingGroup": "Not regulated",
+            "labels": "Not regulated",
+            "marinePollutant": "Not applicable"
+          },
+          "otherInformation": "The SDS confirms no DG regulation across road, sea, or air transport modes."
+        }
+      },
+    
+      "uploadedDate": "2026-01-15"
+    },
+    {
+      "id": 8,
+      "materialId": "999S111841",
+      "materialName": "CHAGA CH/CORDYCEPS (1% SOL)",
+      "source": "WERCS",
+      "partNumber": "999S111984",
+      "internalCode": "999S111984",
+      "synonyms": [],
+      "productType": "Mixture",
+      "intendedUse": "Personal Care Product. For professional use only.",
+      "manufacturer": "WLB Ltd.",
+      "manufacturerLocation": "Petersfield, UK",
+      "emergencyContact": "Chemtrec 1-800-424-9300 / +1 703-741-5970",
+    
+      "aiRecommendedDGCode": "Not regulated",
+    
+      "rationaleSummary": "According to the Safety Data Sheet, this mixture is not classified as hazardous under Regulation (EC) No 1272/2008 (CLP) and is not regulated as Dangerous Goods for transport. The flash point of 94 °C does not meet the criteria for flammable liquid classification.",
+    
+      "ghsRationale": "Section 2 of the SDS explicitly states that the mixture is not classified as hazardous under Regulation (EC) No 1272/2008 (CLP). No hazard classes, categories, pictograms, signal word, or hazard statements are assigned.",
+    
+      "dgRationale": "Section 14 confirms that the material is not regulated as Dangerous Goods under ADR, RID, IMDG, ICAO, or IATA. No UN number, hazard class, packing group, or transport labels apply.",
+    
+      "ghsPictograms": [],
+    
+      "hazardousWaste": false,
+    
+      "sdsSheetUrl": "/public/extenders/999S111984.pdf",
+    
+      "status": "Approved",
+      "Approve/Reject Date": "2025-12-29",
+      "feedback": "",
+    
+      "sections": {
+        "section2": {
+          "classification": "Not classified as hazardous under Regulation (EC) No 1272/2008",
+          "hazards": [],
+          "ghsCodes": [],
+          "signalWord": "None",
+          "hazardStatements": "",
+          "precautionaryCodes": [],
+          "precautionaryStatements": "",
+          "carcinogenicity": "No information available",
+          "additionalNotes": "The supplier confirms no hazards and no CLP classification."
+        },
+    
+        "section3": {
+          "chemicalNature": "Personal care product mixture",
+          "description": "Mixture containing chaga and cordyceps extract at 1% solution.",
+          "composition": []
+        },
+    
+        "section9": {
+          "physicalState": "Liquid",
+          "appearance": "Hazy liquid",
+          "odour": "Characteristic of cordyceps powder",
+          "color": "Dark brown",
+          "flashPoint": "94 °C",
+          "boilingPoint": "Not specified",
+          "vapourPressure": "Not specified",
+          "note": "Flash point is above the threshold for flammable liquid classification."
+        },
+    
+        "section14": {
+          "dot": "Not regulated",
+          "iata": {
+            "unNumber": "Not regulated",
+            "description": "Not regulated as Dangerous Goods",
+            "class": "Not regulated",
+            "packingGroup": "Not regulated",
+            "labels": "Not regulated"
+          },
+          "imdg": {
+            "unNumber": "Not regulated",
+            "description": "Not regulated as Dangerous Goods",
+            "class": "Not regulated",
+            "packingGroup": "Not regulated",
+            "labels": "Not regulated",
+            "marinePollutant": "Not applicable"
+          },
+          "otherInformation": "Not regulated for transport by road, sea, or air as per SDS Section 14."
+        }
+      },
+    
+      "uploadedDate": "2025-12-28"
+    },
+    {
+      "id": 9,
+      "materialId": "999B134843",
+      "materialName": "CRYSTAL BALMS WB* PURE COLOR ENVY COLOR REPLSH",
+      "source": "WERCS",
+      "partNumber": "999B134842",
+      "internalCode": "999B134842",
+      "synonyms": [],
+      "productType": "Mixture",
+      "intendedUse": "Personal Care Product. For professional use only.",
+      "manufacturer": "WLB Ltd.",
+      "manufacturerLocation": "Petersfield, UK",
+    
+      "aiRecommendedDGCode": "Not regulated",
+    
+      "rationaleSummary": "The Safety Data Sheet states that this mixture is not classified as hazardous under Regulation (EC) No 1272/2008 (GHS/CLP) and is not regulated as Dangerous Goods for transport. The material is a solid, not combustible, and has no assigned UN number or hazard class.",
+    
+      "ghsRationale": "Section 2 of the SDS confirms that the mixture is not classified as hazardous according to Regulation (EC) No 1272/2008 (GHS). No hazard classes, categories, pictograms, signal words, or hazard statements apply.",
+    
+      "dgRationale": "Section 14 indicates that the material is not regulated under ADR, RID, IMDG, ICAO, or IATA. The product is a solid, not combustible, with no transport hazard classification.",
+    
+      "ghsPictograms": [],
+    
+      "hazardousWaste": false,
+    
+      "sdsSheetUrl": "/public/extenders/999B134842.pdf",
+    
+      "status": "Approved",
+      "Approve/Reject Date": "2025-10-13",
+      "feedback": "",
+    
+      "sections": {
+        "section2": {
+          "classification": "Not classified as hazardous under Regulation (EC) No 1272/2008 (GHS)",
+          "hazards": [],
+          "ghsCodes": [],
+          "signalWord": "None",
+          "hazardStatements": "",
+          "precautionaryCodes": [],
+          "precautionaryStatements": "",
+          "carcinogenicity": "No information available",
+          "additionalNotes": "Supplier confirms no GHS hazard classification."
+        },
+    
+        "section3": {
+          "chemicalNature": "Personal care product mixture",
+          "description": "Solid wax-based cosmetic mixture.",
+          "composition": []
+        },
+    
+        "section9": {
+          "physicalState": "Solid",
+          "appearance": "Waxy, pale purple",
+          "odour": "Vanilla mint",
+          "color": "Pale lavender",
+          "flashPoint": "Not applicable",
+          "flammability": "Not combustible",
+          "note": "Physical form and properties do not meet criteria for flammable or hazardous classification."
+        },
+    
+        "section10": {
+          "stability": "Stable under normal conditions",
+          "reactivity": "None known",
+          "incompatibleMaterials": "None known",
+          "hazardousDecompositionProducts": "None under normal use conditions"
+        },
+    
+        "section11": {
+          "acuteToxicity": "Not classified",
+          "unknownToxicity": "Majority of components have unknown toxicity, but no hazard classification assigned",
+          "sensitization": "No information available",
+          "carcinogenicity": "No information available"
+        },
+    
+        "section12": {
+          "ecotoxicity": "Majority of components have unknown aquatic toxicity",
+          "persistence": "No information available",
+          "bioaccumulation": "No information available"
+        },
+    
+        "section14": {
+          "dot": "Not regulated",
+          "iata": {
+            "unNumber": "Not regulated",
+            "description": "Not regulated as Dangerous Goods",
+            "class": "Not regulated",
+            "packingGroup": "Not regulated",
+            "labels": "Not regulated"
+          },
+          "imdg": {
+            "unNumber": "Not regulated",
+            "description": "Not regulated as Dangerous Goods",
+            "class": "Not regulated",
+            "packingGroup": "Not regulated",
+            "labels": "Not regulated",
+            "marinePollutant": "Not applicable"
+          },
+          "otherInformation": "Not regulated for transport by road, rail, sea, or air."
+        }
+      },
+    
+      "uploadedDate": "2025-10-13"
+    },
+    {
+      "id": 10,
+      "materialId": "999B134895",
+      "materialName": "BASE OUT PURE COLOR ENVY MATTE SCULPT LIP",
+      "source": "WERCS",
+      "partNumber": "999B134892",
+      "internalCode": "999B134892",
+      "synonyms": [],
+      "productType": "Mixture",
+      "intendedUse": "Personal Care Product. For professional use only.",
+      "manufacturer": "WLB Ltd.",
+      "manufacturerLocation": "Petersfield, UK",
+    
+      "aiRecommendedDGCode": "Not regulated",
+    
+      "rationaleSummary": "The SDS classifies this product as hazardous for environmental reasons only (Chronic Aquatic Toxicity Category 3, H412). The material is a solid, not combustible, and is not regulated as Dangerous Goods for transport under ADR, RID, IMDG, ICAO, or IATA.",
+    
+      "ghsRationale": "Section 2 of the SDS assigns Chronic Aquatic Toxicity Category 3 (H412 – Harmful to aquatic life with long lasting effects). No physical hazards, acute toxicity, or health hazard classifications are assigned at the mixture level.",
+    
+      "dgRationale": "Section 14 confirms that the material is not regulated for transport by road, rail, sea, or air. The product is a solid, not combustible, with no UN number, hazard class, or packing group.",
+    
+      "ghsPictograms": [],
+    
+      "hazardousWaste": false,
+    
+      "sdsSheetUrl": "/public/extenders/999B134892.pdf",
+    
+      "status": "Rejected",
+      "Approve/Reject Date": "2025-10-08",
+      "feedback": "",
+    
+      "sections": {
+        "section2": {
+          "classification": "Chronic Aquatic Toxicity – Category 3",
+          "hazards": [
+            "Aquatic Chronic 3"
+          ],
+          "ghsCodes": [
+            "H412"
+          ],
+          "signalWord": "None",
+          "hazardStatements": "H412 – Harmful to aquatic life with long lasting effects",
+          "precautionaryCodes": [],
+          "precautionaryStatements": "",
+          "carcinogenicity": "No information available",
+          "additionalNotes": "No GHS pictograms or signal word required for Aquatic Chronic Category 3."
+        },
+    
+        "section3": {
+          "chemicalNature": "Personal care product mixture",
+          "description": "Wax-based cosmetic mixture containing silica, paraffin, mica, and minor additives.",
+          "composition": [
+            {
+              "chemicalName": "Silica",
+              "casNumber": "112945-52-5",
+              "percentage": "10–30%"
+            },
+            {
+              "chemicalName": "Paraffin",
+              "casNumber": "8002-74-2",
+              "percentage": "3–7%"
+            },
+            {
+              "chemicalName": "Mica",
+              "casNumber": "12001-26-2",
+              "percentage": "1–5%"
+            },
+            {
+              "chemicalName": "Phenoxyethanol",
+              "casNumber": "122-99-6",
+              "percentage": "<0.1%"
+            },
+            {
+              "chemicalName": "Hexylene Glycol",
+              "casNumber": "107-41-5",
+              "percentage": "<0.1%"
+            }
+          ]
+        },
+    
+        "section9": {
+          "physicalState": "Solid",
+          "appearance": "Uniform, waxy solid stick",
+          "odour": "Not offensive",
+          "color": "Pale white to off-white",
+          "flashPoint": "Not applicable",
+          "flammability": "Not combustible",
+          "note": "Physical properties do not meet DG flammability criteria."
+        },
+    
+        "section10": {
+          "stability": "Stable under normal conditions",
+          "reactivity": "None known",
+          "incompatibleMaterials": "None known",
+          "hazardousDecompositionProducts": "None under normal use conditions"
+        },
+    
+        "section11": {
+          "acuteToxicity": "Not classified",
+          "unknownToxicity": "67.3% of mixture consists of ingredients with unknown toxicity",
+          "sensitization": "No information available",
+          "carcinogenicity": "No information available",
+          "targetOrgans": [
+            "Eyes",
+            "Respiratory system",
+            "Skin"
+          ]
+        },
+    
+        "section12": {
+          "ecotoxicity": "Aquatic Chronic Category 3 (H412)",
+          "persistence": "No information available",
+          "bioaccumulation": "Low to moderate (based on component logKow values)"
+        },
+    
+        "section14": {
+          "dot": "Not regulated",
+          "iata": {
+            "unNumber": "Not regulated",
+            "description": "Not regulated as Dangerous Goods",
+            "class": "Not regulated",
+            "packingGroup": "Not regulated",
+            "labels": "Not regulated"
+          },
+          "imdg": {
+            "unNumber": "Not regulated",
+            "description": "Not regulated as Dangerous Goods",
+            "class": "Not regulated",
+            "packingGroup": "Not regulated",
+            "labels": "Not regulated",
+            "marinePollutant": "Not applicable"
+          },
+          "otherInformation": "Environmental hazard does not trigger DG transport regulation."
+        }
+      },
+    
+      "uploadedDate": "2025-10-08"
+    }
+    
+    
+    
+    
+]

@@ -1,0 +1,148 @@
+{
+  "ghs_classifications": [
+    {
+      "classification": "Flammable Liquid",
+      "category": "Category 1",
+      "signal_word": "Danger",
+      "pictograms": ["GHS02"],
+      "hazard_statements": [
+        { "code": "H224", "description": "Extremely flammable liquid and vapour" }
+      ],
+      "precautionary_statements": [
+        { "code": "P210", "description": "Keep away from heat, hot surfaces, sparks, open flames" },
+        { "code": "P233", "description": "Keep container tightly closed" },
+        { "code": "P240", "description": "Ground and bond container and receiving equipment" }
+      ]
+    },
+    {
+      "classification": "Flammable Liquid",
+      "category": "Category 2",
+      "signal_word": "Danger",
+      "pictograms": ["GHS02"],
+      "hazard_statements": [
+        { "code": "H225", "description": "Highly flammable liquid and vapour" }
+      ],
+      "precautionary_statements": [
+        { "code": "P210", "description": "Keep away from heat, sparks, open flames" },
+        { "code": "P233", "description": "Keep container tightly closed" },
+        { "code": "P240", "description": "Ground container and receiving equipment" }
+      ]
+    },
+    {
+      "classification": "Flammable Liquid",
+      "category": "Category 3",
+      "signal_word": "Warning",
+      "pictograms": ["GHS02"],
+      "hazard_statements": [
+        { "code": "H226", "description": "Flammable liquid and vapour" }
+      ],
+      "precautionary_statements": [
+        { "code": "P210", "description": "Keep away from heat and sparks" },
+        { "code": "P233", "description": "Keep container tightly closed" },
+        { "code": "P280", "description": "Wear protective gloves and eye protection" }
+      ]
+    },
+    {
+      "classification": "Acute Toxicity",
+      "category": "Category 1",
+      "signal_word": "Danger",
+      "pictograms": ["GHS06"],
+      "hazard_statements": [
+        { "code": "H300", "description": "Fatal if swallowed" },
+        { "code": "H310", "description": "Fatal in contact with skin" },
+        { "code": "H330", "description": "Fatal if inhaled" }
+      ],
+      "precautionary_statements": [
+        { "code": "P260", "description": "Do not breathe dust or fumes" },
+        { "code": "P264", "description": "Wash hands thoroughly after handling" },
+        { "code": "P270", "description": "Do not eat, drink or smoke when using this product" }
+      ]
+    },
+    {
+      "classification": "Acute Toxicity",
+      "category": "Category 3",
+      "signal_word": "Danger",
+      "pictograms": ["GHS06"],
+      "hazard_statements": [
+        { "code": "H301", "description": "Toxic if swallowed" },
+        { "code": "H311", "description": "Toxic in contact with skin" },
+        { "code": "H331", "description": "Toxic if inhaled" }
+      ],
+      "precautionary_statements": [
+        { "code": "P264", "description": "Wash thoroughly after handling" },
+        { "code": "P270", "description": "Do not eat, drink or smoke when using this product" },
+        { "code": "P280", "description": "Wear protective gloves and eye protection" }
+      ]
+    },
+    {
+      "classification": "Skin Corrosion",
+      "category": "Category 1A",
+      "signal_word": "Danger",
+      "pictograms": ["GHS05"],
+      "hazard_statements": [
+        { "code": "H314", "description": "Causes severe skin burns and eye damage" }
+      ],
+      "precautionary_statements": [
+        { "code": "P260", "description": "Do not breathe dust or mist" },
+        { "code": "P264", "description": "Wash hands thoroughly after handling" },
+        { "code": "P280", "description": "Wear protective gloves and eye protection" }
+      ]
+    },
+    {
+      "classification": "Skin Irritation",
+      "category": "Category 2",
+      "signal_word": "Warning",
+      "pictograms": ["GHS07"],
+      "hazard_statements": [
+        { "code": "H315", "description": "Causes skin irritation" }
+      ],
+      "precautionary_statements": [
+        { "code": "P264", "description": "Wash hands thoroughly after handling" },
+        { "code": "P280", "description": "Wear protective gloves" },
+        { "code": "P302", "description": "IF ON SKIN: Wash with plenty of water" }
+      ]
+    },
+    {
+      "classification": "Eye Irritation",
+      "category": "Category 2A",
+      "signal_word": "Warning",
+      "pictograms": ["GHS07"],
+      "hazard_statements": [
+        { "code": "H319", "description": "Causes serious eye irritation" }
+      ],
+      "precautionary_statements": [
+        { "code": "P264", "description": "Wash hands thoroughly after handling" },
+        { "code": "P280", "description": "Wear eye protection" },
+        { "code": "P305", "description": "IF IN EYES: Rinse cautiously with water" }
+      ]
+    },
+    {
+      "classification": "Carcinogenicity",
+      "category": "Category 1A",
+      "signal_word": "Danger",
+      "pictograms": ["GHS08"],
+      "hazard_statements": [
+        { "code": "H350", "description": "May cause cancer" }
+      ],
+      "precautionary_statements": [
+        { "code": "P201", "description": "Obtain special instructions before use" },
+        { "code": "P202", "description": "Do not handle until safety precautions are read" },
+        { "code": "P280", "description": "Wear protective gloves and clothing" }
+      ]
+    },
+    {
+      "classification": "Aquatic Toxicity",
+      "category": "Category 1",
+      "signal_word": "Warning",
+      "pictograms": ["GHS09"],
+      "hazard_statements": [
+        { "code": "H400", "description": "Very toxic to aquatic life" }
+      ],
+      "precautionary_statements": [
+        { "code": "P273", "description": "Avoid release to the environment" },
+        { "code": "P391", "description": "Collect spillage" },
+        { "code": "P501", "description": "Dispose of contents/container properly" }
+      ]
+    }
+  ]
+}

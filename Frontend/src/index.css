@@ -1,0 +1,52 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.pull-right{
+  float: right;
+}
+.m-t-5{
+  margin-top: 5px;
+}
+
+/* Override react-tooltip default dark theme for GHS tooltips */
+div[id^="ghs-"],
+.react-tooltip[id^="ghs-"] {
+  background-color: #ffffff !important;
+  background: #ffffff !important;
+  color: #1f2937 !important;
+  /* opacity: 1 !important; */
+
+  padding-right: 30px !important;
+  max-width: 650px !important;
+  width: 650px !important;
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05), 0 0 0 1px rgba(0, 0, 0, 0.05) !important;
+  -webkit-box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05), 0 0 0 1px rgba(0, 0, 0, 0.05) !important; 
+}
+
+div[id^="ghs-"] *,
+.react-tooltip[id^="ghs-"] * {
+  color: #1f2937 !important;  
+  max-width: 635px !important;
+}
+
+/* Ensure table text in GHS tooltips is dark */
+div[id^="ghs-"] table,
+div[id^="ghs-"] td,
+.react-tooltip[id^="ghs-"] table,
+.react-tooltip[id^="ghs-"] td {
+  color: #1f2937 !important;
+ 
+}  
+div[id^="ghs-"] table, 
+.react-tooltip[id^="ghs-"] table{
+  width: 96% !important;
+} 

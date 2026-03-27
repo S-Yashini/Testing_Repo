@@ -1,0 +1,57 @@
+name: Build and Push React App to ACR
+
+on:
+  push:
+    branches:
+      - dev
+    paths:
+      - 'Frontend_main/**'
+
+env:
+  ACR_LOGIN_SERVER: ${{ secrets.ACR_LOGIN_SERVER }}
+  IMAGE_NAME: ehs-ai-frontend
+
+jobs:
+  build-and-push:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Code
+      uses: actions/checkout@v3
+
+    - name: Docker Login
+      run: |
+        echo "${{ secrets.ACR_PASSWORD }}" | docker login $ACR_LOGIN_SERVER \
+        -u "${{ secrets.ACR_USERNAME }}" --password-stdin
+
+    - name: Install jq
+      run: sudo apt-get update && sudo apt-get install -y jq
+
+    - name: Generate Next Tag
+      run: |
+        TAG=$(curl -s -u ${{ secrets.ACR_USERNAME }}:${{ secrets.ACR_PASSWORD }} \
+          https://$ACR_LOGIN_SERVER/v2/${IMAGE_NAME}/tags/list | \
+          jq -r '.tags[]' | sort -V | tail -n 1)
+
+        if [ -z "$TAG" ] || [ "$TAG" = "null" ]; then
+          NEW_TAG="1.0.1"
+        else
+          VERSION=$(echo $TAG | awk -F. '{print $3}')
+          NEW_TAG="1.0.$((VERSION+1))"
+        fi
+
+        echo "NEW_TAG=$NEW_TAG" >> $GITHUB_ENV
+        echo "Using tag: $NEW_TAG"
+
+    - name: Build Image
+      run: |
+        docker build -t $ACR_LOGIN_SERVER/${IMAGE_NAME}:${NEW_TAG} ./Frontend_main
+
+    - name: Push Image
+      run: |
+        docker push $ACR_LOGIN_SERVER/${IMAGE_NAME}:${NEW_TAG}
+
+    - name: Verify Image
+      run: |
+        echo "Image pushed: $ACR_LOGIN_SERVER/${IMAGE_NAME}:${NEW_TAG}"
+ 

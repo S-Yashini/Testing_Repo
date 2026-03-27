@@ -1,0 +1,16 @@
+{
+  "9999-27-2635": [
+    { "material_code": "999A-27-2635", "material_id": 101 },
+    { "material_code": "999B-27-2635", "material_id": 102 },
+    { "material_code": "999C-27-2635", "material_id": 103 }
+  ],
+  "8888-11-1111": [
+    { "material_code": "888A-11-1111", "material_id": 201 },
+    { "material_code": "888B-11-1111", "material_id": 202 }
+  ],
+  "9999-31-8021": [
+    { "material_code": "999A-31-8021", "material_id": 101 },
+    { "material_code": "999B-31-8021", "material_id": 102 },
+    { "material_code": "999S-31-8021", "material_id": 103 }
+  ]
+}

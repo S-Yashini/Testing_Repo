@@ -1,0 +1,4175 @@
+[
+  {
+    "sdsId": "SDS001",
+    "materialId": "RM1001",
+    "materialName": "Acetone",
+    "source": "RDS",
+    "aiRecommendedDGCode": "UN1090 - Class 3",
+    "rationaleSummary": "Highly flammable liquid and vapor. Causes serious eye irritation.",
+    "ghsPictograms": [
+      "GHS02",
+      "GHS07"
+    ],
+    "status": "Rejected",
+    "feedback":"",
+    "sections": {
+      "section2": {
+        "classification": "Skin irritation, Category 2; Skin sensitisation, Category 1",
+        "hazards": [
+          "Skin irritation",
+          "Skin sensitisation"
+        ],
+        "ghsCodes": [
+          "GHS02",
+          "GHS07",
+          "H315",
+          "H317"
+        ],
+        "signalWord": "Warning",
+        "hazardStatements": "H315: Causes skin irritation. H317: May cause an allergic skin reaction.",
+        "precautionaryCodes": [
+          "P261",
+          "P280",
+          "P302+P352",
+          "P333+P313",
+          "P501"
+        ],
+        "precautionaryStatements": "P261: Avoid breathing mist or vapours. P280: Wear protective gloves. P302+P352: IF ON SKIN: Wash with plenty of soap and water. P333+P313: If skin irritation or rash occurs: Get medical advice/attention. P501: Dispose of contents/container to an approved waste disposal plant.",
+        "carcinogenicity": "No component of this product present at levels greater than or equal to 0.1% is identified as probable, possible or confirmed human carcinogen by IARC, OSHA, or NTP."
+      },
+      "section3": {
+        "chemicalNature": "Fragrance for consumer product",
+        "description": "Fragrance Compound: A multi component mixture of fragrance ingredients. The specific chemical identities of the ingredients not listed herein are considered by IFF to be Trade Secrets and are withheld in accordance with the provisions of 1910.1200 of Title29 of the U.S. Code of Federal Regulations.",
+        "composition": [
+          {
+            "chemicalName": "Octahydro Tetramethyl Naphthalenyl Ethanone",
+            "casNumber": "54464-57-2",
+            "concentration": "10–30%",
+            "ghsClassification": [
+              "Skin Irrit. 2",
+              "Skin Sens. 1"
+            ],
+            "hazardStatements": [
+              "H315",
+              "H317"
+            ]
+          }
+        ]
+      },
+      "section9": {
+        "physicalState": "liquid",
+        "appearance": "CLEAR LIQUID",
+        "odour": "conforms to standard",
+        "flashPoint": "46 °F (7.8 °C)",
+        "vapourPressure": ".03 hPa (0.03 hPa) at 68 °F (20 °C)",
+        "note": "Calculated"
+      },
+      "section14": {
+        "dot": "Not dangerous goods",
+        "iata": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9"
+        },
+        "imdg": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9",
+          "emsNumber1": "F-A",
+          "emsNumber2": "S-F",
+          "marinePollutant": "yes"
+        },
+        "otherInformation": "Shipment by ground under DOT is non-regulated; however it may be shipped per the applicable hazard classification to facilitate multi-modal transport involving ICAO (IATA) or IMO."
+      }
+    },
+    "uploadedDate": "2025-07-04"
+  },
+  {
+    "sdsId": "SDS003",
+    "materialId": "RM1003",
+    "materialName": "Methanol",
+    "source": "SAP",
+    "aiRecommendedDGCode": "UN1230 - Class 3",
+    "rationaleSummary": "Highly flammable. Toxic if swallowed, in contact with skin, or inhaled.",
+    "ghsPictograms": [
+      "GHS02",
+      "GHS06",
+      "GHS08"
+    ],
+    "status": "Approved",
+    "feedback":"",
+    "sections": {
+      "section2": {
+        "classification": "Skin irritation, Category 2; Skin sensitisation, Category 1",
+        "hazards": [
+          "Skin irritation",
+          "Skin sensitisation"
+        ],
+        "ghsCodes": [
+          "H315",
+          "H317"
+        ],
+        "signalWord": "Warning",
+        "hazardStatements": "H315: Causes skin irritation. H317: May cause an allergic skin reaction.",
+        "precautionaryCodes": [
+          "P261",
+          "P280",
+          "P302+P352",
+          "P333+P313",
+          "P501"
+        ],
+        "precautionaryStatements": "P261: Avoid breathing mist or vapours. P280: Wear protective gloves. P302+P352: IF ON SKIN: Wash with plenty of soap and water. P333+P313: If skin irritation or rash occurs: Get medical advice/attention. P501: Dispose of contents/container to an approved waste disposal plant.",
+        "carcinogenicity": "No component of this product present at levels greater than or equal to 0.1% is identified as probable, possible or confirmed human carcinogen by IARC, OSHA, or NTP."
+      },
+      "section3": {
+        "chemicalNature": "Fragrance for consumer product",
+        "description": "Fragrance Compound: A multi component mixture of fragrance ingredients. The specific chemical identities of the ingredients not listed herein are considered by IFF to be Trade Secrets and are withheld in accordance with the provisions of 1910.1200 of Title29 of the U.S. Code of Federal Regulations.",
+        "composition": [
+          {
+            "chemicalName": "Octahydro Tetramethyl Naphthalenyl Ethanone",
+            "casNumber": "54464-57-2",
+            "concentration": "10–30%",
+            "ghsClassification": [
+              "Skin Irrit. 2",
+              "Skin Sens. 1"
+            ],
+            "hazardStatements": [
+              "H315",
+              "H317"
+            ]
+          }
+        ]
+      },
+      "section9": {
+        "physicalState": "liquid",
+        "appearance": "CLEAR LIQUID",
+        "odour": "conforms to standard",
+        "flashPoint": "246 °F (119 °C)",
+        "vapourPressure": ".03 hPa (0.03 hPa) at 68 °F (20 °C)",
+        "note": "Calculated"
+      },
+      "section14": {
+        "dot": "Not dangerous goods",
+        "iata": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9"
+        },
+        "imdg": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9",
+          "emsNumber1": "F-A",
+          "emsNumber2": "S-F",
+          "marinePollutant": "yes"
+        },
+        "otherInformation": "Shipment by ground under DOT is non-regulated; however it may be shipped per the applicable hazard classification to facilitate multi-modal transport involving ICAO (IATA) or IMO."
+      }
+    },
+    "uploadedDate": "2025-07-06"
+  },
+  {
+    "sdsId": "SDS004",
+    "materialId": "RM1004",
+    "materialName": "Isopropyl Alcohol",
+    "source": "RDS",
+    "aiRecommendedDGCode": "UN1219 - Class 3",
+    "rationaleSummary": "Highly flammable liquid and vapor. Causes serious eye irritation.",
+    "ghsPictograms": [
+      "GHS02",
+      "GHS07"
+    ],
+    "status": "Approved",
+    "feedback":"",
+    "sections": {
+      "section2": {
+        "classification": "Skin irritation, Category 2; Skin sensitisation, Category 1",
+        "hazards": [
+          "Skin irritation",
+          "Skin sensitisation"
+        ],
+        "ghsCodes": [
+          "H315",
+          "H317"
+        ],
+        "signalWord": "Warning",
+        "hazardStatements": "H315: Causes skin irritation. H317: May cause an allergic skin reaction.",
+        "precautionaryCodes": [
+          "P261",
+          "P280",
+          "P302+P352",
+          "P333+P313",
+          "P501"
+        ],
+        "precautionaryStatements": "P261: Avoid breathing mist or vapours. P280: Wear protective gloves. P302+P352: IF ON SKIN: Wash with plenty of soap and water. P333+P313: If skin irritation or rash occurs: Get medical advice/attention. P501: Dispose of contents/container to an approved waste disposal plant.",
+        "carcinogenicity": "No component of this product present at levels greater than or equal to 0.1% is identified as probable, possible or confirmed human carcinogen by IARC, OSHA, or NTP."
+      },
+      "section3": {
+        "chemicalNature": "Fragrance for consumer product",
+        "description": "Fragrance Compound: A multi component mixture of fragrance ingredients. The specific chemical identities of the ingredients not listed herein are considered by IFF to be Trade Secrets and are withheld in accordance with the provisions of 1910.1200 of Title29 of the U.S. Code of Federal Regulations.",
+        "composition": [
+          {
+            "chemicalName": "Octahydro Tetramethyl Naphthalenyl Ethanone",
+            "casNumber": "54464-57-2",
+            "concentration": "10–30%",
+            "ghsClassification": [
+              "Skin Irrit. 2",
+              "Skin Sens. 1"
+            ],
+            "hazardStatements": [
+              "H315",
+              "H317"
+            ]
+          }
+        ]
+      },
+      "section9": {
+        "physicalState": "liquid",
+        "appearance": "CLEAR LIQUID",
+        "odour": "conforms to standard",
+        "flashPoint": "246 °F (119 °C)",
+        "vapourPressure": ".03 hPa (0.03 hPa) at 68 °F (20 °C)",
+        "note": "Calculated"
+      },
+      "section14": {
+        "dot": "Not dangerous goods",
+        "iata": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9"
+        },
+        "imdg": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9",
+          "emsNumber1": "F-A",
+          "emsNumber2": "S-F",
+          "marinePollutant": "yes"
+        },
+        "otherInformation": "Shipment by ground under DOT is non-regulated; however it may be shipped per the applicable hazard classification to facilitate multi-modal transport involving ICAO (IATA) or IMO."
+      }
+    },
+    "uploadedDate": "2025-07-11"
+  },
+  {
+    "sdsId": "SDS005",
+    "materialId": "RM1005",
+    "materialName": "Hydrogen Peroxide",
+    "source": "SAP",
+    "aiRecommendedDGCode": "UN2014 - Class 5.1",
+    "rationaleSummary": "May intensify fire; oxidizer. Causes severe skin burns and eye damage.",
+    "ghsPictograms": [
+      "GHS03",
+      "GHS05",
+      "GHS07"
+    ],
+    "status": "Approved",
+    "feedback":"",
+    "sections": {
+      "section2": {
+        "classification": "Skin irritation, Category 2; Skin sensitisation, Category 1",
+        "hazards": [
+          "Skin irritation",
+          "Skin sensitisation"
+        ],
+        "ghsCodes": [
+          "H315",
+          "H317"
+        ],
+        "signalWord": "Warning",
+        "hazardStatements": "H315: Causes skin irritation. H317: May cause an allergic skin reaction.",
+        "precautionaryCodes": [
+          "P261",
+          "P280",
+          "P302+P352",
+          "P333+P313",
+          "P501"
+        ],
+        "precautionaryStatements": "P261: Avoid breathing mist or vapours. P280: Wear protective gloves. P302+P352: IF ON SKIN: Wash with plenty of soap and water. P333+P313: If skin irritation or rash occurs: Get medical advice/attention. P501: Dispose of contents/container to an approved waste disposal plant.",
+        "carcinogenicity": "No component of this product present at levels greater than or equal to 0.1% is identified as probable, possible or confirmed human carcinogen by IARC, OSHA, or NTP."
+      },
+      "section3": {
+        "chemicalNature": "Fragrance for consumer product",
+        "description": "Fragrance Compound: A multi component mixture of fragrance ingredients. The specific chemical identities of the ingredients not listed herein are considered by IFF to be Trade Secrets and are withheld in accordance with the provisions of 1910.1200 of Title29 of the U.S. Code of Federal Regulations.",
+        "composition": [
+          {
+            "chemicalName": "Octahydro Tetramethyl Naphthalenyl Ethanone",
+            "casNumber": "54464-57-2",
+            "concentration": "10–30%",
+            "ghsClassification": [
+              "Skin Irrit. 2",
+              "Skin Sens. 1"
+            ],
+            "hazardStatements": [
+              "H315",
+              "H317"
+            ]
+          }
+        ]
+      },
+      "section9": {
+        "physicalState": "liquid",
+        "appearance": "CLEAR LIQUID",
+        "odour": "conforms to standard",
+        "flashPoint": "246 °F (119 °C)",
+        "vapourPressure": ".03 hPa (0.03 hPa) at 68 °F (20 °C)",
+        "note": "Calculated"
+      },
+      "section14": {
+        "dot": "Not dangerous goods",
+        "iata": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9"
+        },
+        "imdg": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9",
+          "emsNumber1": "F-A",
+          "emsNumber2": "S-F",
+          "marinePollutant": "yes"
+        },
+        "otherInformation": "Shipment by ground under DOT is non-regulated; however it may be shipped per the applicable hazard classification to facilitate multi-modal transport involving ICAO (IATA) or IMO."
+      }
+    },
+    "uploadedDate": "2025-07-11"
+  },
+  {
+    "sdsId": "SDS006",
+    "materialId": "RM1006",
+    "materialName": "Sulfuric Acid",
+    "source": "RDS",
+    "aiRecommendedDGCode": "UN1830 - Class 8",
+    "rationaleSummary": "Causes severe skin burns and eye damage. May cause respiratory irritation.",
+    "ghsPictograms": [
+      "GHS05",
+      "GHS07"
+    ],
+    "status": "Approved",
+    "feedback":"",
+    "sections": {
+      "section2": {
+        "classification": "Skin irritation, Category 2; Skin sensitisation, Category 1",
+        "hazards": [
+          "Skin irritation",
+          "Skin sensitisation"
+        ],
+        "ghsCodes": [
+          "H315",
+          "H317"
+        ],
+        "signalWord": "Warning",
+        "hazardStatements": "H315: Causes skin irritation. H317: May cause an allergic skin reaction.",
+        "precautionaryCodes": [
+          "P261",
+          "P280",
+          "P302+P352",
+          "P333+P313",
+          "P501"
+        ],
+        "precautionaryStatements": "P261: Avoid breathing mist or vapours. P280: Wear protective gloves. P302+P352: IF ON SKIN: Wash with plenty of soap and water. P333+P313: If skin irritation or rash occurs: Get medical advice/attention. P501: Dispose of contents/container to an approved waste disposal plant.",
+        "carcinogenicity": "No component of this product present at levels greater than or equal to 0.1% is identified as probable, possible or confirmed human carcinogen by IARC, OSHA, or NTP."
+      },
+      "section3": {
+        "chemicalNature": "Fragrance for consumer product",
+        "description": "Fragrance Compound: A multi component mixture of fragrance ingredients. The specific chemical identities of the ingredients not listed herein are considered by IFF to be Trade Secrets and are withheld in accordance with the provisions of 1910.1200 of Title29 of the U.S. Code of Federal Regulations.",
+        "composition": [
+          {
+            "chemicalName": "Octahydro Tetramethyl Naphthalenyl Ethanone",
+            "casNumber": "54464-57-2",
+            "concentration": "10–30%",
+            "ghsClassification": [
+              "Skin Irrit. 2",
+              "Skin Sens. 1"
+            ],
+            "hazardStatements": [
+              "H315",
+              "H317"
+            ]
+          }
+        ]
+      },
+      "section9": {
+        "physicalState": "liquid",
+        "appearance": "CLEAR LIQUID",
+        "odour": "conforms to standard",
+        "flashPoint": "246 °F (119 °C)",
+        "vapourPressure": ".03 hPa (0.03 hPa) at 68 °F (20 °C)",
+        "note": "Calculated"
+      },
+      "section14": {
+        "dot": "Not dangerous goods",
+        "iata": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9"
+        },
+        "imdg": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9",
+          "emsNumber1": "F-A",
+          "emsNumber2": "S-F",
+          "marinePollutant": "yes"
+        },
+        "otherInformation": "Shipment by ground under DOT is non-regulated; however it may be shipped per the applicable hazard classification to facilitate multi-modal transport involving ICAO (IATA) or IMO."
+      }
+    },
+    "uploadedDate": "2025-07-12"
+  },
+  {
+    "sdsId": "SDS007",
+    "materialId": "RM1007",
+    "materialName": "Ammonia Solution",
+    "source": "SAP",
+    "aiRecommendedDGCode": "UN2672 - Class 8",
+    "rationaleSummary": "Causes severe skin burns and eye damage. Toxic if inhaled.",
+    "ghsPictograms": [
+      "GHS05",
+      "GHS06",
+      "GHS09"
+    ],
+    "status": "Approved",
+    "sections": {
+      "section2": {
+        "classification": "Skin irritation, Category 2; Skin sensitisation, Category 1",
+        "hazards": [
+          "Skin irritation",
+          "Skin sensitisation"
+        ],
+        "ghsCodes": [
+          "H315",
+          "H317"
+        ],
+        "signalWord": "Warning",
+        "hazardStatements": "H315: Causes skin irritation. H317: May cause an allergic skin reaction.",
+        "precautionaryCodes": [
+          "P261",
+          "P280",
+          "P302+P352",
+          "P333+P313",
+          "P501"
+        ],
+        "precautionaryStatements": "P261: Avoid breathing mist or vapours. P280: Wear protective gloves. P302+P352: IF ON SKIN: Wash with plenty of soap and water. P333+P313: If skin irritation or rash occurs: Get medical advice/attention. P501: Dispose of contents/container to an approved waste disposal plant.",
+        "carcinogenicity": "No component of this product present at levels greater than or equal to 0.1% is identified as probable, possible or confirmed human carcinogen by IARC, OSHA, or NTP."
+      },
+      "section3": {
+        "chemicalNature": "Fragrance for consumer product",
+        "description": "Fragrance Compound: A multi component mixture of fragrance ingredients. The specific chemical identities of the ingredients not listed herein are considered by IFF to be Trade Secrets and are withheld in accordance with the provisions of 1910.1200 of Title29 of the U.S. Code of Federal Regulations.",
+        "composition": [
+          {
+            "chemicalName": "Octahydro Tetramethyl Naphthalenyl Ethanone",
+            "casNumber": "54464-57-2",
+            "concentration": "10–30%",
+            "ghsClassification": [
+              "Skin Irrit. 2",
+              "Skin Sens. 1"
+            ],
+            "hazardStatements": [
+              "H315",
+              "H317"
+            ]
+          }
+        ]
+      },
+      "section9": {
+        "physicalState": "liquid",
+        "appearance": "CLEAR LIQUID",
+        "odour": "conforms to standard",
+        "flashPoint": "246 °F (119 °C)",
+        "vapourPressure": ".03 hPa (0.03 hPa) at 68 °F (20 °C)",
+        "note": "Calculated"
+      },
+      "section14": {
+        "dot": "Not dangerous goods",
+        "iata": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9"
+        },
+        "imdg": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9",
+          "emsNumber1": "F-A",
+          "emsNumber2": "S-F",
+          "marinePollutant": "yes"
+        },
+        "otherInformation": "Shipment by ground under DOT is non-regulated; however it may be shipped per the applicable hazard classification to facilitate multi-modal transport involving ICAO (IATA) or IMO."
+      }
+    },
+    "uploadedDate": "2025-07-22"
+  },
+  {
+    "sdsId": "SDS008",
+    "materialId": "RM1008",
+    "materialName": "Toluene",
+    "source": "RDS",
+    "aiRecommendedDGCode": "UN1294 - Class 3",
+    "rationaleSummary": "Highly flammable liquid and vapor. May cause drowsiness.",
+    "ghsPictograms": [
+      "GHS02",
+      "GHS07",
+      "GHS08"
+    ],
+    "status": "Approved",
+    "sections": {
+      "section2": {
+        "classification": "Skin irritation, Category 2; Skin sensitisation, Category 1",
+        "hazards": [
+          "Skin irritation",
+          "Skin sensitisation"
+        ],
+        "ghsCodes": [
+          "H315",
+          "H317"
+        ],
+        "signalWord": "Warning",
+        "hazardStatements": "H315: Causes skin irritation. H317: May cause an allergic skin reaction.",
+        "precautionaryCodes": [
+          "P261",
+          "P280",
+          "P302+P352",
+          "P333+P313",
+          "P501"
+        ],
+        "precautionaryStatements": "P261: Avoid breathing mist or vapours. P280: Wear protective gloves. P302+P352: IF ON SKIN: Wash with plenty of soap and water. P333+P313: If skin irritation or rash occurs: Get medical advice/attention. P501: Dispose of contents/container to an approved waste disposal plant.",
+        "carcinogenicity": "No component of this product present at levels greater than or equal to 0.1% is identified as probable, possible or confirmed human carcinogen by IARC, OSHA, or NTP."
+      },
+      "section3": {
+        "chemicalNature": "Fragrance for consumer product",
+        "description": "Fragrance Compound: A multi component mixture of fragrance ingredients. The specific chemical identities of the ingredients not listed herein are considered by IFF to be Trade Secrets and are withheld in accordance with the provisions of 1910.1200 of Title29 of the U.S. Code of Federal Regulations.",
+        "composition": [
+          {
+            "chemicalName": "Octahydro Tetramethyl Naphthalenyl Ethanone",
+            "casNumber": "54464-57-2",
+            "concentration": "10–30%",
+            "ghsClassification": [
+              "Skin Irrit. 2",
+              "Skin Sens. 1"
+            ],
+            "hazardStatements": [
+              "H315",
+              "H317"
+            ]
+          }
+        ]
+      },
+      "section9": {
+        "physicalState": "liquid",
+        "appearance": "CLEAR LIQUID",
+        "odour": "conforms to standard",
+        "flashPoint": "246 °F (119 °C)",
+        "vapourPressure": ".03 hPa (0.03 hPa) at 68 °F (20 °C)",
+        "note": "Calculated"
+      },
+      "section14": {
+        "dot": "Not dangerous goods",
+        "iata": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9"
+        },
+        "imdg": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9",
+          "emsNumber1": "F-A",
+          "emsNumber2": "S-F",
+          "marinePollutant": "yes"
+        },
+        "otherInformation": "Shipment by ground under DOT is non-regulated; however it may be shipped per the applicable hazard classification to facilitate multi-modal transport involving ICAO (IATA) or IMO."
+      }
+    },
+    "uploadedDate": "2025-07-30"
+  },
+  {
+    "sdsId": "SDS009",
+    "materialId": "RM1009",
+    "materialName": "Sodium Hydroxide",
+    "source": "RDS",
+    "aiRecommendedDGCode": "UN1823 - Class 8",
+    "rationaleSummary": "Causes severe skin burns and eye damage. May be corrosive to metals.",
+    "ghsPictograms": [
+      "GHS05"
+    ],
+    "status": "Rejected",
+    "feedback":"",
+    "sections": {
+      "section2": {
+        "classification": "Skin irritation, Category 2; Skin sensitisation, Category 1",
+        "hazards": [
+          "Skin irritation",
+          "Skin sensitisation"
+        ],
+        "ghsCodes": [
+          "H315",
+          "H317"
+        ],
+        "signalWord": "Warning",
+        "hazardStatements": "H315: Causes skin irritation. H317: May cause an allergic skin reaction.",
+        "precautionaryCodes": [
+          "P261",
+          "P280",
+          "P302+P352",
+          "P333+P313",
+          "P501"
+        ],
+        "precautionaryStatements": "P261: Avoid breathing mist or vapours. P280: Wear protective gloves. P302+P352: IF ON SKIN: Wash with plenty of soap and water. P333+P313: If skin irritation or rash occurs: Get medical advice/attention. P501: Dispose of contents/container to an approved waste disposal plant.",
+        "carcinogenicity": "No component of this product present at levels greater than or equal to 0.1% is identified as probable, possible or confirmed human carcinogen by IARC, OSHA, or NTP."
+      },
+      "section3": {
+        "chemicalNature": "Fragrance for consumer product",
+        "description": "Fragrance Compound: A multi component mixture of fragrance ingredients. The specific chemical identities of the ingredients not listed herein are considered by IFF to be Trade Secrets and are withheld in accordance with the provisions of 1910.1200 of Title29 of the U.S. Code of Federal Regulations.",
+        "composition": [
+          {
+            "chemicalName": "Octahydro Tetramethyl Naphthalenyl Ethanone",
+            "casNumber": "54464-57-2",
+            "concentration": "10–30%",
+            "ghsClassification": [
+              "Skin Irrit. 2",
+              "Skin Sens. 1"
+            ],
+            "hazardStatements": [
+              "H315",
+              "H317"
+            ]
+          }
+        ]
+      },
+      "section9": {
+        "physicalState": "liquid",
+        "appearance": "CLEAR LIQUID",
+        "odour": "conforms to standard",
+        "flashPoint": "246 °F (119 °C)",
+        "vapourPressure": ".03 hPa (0.03 hPa) at 68 °F (20 °C)",
+        "note": "Calculated"
+      },
+      "section14": {
+        "dot": "Not dangerous goods",
+        "iata": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9"
+        },
+        "imdg": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9",
+          "emsNumber1": "F-A",
+          "emsNumber2": "S-F",
+          "marinePollutant": "yes"
+        },
+        "otherInformation": "Shipment by ground under DOT is non-regulated; however it may be shipped per the applicable hazard classification to facilitate multi-modal transport involving ICAO (IATA) or IMO."
+      }
+    },
+    "uploadedDate": "2025-07-31"
+  },
+  {
+    "sdsId": "SDS010",
+    "materialId": "RM1010",
+    "materialName": "Nitric Acid",
+    "source": "SAP",
+    "aiRecommendedDGCode": "UN2031 - Class 8",
+    "rationaleSummary": "May intensify fire; oxidizer. Causes severe skin burns.",
+    "ghsPictograms": [
+      "GHS03",
+      "GHS05",
+      "GHS07"
+    ],
+    "status": "Approved",
+    "feedback":"",
+    "sections": {
+      "section2": {
+        "classification": "Skin irritation, Category 2; Skin sensitisation, Category 1",
+        "hazards": [
+          "Skin irritation",
+          "Skin sensitisation"
+        ],
+        "ghsCodes": [
+          "H315",
+          "H317"
+        ],
+        "signalWord": "Warning",
+        "hazardStatements": "H315: Causes skin irritation. H317: May cause an allergic skin reaction.",
+        "precautionaryCodes": [
+          "P261",
+          "P280",
+          "P302+P352",
+          "P333+P313",
+          "P501"
+        ],
+        "precautionaryStatements": "P261: Avoid breathing mist or vapours. P280: Wear protective gloves. P302+P352: IF ON SKIN: Wash with plenty of soap and water. P333+P313: If skin irritation or rash occurs: Get medical advice/attention. P501: Dispose of contents/container to an approved waste disposal plant.",
+        "carcinogenicity": "No component of this product present at levels greater than or equal to 0.1% is identified as probable, possible or confirmed human carcinogen by IARC, OSHA, or NTP."
+      },
+      "section3": {
+        "chemicalNature": "Fragrance for consumer product",
+        "description": "Fragrance Compound: A multi component mixture of fragrance ingredients. The specific chemical identities of the ingredients not listed herein are considered by IFF to be Trade Secrets and are withheld in accordance with the provisions of 1910.1200 of Title29 of the U.S. Code of Federal Regulations.",
+        "composition": [
+          {
+            "chemicalName": "Octahydro Tetramethyl Naphthalenyl Ethanone",
+            "casNumber": "54464-57-2",
+            "concentration": "10–30%",
+            "ghsClassification": [
+              "Skin Irrit. 2",
+              "Skin Sens. 1"
+            ],
+            "hazardStatements": [
+              "H315",
+              "H317"
+            ]
+          }
+        ]
+      },
+      "section9": {
+        "physicalState": "liquid",
+        "appearance": "CLEAR LIQUID",
+        "odour": "conforms to standard",
+        "flashPoint": "246 °F (119 °C)",
+        "vapourPressure": ".03 hPa (0.03 hPa) at 68 °F (20 °C)",
+        "note": "Calculated"
+      },
+      "section14": {
+        "dot": "Not dangerous goods",
+        "iata": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9"
+        },
+        "imdg": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9",
+          "emsNumber1": "F-A",
+          "emsNumber2": "S-F",
+          "marinePollutant": "yes"
+        },
+        "otherInformation": "Shipment by ground under DOT is non-regulated; however it may be shipped per the applicable hazard classification to facilitate multi-modal transport involving ICAO (IATA) or IMO."
+      }
+    },
+    "uploadedDate": "2025-08-02"
+  },
+  {
+    "sdsId": "SDS011",
+    "materialId": "RM1011",
+    "materialName": "Acetic Acid Glacial",
+    "source": "RDS",
+    "aiRecommendedDGCode": "UN2789 - Class 8",
+    "rationaleSummary": "Flammable liquid. Causes severe skin burns and eye damage.",
+    "ghsPictograms": [
+      "GHS02",
+      "GHS05"
+    ],
+    "status": "Rejected",
+    "feedback":"",
+    "sections": {
+      "section2": {
+        "classification": "Skin irritation, Category 2; Skin sensitisation, Category 1",
+        "hazards": [
+          "Skin irritation",
+          "Skin sensitisation"
+        ],
+        "ghsCodes": [
+          "H315",
+          "H317"
+        ],
+        "signalWord": "Warning",
+        "hazardStatements": "H315: Causes skin irritation. H317: May cause an allergic skin reaction.",
+        "precautionaryCodes": [
+          "P261",
+          "P280",
+          "P302+P352",
+          "P333+P313",
+          "P501"
+        ],
+        "precautionaryStatements": "P261: Avoid breathing mist or vapours. P280: Wear protective gloves. P302+P352: IF ON SKIN: Wash with plenty of soap and water. P333+P313: If skin irritation or rash occurs: Get medical advice/attention. P501: Dispose of contents/container to an approved waste disposal plant.",
+        "carcinogenicity": "No component of this product present at levels greater than or equal to 0.1% is identified as probable, possible or confirmed human carcinogen by IARC, OSHA, or NTP."
+      },
+      "section3": {
+        "chemicalNature": "Fragrance for consumer product",
+        "description": "Fragrance Compound: A multi component mixture of fragrance ingredients. The specific chemical identities of the ingredients not listed herein are considered by IFF to be Trade Secrets and are withheld in accordance with the provisions of 1910.1200 of Title29 of the U.S. Code of Federal Regulations.",
+        "composition": [
+          {
+            "chemicalName": "Octahydro Tetramethyl Naphthalenyl Ethanone",
+            "casNumber": "54464-57-2",
+            "concentration": "10–30%",
+            "ghsClassification": [
+              "Skin Irrit. 2",
+              "Skin Sens. 1"
+            ],
+            "hazardStatements": [
+              "H315",
+              "H317"
+            ]
+          }
+        ]
+      },
+      "section9": {
+        "physicalState": "liquid",
+        "appearance": "CLEAR LIQUID",
+        "odour": "conforms to standard",
+        "flashPoint": "246 °F (119 °C)",
+        "vapourPressure": ".03 hPa (0.03 hPa) at 68 °F (20 °C)",
+        "note": "Calculated"
+      },
+      "section14": {
+        "dot": "Not dangerous goods",
+        "iata": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9"
+        },
+        "imdg": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9",
+          "emsNumber1": "F-A",
+          "emsNumber2": "S-F",
+          "marinePollutant": "yes"
+        },
+        "otherInformation": "Shipment by ground under DOT is non-regulated; however it may be shipped per the applicable hazard classification to facilitate multi-modal transport involving ICAO (IATA) or IMO."
+      }
+    },
+    "uploadedDate": "2025-08-16"
+  },
+  {
+    "sdsId": "SDS012",
+    "materialId": "RM1012",
+    "materialName": "Formaldehyde Solution",
+    "source": "SAP",
+    "aiRecommendedDGCode": "UN2209 - Class 3",
+    "rationaleSummary": "Flammable liquid. Suspected of causing cancer.",
+    "ghsPictograms": [
+      "GHS02",
+      "GHS06",
+      "GHS07",
+      "GHS08"
+    ],
+    "status": "Approved",
+    "feedback":"",
+    "sections": {
+      "section2": {
+        "classification": "Skin irritation, Category 2; Skin sensitisation, Category 1",
+        "hazards": [
+          "Skin irritation",
+          "Skin sensitisation"
+        ],
+        "ghsCodes": [
+          "H315",
+          "H317"
+        ],
+        "signalWord": "Warning",
+        "hazardStatements": "H315: Causes skin irritation. H317: May cause an allergic skin reaction.",
+        "precautionaryCodes": [
+          "P261",
+          "P280",
+          "P302+P352",
+          "P333+P313",
+          "P501"
+        ],
+        "precautionaryStatements": "P261: Avoid breathing mist or vapours. P280: Wear protective gloves. P302+P352: IF ON SKIN: Wash with plenty of soap and water. P333+P313: If skin irritation or rash occurs: Get medical advice/attention. P501: Dispose of contents/container to an approved waste disposal plant.",
+        "carcinogenicity": "No component of this product present at levels greater than or equal to 0.1% is identified as probable, possible or confirmed human carcinogen by IARC, OSHA, or NTP."
+      },
+      "section3": {
+        "chemicalNature": "Fragrance for consumer product",
+        "description": "Fragrance Compound: A multi component mixture of fragrance ingredients. The specific chemical identities of the ingredients not listed herein are considered by IFF to be Trade Secrets and are withheld in accordance with the provisions of 1910.1200 of Title29 of the U.S. Code of Federal Regulations.",
+        "composition": [
+          {
+            "chemicalName": "Octahydro Tetramethyl Naphthalenyl Ethanone",
+            "casNumber": "54464-57-2",
+            "concentration": "10–30%",
+            "ghsClassification": [
+              "Skin Irrit. 2",
+              "Skin Sens. 1"
+            ],
+            "hazardStatements": [
+              "H315",
+              "H317"
+            ]
+          }
+        ]
+      },
+      "section9": {
+        "physicalState": "liquid",
+        "appearance": "CLEAR LIQUID",
+        "odour": "conforms to standard",
+        "flashPoint": "246 °F (119 °C)",
+        "vapourPressure": ".03 hPa (0.03 hPa) at 68 °F (20 °C)",
+        "note": "Calculated"
+      },
+      "section14": {
+        "dot": "Not dangerous goods",
+        "iata": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9"
+        },
+        "imdg": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9",
+          "emsNumber1": "F-A",
+          "emsNumber2": "S-F",
+          "marinePollutant": "yes"
+        },
+        "otherInformation": "Shipment by ground under DOT is non-regulated; however it may be shipped per the applicable hazard classification to facilitate multi-modal transport involving ICAO (IATA) or IMO."
+      }
+    },
+    "uploadedDate": "2025-08-19"
+  },
+  {
+    "sdsId": "SDS013",
+    "materialId": "RM1013",
+    "materialName": "Phosphoric Acid 85%",
+    "source": "RDS",
+    "aiRecommendedDGCode": "UN1805 - Class 8",
+    "rationaleSummary": "Causes severe skin burns and serious eye damage.",
+    "ghsPictograms": [
+      "GHS05"
+    ],
+    "status": "Rejected",
+    "feedback":"",
+    "sections": {
+      "section2": {
+        "classification": "Skin irritation, Category 2; Skin sensitisation, Category 1",
+        "hazards": [
+          "Skin irritation",
+          "Skin sensitisation"
+        ],
+        "ghsCodes": [
+          "H315",
+          "H317"
+        ],
+        "signalWord": "Warning",
+        "hazardStatements": "H315: Causes skin irritation. H317: May cause an allergic skin reaction.",
+        "precautionaryCodes": [
+          "P261",
+          "P280",
+          "P302+P352",
+          "P333+P313",
+          "P501"
+        ],
+        "precautionaryStatements": "P261: Avoid breathing mist or vapours. P280: Wear protective gloves. P302+P352: IF ON SKIN: Wash with plenty of soap and water. P333+P313: If skin irritation or rash occurs: Get medical advice/attention. P501: Dispose of contents/container to an approved waste disposal plant.",
+        "carcinogenicity": "No component of this product present at levels greater than or equal to 0.1% is identified as probable, possible or confirmed human carcinogen by IARC, OSHA, or NTP."
+      },
+      "section3": {
+        "chemicalNature": "Fragrance for consumer product",
+        "description": "Fragrance Compound: A multi component mixture of fragrance ingredients. The specific chemical identities of the ingredients not listed herein are considered by IFF to be Trade Secrets and are withheld in accordance with the provisions of 1910.1200 of Title29 of the U.S. Code of Federal Regulations.",
+        "composition": [
+          {
+            "chemicalName": "Octahydro Tetramethyl Naphthalenyl Ethanone",
+            "casNumber": "54464-57-2",
+            "concentration": "10–30%",
+            "ghsClassification": [
+              "Skin Irrit. 2",
+              "Skin Sens. 1"
+            ],
+            "hazardStatements": [
+              "H315",
+              "H317"
+            ]
+          }
+        ]
+      },
+      "section9": {
+        "physicalState": "liquid",
+        "appearance": "CLEAR LIQUID",
+        "odour": "conforms to standard",
+        "flashPoint": "246 °F (119 °C)",
+        "vapourPressure": ".03 hPa (0.03 hPa) at 68 °F (20 °C)",
+        "note": "Calculated"
+      },
+      "section14": {
+        "dot": "Not dangerous goods",
+        "iata": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9"
+        },
+        "imdg": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9",
+          "emsNumber1": "F-A",
+          "emsNumber2": "S-F",
+          "marinePollutant": "yes"
+        },
+        "otherInformation": "Shipment by ground under DOT is non-regulated; however it may be shipped per the applicable hazard classification to facilitate multi-modal transport involving ICAO (IATA) or IMO."
+      }
+    },
+    "uploadedDate": "2025-08-27"
+  },
+  {
+    "sdsId": "SDS014",
+    "materialId": "RM1014",
+    "materialName": "Xylene Mixed Isomers",
+    "source": "SAP",
+    "aiRecommendedDGCode": "UN1307 - Class 3",
+    "rationaleSummary": "Highly flammable liquid and vapor. May cause drowsiness.",
+    "ghsPictograms": [
+      "GHS02",
+      "GHS07",
+      "GHS08"
+    ],
+    "status": "Approved",
+    "feedback":"",
+    "sections": {
+      "section2": {
+        "classification": "Skin irritation, Category 2; Skin sensitisation, Category 1",
+        "hazards": [
+          "Skin irritation",
+          "Skin sensitisation"
+        ],
+        "ghsCodes": [
+          "H315",
+          "H317"
+        ],
+        "signalWord": "Warning",
+        "hazardStatements": "H315: Causes skin irritation. H317: May cause an allergic skin reaction.",
+        "precautionaryCodes": [
+          "P261",
+          "P280",
+          "P302+P352",
+          "P333+P313",
+          "P501"
+        ],
+        "precautionaryStatements": "P261: Avoid breathing mist or vapours. P280: Wear protective gloves. P302+P352: IF ON SKIN: Wash with plenty of soap and water. P333+P313: If skin irritation or rash occurs: Get medical advice/attention. P501: Dispose of contents/container to an approved waste disposal plant.",
+        "carcinogenicity": "No component of this product present at levels greater than or equal to 0.1% is identified as probable, possible or confirmed human carcinogen by IARC, OSHA, or NTP."
+      },
+      "section3": {
+        "chemicalNature": "Fragrance for consumer product",
+        "description": "Fragrance Compound: A multi component mixture of fragrance ingredients. The specific chemical identities of the ingredients not listed herein are considered by IFF to be Trade Secrets and are withheld in accordance with the provisions of 1910.1200 of Title29 of the U.S. Code of Federal Regulations.",
+        "composition": [
+          {
+            "chemicalName": "Octahydro Tetramethyl Naphthalenyl Ethanone",
+            "casNumber": "54464-57-2",
+            "concentration": "10–30%",
+            "ghsClassification": [
+              "Skin Irrit. 2",
+              "Skin Sens. 1"
+            ],
+            "hazardStatements": [
+              "H315",
+              "H317"
+            ]
+          }
+        ]
+      },
+      "section9": {
+        "physicalState": "liquid",
+        "appearance": "CLEAR LIQUID",
+        "odour": "conforms to standard",
+        "flashPoint": "246 °F (119 °C)",
+        "vapourPressure": ".03 hPa (0.03 hPa) at 68 °F (20 °C)",
+        "note": "Calculated"
+      },
+      "section14": {
+        "dot": "Not dangerous goods",
+        "iata": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9"
+        },
+        "imdg": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9",
+          "emsNumber1": "F-A",
+          "emsNumber2": "S-F",
+          "marinePollutant": "yes"
+        },
+        "otherInformation": "Shipment by ground under DOT is non-regulated; however it may be shipped per the applicable hazard classification to facilitate multi-modal transport involving ICAO (IATA) or IMO."
+      }
+    },
+    "uploadedDate": "2025-08-28"
+  },
+  {
+    "sdsId": "SDS015",
+    "materialId": "RM1015",
+    "materialName": "Calcium Hypochlorite",
+    "source": "RDS",
+    "aiRecommendedDGCode": "UN2880 - Class 5.1",
+    "rationaleSummary": "May intensify fire; strong oxidizer. Causes skin burns.",
+    "ghsPictograms": [
+      "GHS03",
+      "GHS05",
+      "GHS07"
+    ],
+    "status": "Approved",
+    "feedback":"",
+    "sections": {
+      "section2": {
+        "classification": "Skin irritation, Category 2; Skin sensitisation, Category 1",
+        "hazards": [
+          "Skin irritation",
+          "Skin sensitisation"
+        ],
+        "ghsCodes": [
+          "H315",
+          "H317"
+        ],
+        "signalWord": "Warning",
+        "hazardStatements": "H315: Causes skin irritation. H317: May cause an allergic skin reaction.",
+        "precautionaryCodes": [
+          "P261",
+          "P280",
+          "P302+P352",
+          "P333+P313",
+          "P501"
+        ],
+        "precautionaryStatements": "P261: Avoid breathing mist or vapours. P280: Wear protective gloves. P302+P352: IF ON SKIN: Wash with plenty of soap and water. P333+P313: If skin irritation or rash occurs: Get medical advice/attention. P501: Dispose of contents/container to an approved waste disposal plant.",
+        "carcinogenicity": "No component of this product present at levels greater than or equal to 0.1% is identified as probable, possible or confirmed human carcinogen by IARC, OSHA, or NTP."
+      },
+      "section3": {
+        "chemicalNature": "Fragrance for consumer product",
+        "description": "Fragrance Compound: A multi component mixture of fragrance ingredients. The specific chemical identities of the ingredients not listed herein are considered by IFF to be Trade Secrets and are withheld in accordance with the provisions of 1910.1200 of Title29 of the U.S. Code of Federal Regulations.",
+        "composition": [
+          {
+            "chemicalName": "Octahydro Tetramethyl Naphthalenyl Ethanone",
+            "casNumber": "54464-57-2",
+            "concentration": "10–30%",
+            "ghsClassification": [
+              "Skin Irrit. 2",
+              "Skin Sens. 1"
+            ],
+            "hazardStatements": [
+              "H315",
+              "H317"
+            ]
+          }
+        ]
+      },
+      "section9": {
+        "physicalState": "liquid",
+        "appearance": "CLEAR LIQUID",
+        "odour": "conforms to standard",
+        "flashPoint": "246 °F (119 °C)",
+        "vapourPressure": ".03 hPa (0.03 hPa) at 68 °F (20 °C)",
+        "note": "Calculated"
+      },
+      "section14": {
+        "dot": "Not dangerous goods",
+        "iata": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9"
+        },
+        "imdg": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9",
+          "emsNumber1": "F-A",
+          "emsNumber2": "S-F",
+          "marinePollutant": "yes"
+        },
+        "otherInformation": "Shipment by ground under DOT is non-regulated; however it may be shipped per the applicable hazard classification to facilitate multi-modal transport involving ICAO (IATA) or IMO."
+      }
+    },
+    "uploadedDate": "2025-08-30"
+  },
+  {
+    "sdsId": "SDS016",
+    "materialId": "RM1016",
+    "materialName": "Sodium Hypochlorite 12%",
+    "source": "SAP",
+    "aiRecommendedDGCode": "UN1791 - Class 8",
+    "rationaleSummary": "Causes severe skin burns and eye damage.",
+    "ghsPictograms": [
+      "GHS05",
+      "GHS09"
+    ],
+    "status": "Approved",
+    "feedback":"",
+    "sections": {
+      "section2": {
+        "classification": "Skin irritation, Category 2; Skin sensitisation, Category 1",
+        "hazards": [
+          "Skin irritation",
+          "Skin sensitisation"
+        ],
+        "ghsCodes": [
+          "H315",
+          "H317"
+        ],
+        "signalWord": "Warning",
+        "hazardStatements": "H315: Causes skin irritation. H317: May cause an allergic skin reaction.",
+        "precautionaryCodes": [
+          "P261",
+          "P280",
+          "P302+P352",
+          "P333+P313",
+          "P501"
+        ],
+        "precautionaryStatements": "P261: Avoid breathing mist or vapours. P280: Wear protective gloves. P302+P352: IF ON SKIN: Wash with plenty of soap and water. P333+P313: If skin irritation or rash occurs: Get medical advice/attention. P501: Dispose of contents/container to an approved waste disposal plant.",
+        "carcinogenicity": "No component of this product present at levels greater than or equal to 0.1% is identified as probable, possible or confirmed human carcinogen by IARC, OSHA, or NTP."
+      },
+      "section3": {
+        "chemicalNature": "Fragrance for consumer product",
+        "description": "Fragrance Compound: A multi component mixture of fragrance ingredients. The specific chemical identities of the ingredients not listed herein are considered by IFF to be Trade Secrets and are withheld in accordance with the provisions of 1910.1200 of Title29 of the U.S. Code of Federal Regulations.",
+        "composition": [
+          {
+            "chemicalName": "Octahydro Tetramethyl Naphthalenyl Ethanone",
+            "casNumber": "54464-57-2",
+            "concentration": "10–30%",
+            "ghsClassification": [
+              "Skin Irrit. 2",
+              "Skin Sens. 1"
+            ],
+            "hazardStatements": [
+              "H315",
+              "H317"
+            ]
+          }
+        ]
+      },
+      "section9": {
+        "physicalState": "liquid",
+        "appearance": "CLEAR LIQUID",
+        "odour": "conforms to standard",
+        "flashPoint": "246 °F (119 °C)",
+        "vapourPressure": ".03 hPa (0.03 hPa) at 68 °F (20 °C)",
+        "note": "Calculated"
+      },
+      "section14": {
+        "dot": "Not dangerous goods",
+        "iata": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9"
+        },
+        "imdg": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9",
+          "emsNumber1": "F-A",
+          "emsNumber2": "S-F",
+          "marinePollutant": "yes"
+        },
+        "otherInformation": "Shipment by ground under DOT is non-regulated; however it may be shipped per the applicable hazard classification to facilitate multi-modal transport involving ICAO (IATA) or IMO."
+      }
+    },
+    "uploadedDate": "2025-09-08"
+  },
+  {
+    "sdsId": "SDS017",
+    "materialId": "RM1017",
+    "materialName": "n-Hexane",
+    "source": "RDS",
+    "aiRecommendedDGCode": "UN1208 - Class 3",
+    "rationaleSummary": "Highly flammable liquid and vapor. May cause drowsiness.",
+    "ghsPictograms": [
+      "GHS02",
+      "GHS07",
+      "GHS08"
+    ],
+    "status": "Approved",
+    "feedback":"",
+    "sections": {
+      "section2": {
+        "classification": "Skin irritation, Category 2; Skin sensitisation, Category 1",
+        "hazards": [
+          "Skin irritation",
+          "Skin sensitisation"
+        ],
+        "ghsCodes": [
+          "H315",
+          "H317"
+        ],
+        "signalWord": "Warning",
+        "hazardStatements": "H315: Causes skin irritation. H317: May cause an allergic skin reaction.",
+        "precautionaryCodes": [
+          "P261",
+          "P280",
+          "P302+P352",
+          "P333+P313",
+          "P501"
+        ],
+        "precautionaryStatements": "P261: Avoid breathing mist or vapours. P280: Wear protective gloves. P302+P352: IF ON SKIN: Wash with plenty of soap and water. P333+P313: If skin irritation or rash occurs: Get medical advice/attention. P501: Dispose of contents/container to an approved waste disposal plant.",
+        "carcinogenicity": "No component of this product present at levels greater than or equal to 0.1% is identified as probable, possible or confirmed human carcinogen by IARC, OSHA, or NTP."
+      },
+      "section3": {
+        "chemicalNature": "Fragrance for consumer product",
+        "description": "Fragrance Compound: A multi component mixture of fragrance ingredients. The specific chemical identities of the ingredients not listed herein are considered by IFF to be Trade Secrets and are withheld in accordance with the provisions of 1910.1200 of Title29 of the U.S. Code of Federal Regulations.",
+        "composition": [
+          {
+            "chemicalName": "Octahydro Tetramethyl Naphthalenyl Ethanone",
+            "casNumber": "54464-57-2",
+            "concentration": "10–30%",
+            "ghsClassification": [
+              "Skin Irrit. 2",
+              "Skin Sens. 1"
+            ],
+            "hazardStatements": [
+              "H315",
+              "H317"
+            ]
+          }
+        ]
+      },
+      "section9": {
+        "physicalState": "liquid",
+        "appearance": "CLEAR LIQUID",
+        "odour": "conforms to standard",
+        "flashPoint": "246 °F (119 °C)",
+        "vapourPressure": ".03 hPa (0.03 hPa) at 68 °F (20 °C)",
+        "note": "Calculated"
+      },
+      "section14": {
+        "dot": "Not dangerous goods",
+        "iata": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9"
+        },
+        "imdg": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9",
+          "emsNumber1": "F-A",
+          "emsNumber2": "S-F",
+          "marinePollutant": "yes"
+        },
+        "otherInformation": "Shipment by ground under DOT is non-regulated; however it may be shipped per the applicable hazard classification to facilitate multi-modal transport involving ICAO (IATA) or IMO."
+      }
+    },
+    "uploadedDate": "2025-09-09"
+  },
+  {
+    "sdsId": "SDS018",
+    "materialId": "RM1018",
+    "materialName": "Chloroform",
+    "source": "SAP",
+    "aiRecommendedDGCode": "UN1888 - Class 6.1",
+    "rationaleSummary": "Suspected of causing cancer. Toxic if swallowed.",
+    "ghsPictograms": [
+      "GHS07",
+      "GHS08"
+    ],
+    "status": "Approved",
+    "feedback":"",
+    "sections": {
+      "section2": {
+        "classification": "Skin irritation, Category 2; Skin sensitisation, Category 1",
+        "hazards": [
+          "Skin irritation",
+          "Skin sensitisation"
+        ],
+        "ghsCodes": [
+          "H315",
+          "H317"
+        ],
+        "signalWord": "Warning",
+        "hazardStatements": "H315: Causes skin irritation. H317: May cause an allergic skin reaction.",
+        "precautionaryCodes": [
+          "P261",
+          "P280",
+          "P302+P352",
+          "P333+P313",
+          "P501"
+        ],
+        "precautionaryStatements": "P261: Avoid breathing mist or vapours. P280: Wear protective gloves. P302+P352: IF ON SKIN: Wash with plenty of soap and water. P333+P313: If skin irritation or rash occurs: Get medical advice/attention. P501: Dispose of contents/container to an approved waste disposal plant.",
+        "carcinogenicity": "No component of this product present at levels greater than or equal to 0.1% is identified as probable, possible or confirmed human carcinogen by IARC, OSHA, or NTP."
+      },
+      "section3": {
+        "chemicalNature": "Fragrance for consumer product",
+        "description": "Fragrance Compound: A multi component mixture of fragrance ingredients. The specific chemical identities of the ingredients not listed herein are considered by IFF to be Trade Secrets and are withheld in accordance with the provisions of 1910.1200 of Title29 of the U.S. Code of Federal Regulations.",
+        "composition": [
+          {
+            "chemicalName": "Octahydro Tetramethyl Naphthalenyl Ethanone",
+            "casNumber": "54464-57-2",
+            "concentration": "10–30%",
+            "ghsClassification": [
+              "Skin Irrit. 2",
+              "Skin Sens. 1"
+            ],
+            "hazardStatements": [
+              "H315",
+              "H317"
+            ]
+          }
+        ]
+      },
+      "section9": {
+        "physicalState": "liquid",
+        "appearance": "CLEAR LIQUID",
+        "odour": "conforms to standard",
+        "flashPoint": "246 °F (119 °C)",
+        "vapourPressure": ".03 hPa (0.03 hPa) at 68 °F (20 °C)",
+        "note": "Calculated"
+      },
+      "section14": {
+        "dot": "Not dangerous goods",
+        "iata": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9"
+        },
+        "imdg": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9",
+          "emsNumber1": "F-A",
+          "emsNumber2": "S-F",
+          "marinePollutant": "yes"
+        },
+        "otherInformation": "Shipment by ground under DOT is non-regulated; however it may be shipped per the applicable hazard classification to facilitate multi-modal transport involving ICAO (IATA) or IMO."
+      }
+    },
+    "uploadedDate": "2025-09-09"
+  },
+  {
+    "sdsId": "SDS019",
+    "materialId": "RM1019",
+    "materialName": "Potassium Permanganate",
+    "source": "RDS",
+    "aiRecommendedDGCode": "UN1490 - Class 5.1",
+    "rationaleSummary": "May intensify fire; oxidizer. Harmful if swallowed.",
+    "ghsPictograms": [
+      "GHS03",
+      "GHS07",
+      "GHS08"
+    ],
+    "status": "Approved",
+    "feedback":"",
+    "sections": {
+      "section2": {
+        "classification": "Skin irritation, Category 2; Skin sensitisation, Category 1",
+        "hazards": [
+          "Skin irritation",
+          "Skin sensitisation"
+        ],
+        "ghsCodes": [
+          "H315",
+          "H317"
+        ],
+        "signalWord": "Warning",
+        "hazardStatements": "H315: Causes skin irritation. H317: May cause an allergic skin reaction.",
+        "precautionaryCodes": [
+          "P261",
+          "P280",
+          "P302+P352",
+          "P333+P313",
+          "P501"
+        ],
+        "precautionaryStatements": "P261: Avoid breathing mist or vapours. P280: Wear protective gloves. P302+P352: IF ON SKIN: Wash with plenty of soap and water. P333+P313: If skin irritation or rash occurs: Get medical advice/attention. P501: Dispose of contents/container to an approved waste disposal plant.",
+        "carcinogenicity": "No component of this product present at levels greater than or equal to 0.1% is identified as probable, possible or confirmed human carcinogen by IARC, OSHA, or NTP."
+      },
+      "section3": {
+        "chemicalNature": "Fragrance for consumer product",
+        "description": "Fragrance Compound: A multi component mixture of fragrance ingredients. The specific chemical identities of the ingredients not listed herein are considered by IFF to be Trade Secrets and are withheld in accordance with the provisions of 1910.1200 of Title29 of the U.S. Code of Federal Regulations.",
+        "composition": [
+          {
+            "chemicalName": "Octahydro Tetramethyl Naphthalenyl Ethanone",
+            "casNumber": "54464-57-2",
+            "concentration": "10–30%",
+            "ghsClassification": [
+              "Skin Irrit. 2",
+              "Skin Sens. 1"
+            ],
+            "hazardStatements": [
+              "H315",
+              "H317"
+            ]
+          }
+        ]
+      },
+      "section9": {
+        "physicalState": "liquid",
+        "appearance": "CLEAR LIQUID",
+        "odour": "conforms to standard",
+        "flashPoint": "246 °F (119 °C)",
+        "vapourPressure": ".03 hPa (0.03 hPa) at 68 °F (20 °C)",
+        "note": "Calculated"
+      },
+      "section14": {
+        "dot": "Not dangerous goods",
+        "iata": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9"
+        },
+        "imdg": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9",
+          "emsNumber1": "F-A",
+          "emsNumber2": "S-F",
+          "marinePollutant": "yes"
+        },
+        "otherInformation": "Shipment by ground under DOT is non-regulated; however it may be shipped per the applicable hazard classification to facilitate multi-modal transport involving ICAO (IATA) or IMO."
+      }
+    },
+    "uploadedDate": "2025-09-16"
+  },
+  {
+    "sdsId": "SDS020",
+    "materialId": "RM1020",
+    "materialName": "Diethyl Ether",
+    "source": "SAP",
+    "aiRecommendedDGCode": "UN1155 - Class 3",
+    "rationaleSummary": "Extremely flammable liquid and vapor. May cause drowsiness.",
+    "ghsPictograms": [
+      "GHS02",
+      "GHS07"
+    ],
+    "status": "Approved",
+    "feedback":"",
+    "sections": {
+      "section2": {
+        "classification": "Skin irritation, Category 2; Skin sensitisation, Category 1",
+        "hazards": [
+          "Skin irritation",
+          "Skin sensitisation"
+        ],
+        "ghsCodes": [
+          "H315",
+          "H317"
+        ],
+        "signalWord": "Warning",
+        "hazardStatements": "H315: Causes skin irritation. H317: May cause an allergic skin reaction.",
+        "precautionaryCodes": [
+          "P261",
+          "P280",
+          "P302+P352",
+          "P333+P313",
+          "P501"
+        ],
+        "precautionaryStatements": "P261: Avoid breathing mist or vapours. P280: Wear protective gloves. P302+P352: IF ON SKIN: Wash with plenty of soap and water. P333+P313: If skin irritation or rash occurs: Get medical advice/attention. P501: Dispose of contents/container to an approved waste disposal plant.",
+        "carcinogenicity": "No component of this product present at levels greater than or equal to 0.1% is identified as probable, possible or confirmed human carcinogen by IARC, OSHA, or NTP."
+      },
+      "section3": {
+        "chemicalNature": "Fragrance for consumer product",
+        "description": "Fragrance Compound: A multi component mixture of fragrance ingredients. The specific chemical identities of the ingredients not listed herein are considered by IFF to be Trade Secrets and are withheld in accordance with the provisions of 1910.1200 of Title29 of the U.S. Code of Federal Regulations.",
+        "composition": [
+          {
+            "chemicalName": "Octahydro Tetramethyl Naphthalenyl Ethanone",
+            "casNumber": "54464-57-2",
+            "concentration": "10–30%",
+            "ghsClassification": [
+              "Skin Irrit. 2",
+              "Skin Sens. 1"
+            ],
+            "hazardStatements": [
+              "H315",
+              "H317"
+            ]
+          }
+        ]
+      },
+      "section9": {
+        "physicalState": "liquid",
+        "appearance": "CLEAR LIQUID",
+        "odour": "conforms to standard",
+        "flashPoint": "246 °F (119 °C)",
+        "vapourPressure": ".03 hPa (0.03 hPa) at 68 °F (20 °C)",
+        "note": "Calculated"
+      },
+      "section14": {
+        "dot": "Not dangerous goods",
+        "iata": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9"
+        },
+        "imdg": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9",
+          "emsNumber1": "F-A",
+          "emsNumber2": "S-F",
+          "marinePollutant": "yes"
+        },
+        "otherInformation": "Shipment by ground under DOT is non-regulated; however it may be shipped per the applicable hazard classification to facilitate multi-modal transport involving ICAO (IATA) or IMO."
+      }
+    },
+    "uploadedDate": "2025-09-17"
+  },
+  {
+    "sdsId": "SDS021",
+    "materialId": "RM1021",
+    "materialName": "Hydrochloric Acid",
+    "source": "RDS",
+    "aiRecommendedDGCode": "UN1789 - Class 8",
+    "rationaleSummary": "Causes severe skin burns and eye damage. Produces corrosive mist.",
+    "ghsPictograms": [
+      "GHS05",
+      "GHS07"
+    ],
+    "status": "Approved",
+    "feedback":"",
+    "sections": {
+      "section2": {
+        "classification": "Skin irritation, Category 2; Skin sensitisation, Category 1",
+        "hazards": [
+          "Skin irritation",
+          "Skin sensitisation"
+        ],
+        "ghsCodes": [
+          "H315",
+          "H317"
+        ],
+        "signalWord": "Warning",
+        "hazardStatements": "H315: Causes skin irritation. H317: May cause an allergic skin reaction.",
+        "precautionaryCodes": [
+          "P261",
+          "P280",
+          "P302+P352",
+          "P333+P313",
+          "P501"
+        ],
+        "precautionaryStatements": "P261: Avoid breathing mist or vapours. P280: Wear protective gloves. P302+P352: IF ON SKIN: Wash with plenty of soap and water. P333+P313: If skin irritation or rash occurs: Get medical advice/attention. P501: Dispose of contents/container to an approved waste disposal plant.",
+        "carcinogenicity": "No component of this product present at levels greater than or equal to 0.1% is identified as probable, possible or confirmed human carcinogen by IARC, OSHA, or NTP."
+      },
+      "section3": {
+        "chemicalNature": "Fragrance for consumer product",
+        "description": "Fragrance Compound: A multi component mixture of fragrance ingredients. The specific chemical identities of the ingredients not listed herein are considered by IFF to be Trade Secrets and are withheld in accordance with the provisions of 1910.1200 of Title29 of the U.S. Code of Federal Regulations.",
+        "composition": [
+          {
+            "chemicalName": "Octahydro Tetramethyl Naphthalenyl Ethanone",
+            "casNumber": "54464-57-2",
+            "concentration": "10–30%",
+            "ghsClassification": [
+              "Skin Irrit. 2",
+              "Skin Sens. 1"
+            ],
+            "hazardStatements": [
+              "H315",
+              "H317"
+            ]
+          }
+        ]
+      },
+      "section9": {
+        "physicalState": "liquid",
+        "appearance": "CLEAR LIQUID",
+        "odour": "conforms to standard",
+        "flashPoint": "246 °F (119 °C)",
+        "vapourPressure": ".03 hPa (0.03 hPa) at 68 °F (20 °C)",
+        "note": "Calculated"
+      },
+      "section14": {
+        "dot": "Not dangerous goods",
+        "iata": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9"
+        },
+        "imdg": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9",
+          "emsNumber1": "F-A",
+          "emsNumber2": "S-F",
+          "marinePollutant": "yes"
+        },
+        "otherInformation": "Shipment by ground under DOT is non-regulated; however it may be shipped per the applicable hazard classification to facilitate multi-modal transport involving ICAO (IATA) or IMO."
+      }
+    },
+    "uploadedDate": "2025-09-25"
+  },
+  {
+    "sdsId": "SDS022",
+    "materialId": "RM1022",
+    "materialName": "Phenol",
+    "source": "SAP",
+    "aiRecommendedDGCode": "UN2312 - Class 6.1",
+    "rationaleSummary": "Causes severe skin burns and eye damage. Toxic if absorbed.",
+    "ghsPictograms": [
+      "GHS05",
+      "GHS06",
+      "GHS07",
+      "GHS08"
+    ],
+    "status": "Rejected",
+    "feedback":"",
+    "sections": {
+      "section2": {
+        "classification": "Skin irritation, Category 2; Skin sensitisation, Category 1",
+        "hazards": [
+          "Skin irritation",
+          "Skin sensitisation"
+        ],
+        "ghsCodes": [
+          "H315",
+          "H317"
+        ],
+        "signalWord": "Warning",
+        "hazardStatements": "H315: Causes skin irritation. H317: May cause an allergic skin reaction.",
+        "precautionaryCodes": [
+          "P261",
+          "P280",
+          "P302+P352",
+          "P333+P313",
+          "P501"
+        ],
+        "precautionaryStatements": "P261: Avoid breathing mist or vapours. P280: Wear protective gloves. P302+P352: IF ON SKIN: Wash with plenty of soap and water. P333+P313: If skin irritation or rash occurs: Get medical advice/attention. P501: Dispose of contents/container to an approved waste disposal plant.",
+        "carcinogenicity": "No component of this product present at levels greater than or equal to 0.1% is identified as probable, possible or confirmed human carcinogen by IARC, OSHA, or NTP."
+      },
+      "section3": {
+        "chemicalNature": "Fragrance for consumer product",
+        "description": "Fragrance Compound: A multi component mixture of fragrance ingredients. The specific chemical identities of the ingredients not listed herein are considered by IFF to be Trade Secrets and are withheld in accordance with the provisions of 1910.1200 of Title29 of the U.S. Code of Federal Regulations.",
+        "composition": [
+          {
+            "chemicalName": "Octahydro Tetramethyl Naphthalenyl Ethanone",
+            "casNumber": "54464-57-2",
+            "concentration": "10–30%",
+            "ghsClassification": [
+              "Skin Irrit. 2",
+              "Skin Sens. 1"
+            ],
+            "hazardStatements": [
+              "H315",
+              "H317"
+            ]
+          }
+        ]
+      },
+      "section9": {
+        "physicalState": "liquid",
+        "appearance": "CLEAR LIQUID",
+        "odour": "conforms to standard",
+        "flashPoint": "246 °F (119 °C)",
+        "vapourPressure": ".03 hPa (0.03 hPa) at 68 °F (20 °C)",
+        "note": "Calculated"
+      },
+      "section14": {
+        "dot": "Not dangerous goods",
+        "iata": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9"
+        },
+        "imdg": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9",
+          "emsNumber1": "F-A",
+          "emsNumber2": "S-F",
+          "marinePollutant": "yes"
+        },
+        "otherInformation": "Shipment by ground under DOT is non-regulated; however it may be shipped per the applicable hazard classification to facilitate multi-modal transport involving ICAO (IATA) or IMO."
+      }
+    },
+    "uploadedDate": "2025-09-27"
+  },
+  {
+    "sdsId": "SDS023",
+    "materialId": "RM1023",
+    "materialName": "Carbon Disulfide",
+    "source": "RDS",
+    "aiRecommendedDGCode": "UN1131 - Class 3",
+    "rationaleSummary": "Extremely flammable liquid and vapor. Toxic if swallowed or inhaled.",
+    "ghsPictograms": [
+      "GHS02",
+      "GHS06",
+      "GHS07",
+      "GHS08"
+    ],
+    "status": "Approved",
+    "feedback":"",
+    "sections": {
+      "section2": {
+        "classification": "Skin irritation, Category 2; Skin sensitisation, Category 1",
+        "hazards": [
+          "Skin irritation",
+          "Skin sensitisation"
+        ],
+        "ghsCodes": [
+          "H315",
+          "H317"
+        ],
+        "signalWord": "Warning",
+        "hazardStatements": "H315: Causes skin irritation. H317: May cause an allergic skin reaction.",
+        "precautionaryCodes": [
+          "P261",
+          "P280",
+          "P302+P352",
+          "P333+P313",
+          "P501"
+        ],
+        "precautionaryStatements": "P261: Avoid breathing mist or vapours. P280: Wear protective gloves. P302+P352: IF ON SKIN: Wash with plenty of soap and water. P333+P313: If skin irritation or rash occurs: Get medical advice/attention. P501: Dispose of contents/container to an approved waste disposal plant.",
+        "carcinogenicity": "No component of this product present at levels greater than or equal to 0.1% is identified as probable, possible or confirmed human carcinogen by IARC, OSHA, or NTP."
+      },
+      "section3": {
+        "chemicalNature": "Fragrance for consumer product",
+        "description": "Fragrance Compound: A multi component mixture of fragrance ingredients. The specific chemical identities of the ingredients not listed herein are considered by IFF to be Trade Secrets and are withheld in accordance with the provisions of 1910.1200 of Title29 of the U.S. Code of Federal Regulations.",
+        "composition": [
+          {
+            "chemicalName": "Octahydro Tetramethyl Naphthalenyl Ethanone",
+            "casNumber": "54464-57-2",
+            "concentration": "10–30%",
+            "ghsClassification": [
+              "Skin Irrit. 2",
+              "Skin Sens. 1"
+            ],
+            "hazardStatements": [
+              "H315",
+              "H317"
+            ]
+          }
+        ]
+      },
+      "section9": {
+        "physicalState": "liquid",
+        "appearance": "CLEAR LIQUID",
+        "odour": "conforms to standard",
+        "flashPoint": "246 °F (119 °C)",
+        "vapourPressure": ".03 hPa (0.03 hPa) at 68 °F (20 °C)",
+        "note": "Calculated"
+      },
+      "section14": {
+        "dot": "Not dangerous goods",
+        "iata": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9"
+        },
+        "imdg": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9",
+          "emsNumber1": "F-A",
+          "emsNumber2": "S-F",
+          "marinePollutant": "yes"
+        },
+        "otherInformation": "Shipment by ground under DOT is non-regulated; however it may be shipped per the applicable hazard classification to facilitate multi-modal transport involving ICAO (IATA) or IMO."
+      }
+    },
+    "uploadedDate": "2025-09-30"
+  },
+  {
+    "sdsId": "SDS024",
+    "materialId": "RM1024",
+    "materialName": "Benzene",
+    "source": "SAP",
+    "aiRecommendedDGCode": "UN1114 - Class 3",
+    "rationaleSummary": "Highly flammable. May cause cancer. May cause genetic defects.",
+    "ghsPictograms": [
+      "GHS02",
+      "GHS06",
+      "GHS08"
+    ],
+    "status": "Approved",
+    "sections": {
+      "section2": {
+        "classification": "Skin irritation, Category 2; Skin sensitisation, Category 1",
+        "hazards": [
+          "Skin irritation",
+          "Skin sensitisation"
+        ],
+        "ghsCodes": [
+          "H315",
+          "H317"
+        ],
+        "signalWord": "Warning",
+        "hazardStatements": "H315: Causes skin irritation. H317: May cause an allergic skin reaction.",
+        "precautionaryCodes": [
+          "P261",
+          "P280",
+          "P302+P352",
+          "P333+P313",
+          "P501"
+        ],
+        "precautionaryStatements": "P261: Avoid breathing mist or vapours. P280: Wear protective gloves. P302+P352: IF ON SKIN: Wash with plenty of soap and water. P333+P313: If skin irritation or rash occurs: Get medical advice/attention. P501: Dispose of contents/container to an approved waste disposal plant.",
+        "carcinogenicity": "No component of this product present at levels greater than or equal to 0.1% is identified as probable, possible or confirmed human carcinogen by IARC, OSHA, or NTP."
+      },
+      "section3": {
+        "chemicalNature": "Fragrance for consumer product",
+        "description": "Fragrance Compound: A multi component mixture of fragrance ingredients. The specific chemical identities of the ingredients not listed herein are considered by IFF to be Trade Secrets and are withheld in accordance with the provisions of 1910.1200 of Title29 of the U.S. Code of Federal Regulations.",
+        "composition": [
+          {
+            "chemicalName": "Octahydro Tetramethyl Naphthalenyl Ethanone",
+            "casNumber": "54464-57-2",
+            "concentration": "10–30%",
+            "ghsClassification": [
+              "Skin Irrit. 2",
+              "Skin Sens. 1"
+            ],
+            "hazardStatements": [
+              "H315",
+              "H317"
+            ]
+          }
+        ]
+      },
+      "section9": {
+        "physicalState": "liquid",
+        "appearance": "CLEAR LIQUID",
+        "odour": "conforms to standard",
+        "flashPoint": "246 °F (119 °C)",
+        "vapourPressure": ".03 hPa (0.03 hPa) at 68 °F (20 °C)",
+        "note": "Calculated"
+      },
+      "section14": {
+        "dot": "Not dangerous goods",
+        "iata": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9"
+        },
+        "imdg": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9",
+          "emsNumber1": "F-A",
+          "emsNumber2": "S-F",
+          "marinePollutant": "yes"
+        },
+        "otherInformation": "Shipment by ground under DOT is non-regulated; however it may be shipped per the applicable hazard classification to facilitate multi-modal transport involving ICAO (IATA) or IMO."
+      }
+    },
+    "uploadedDate": "2025-10-02"
+  },
+  {
+    "sdsId": "SDS025",
+    "materialId": "RM1024",
+    "materialName": "Potassium Permanganate",
+    "source": "RDS",
+    "aiRecommendedDGCode": "UN1805 - Class 8",
+    "rationaleSummary": "Extremely flammable liquid and vapor. May cause drowsiness.",
+    "ghsPictograms": [
+      "GHS05",
+      "GHS07"
+    ],
+    "status": "Approved",
+    "sections": {
+      "section2": {
+        "classification": "Skin irritation, Category 2; Skin sensitisation, Category 1",
+        "hazards": [
+          "Skin irritation",
+          "Skin sensitisation"
+        ],
+        "ghsCodes": [
+          "GHS02",
+          "GHS07",
+          "H315",
+          "H317"
+        ],
+        "signalWord": "Warning",
+        "hazardStatements": "H315: Causes skin irritation. H317: May cause an allergic skin reaction.",
+        "precautionaryCodes": [
+          "P261",
+          "P280",
+          "P302+P352",
+          "P333+P313",
+          "P501"
+        ],
+        "precautionaryStatements": "P261: Avoid breathing mist or vapours. P280: Wear protective gloves. P302+P352: IF ON SKIN: Wash with plenty of soap and water. P333+P313: If skin irritation or rash occurs: Get medical advice/attention. P501: Dispose of contents/container to an approved waste disposal plant.",
+        "carcinogenicity": "No component of this product present at levels greater than or equal to 0.1% is identified as probable, possible or confirmed human carcinogen by IARC, OSHA, or NTP."
+      },
+      "section3": {
+        "chemicalNature": "Fragrance for consumer product",
+        "description": "Fragrance Compound: A multi component mixture of fragrance ingredients. The specific chemical identities of the ingredients not listed herein are considered by IFF to be Trade Secrets and are withheld in accordance with the provisions of 1910.1200 of Title29 of the U.S. Code of Federal Regulations.",
+        "composition": [
+          {
+            "chemicalName": "Octahydro Tetramethyl Naphthalenyl Ethanone",
+            "casNumber": "54464-57-2",
+            "concentration": "10–30%",
+            "ghsClassification": [
+              "Skin Irrit. 2",
+              "Skin Sens. 1"
+            ],
+            "hazardStatements": [
+              "H315",
+              "H317"
+            ]
+          }
+        ]
+      },
+      "section9": {
+        "physicalState": "liquid",
+        "appearance": "CLEAR LIQUID",
+        "odour": "conforms to standard",
+        "flashPoint": "246 °F (119 °C)",
+        "vapourPressure": ".03 hPa (0.03 hPa) at 68 °F (20 °C)",
+        "note": "Calculated"
+      },
+      "section14": {
+        "dot": "Not dangerous goods",
+        "iata": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9"
+        },
+        "imdg": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9",
+          "emsNumber1": "F-A",
+          "emsNumber2": "S-F",
+          "marinePollutant": "yes"
+        },
+        "otherInformation": "Shipment by ground under DOT is non-regulated; however it may be shipped per the applicable hazard classification to facilitate multi-modal transport involving ICAO (IATA) or IMO."
+      }
+    },
+    "uploadedDate": "2025-10-04"
+  },
+  {
+    "sdsId": "SDS026",
+    "materialId": "RM1025",
+    "materialName": "Phenol",
+    "source": "RDS",
+    "aiRecommendedDGCode": "UN1307 - Class 3",
+    "rationaleSummary": "Extremely flammable liquid and vapor. Toxic if swallowed or inhaled.",
+    "ghsPictograms": [
+      "GHS05",
+      "GHS06",
+      "GHS09"
+    ],
+    "status": "Approved",
+    "sections": {
+      "section2": {
+        "classification": "Skin irritation, Category 2; Skin sensitisation, Category 1",
+        "hazards": [
+          "Skin irritation",
+          "Skin sensitisation"
+        ],
+        "ghsCodes": [
+          "GHS02",
+          "GHS07",
+          "H315",
+          "H317"
+        ],
+        "signalWord": "Warning",
+        "hazardStatements": "H315: Causes skin irritation. H317: May cause an allergic skin reaction.",
+        "precautionaryCodes": [
+          "P261",
+          "P280",
+          "P302+P352",
+          "P333+P313",
+          "P501"
+        ],
+        "precautionaryStatements": "P261: Avoid breathing mist or vapours. P280: Wear protective gloves. P302+P352: IF ON SKIN: Wash with plenty of soap and water. P333+P313: If skin irritation or rash occurs: Get medical advice/attention. P501: Dispose of contents/container to an approved waste disposal plant.",
+        "carcinogenicity": "No component of this product present at levels greater than or equal to 0.1% is identified as probable, possible or confirmed human carcinogen by IARC, OSHA, or NTP."
+      },
+      "section3": {
+        "chemicalNature": "Fragrance for consumer product",
+        "description": "Fragrance Compound: A multi component mixture of fragrance ingredients. The specific chemical identities of the ingredients not listed herein are considered by IFF to be Trade Secrets and are withheld in accordance with the provisions of 1910.1200 of Title29 of the U.S. Code of Federal Regulations.",
+        "composition": [
+          {
+            "chemicalName": "Octahydro Tetramethyl Naphthalenyl Ethanone",
+            "casNumber": "54464-57-2",
+            "concentration": "10–30%",
+            "ghsClassification": [
+              "Skin Irrit. 2",
+              "Skin Sens. 1"
+            ],
+            "hazardStatements": [
+              "H315",
+              "H317"
+            ]
+          }
+        ]
+      },
+      "section9": {
+        "physicalState": "liquid",
+        "appearance": "CLEAR LIQUID",
+        "odour": "conforms to standard",
+        "flashPoint": "246 °F (119 °C)",
+        "vapourPressure": ".03 hPa (0.03 hPa) at 68 °F (20 °C)",
+        "note": "Calculated"
+      },
+      "section14": {
+        "dot": "Not dangerous goods",
+        "iata": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9"
+        },
+        "imdg": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9",
+          "emsNumber1": "F-A",
+          "emsNumber2": "S-F",
+          "marinePollutant": "yes"
+        },
+        "otherInformation": "Shipment by ground under DOT is non-regulated; however it may be shipped per the applicable hazard classification to facilitate multi-modal transport involving ICAO (IATA) or IMO."
+      }
+    },
+    "uploadedDate": "2025-10-05"
+  },
+  {
+    "sdsId": "SDS027",
+    "materialId": "RM1026",
+    "materialName": "Hydrogen Sulfide",
+    "source": "SAP",
+    "aiRecommendedDGCode": "UN1791 - Class 8",
+    "rationaleSummary": "Highly flammable liquid and vapor. Causes serious eye irritation.",
+    "ghsPictograms": [
+      "GHS02",
+      "GHS07",
+      "GHS08"
+    ],
+    "status": "Rejected",
+    "feedback":"",
+    "sections": {
+      "section2": {
+        "classification": "Skin irritation, Category 2; Skin sensitisation, Category 1",
+        "hazards": [
+          "Skin irritation",
+          "Skin sensitisation"
+        ],
+        "ghsCodes": [
+          "GHS02",
+          "GHS07",
+          "H315",
+          "H317"
+        ],
+        "signalWord": "Warning",
+        "hazardStatements": "H315: Causes skin irritation. H317: May cause an allergic skin reaction.",
+        "precautionaryCodes": [
+          "P261",
+          "P280",
+          "P302+P352",
+          "P333+P313",
+          "P501"
+        ],
+        "precautionaryStatements": "P261: Avoid breathing mist or vapours. P280: Wear protective gloves. P302+P352: IF ON SKIN: Wash with plenty of soap and water. P333+P313: If skin irritation or rash occurs: Get medical advice/attention. P501: Dispose of contents/container to an approved waste disposal plant.",
+        "carcinogenicity": "No component of this product present at levels greater than or equal to 0.1% is identified as probable, possible or confirmed human carcinogen by IARC, OSHA, or NTP."
+      },
+      "section3": {
+        "chemicalNature": "Fragrance for consumer product",
+        "description": "Fragrance Compound: A multi component mixture of fragrance ingredients. The specific chemical identities of the ingredients not listed herein are considered by IFF to be Trade Secrets and are withheld in accordance with the provisions of 1910.1200 of Title29 of the U.S. Code of Federal Regulations.",
+        "composition": [
+          {
+            "chemicalName": "Octahydro Tetramethyl Naphthalenyl Ethanone",
+            "casNumber": "54464-57-2",
+            "concentration": "10–30%",
+            "ghsClassification": [
+              "Skin Irrit. 2",
+              "Skin Sens. 1"
+            ],
+            "hazardStatements": [
+              "H315",
+              "H317"
+            ]
+          }
+        ]
+      },
+      "section9": {
+        "physicalState": "liquid",
+        "appearance": "CLEAR LIQUID",
+        "odour": "conforms to standard",
+        "flashPoint": "246 °F (119 °C)",
+        "vapourPressure": ".03 hPa (0.03 hPa) at 68 °F (20 °C)",
+        "note": "Calculated"
+      },
+      "section14": {
+        "dot": "Not dangerous goods",
+        "iata": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9"
+        },
+        "imdg": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9",
+          "emsNumber1": "F-A",
+          "emsNumber2": "S-F",
+          "marinePollutant": "yes"
+        },
+        "otherInformation": "Shipment by ground under DOT is non-regulated; however it may be shipped per the applicable hazard classification to facilitate multi-modal transport involving ICAO (IATA) or IMO."
+      }
+    },
+    "uploadedDate": "2025-10-14"
+  },
+  {
+    "sdsId": "SDS028",
+    "materialId": "RM1027",
+    "materialName": "Triethylamine",
+    "source": "RDS",
+    "aiRecommendedDGCode": "UN1208 - Class 3",
+    "rationaleSummary": "Highly flammable. Toxic if swallowed, in contact with skin, or inhaled.",
+    "ghsPictograms": [
+      "GHS05"
+    ],
+    "status": "Approved",
+    "feedback":"",
+    "sections": {
+      "section2": {
+        "classification": "Skin irritation, Category 2; Skin sensitisation, Category 1",
+        "hazards": [
+          "Skin irritation",
+          "Skin sensitisation"
+        ],
+        "ghsCodes": [
+          "GHS02",
+          "GHS07",
+          "H315",
+          "H317"
+        ],
+        "signalWord": "Warning",
+        "hazardStatements": "H315: Causes skin irritation. H317: May cause an allergic skin reaction.",
+        "precautionaryCodes": [
+          "P261",
+          "P280",
+          "P302+P352",
+          "P333+P313",
+          "P501"
+        ],
+        "precautionaryStatements": "P261: Avoid breathing mist or vapours. P280: Wear protective gloves. P302+P352: IF ON SKIN: Wash with plenty of soap and water. P333+P313: If skin irritation or rash occurs: Get medical advice/attention. P501: Dispose of contents/container to an approved waste disposal plant.",
+        "carcinogenicity": "No component of this product present at levels greater than or equal to 0.1% is identified as probable, possible or confirmed human carcinogen by IARC, OSHA, or NTP."
+      },
+      "section3": {
+        "chemicalNature": "Fragrance for consumer product",
+        "description": "Fragrance Compound: A multi component mixture of fragrance ingredients. The specific chemical identities of the ingredients not listed herein are considered by IFF to be Trade Secrets and are withheld in accordance with the provisions of 1910.1200 of Title29 of the U.S. Code of Federal Regulations.",
+        "composition": [
+          {
+            "chemicalName": "Octahydro Tetramethyl Naphthalenyl Ethanone",
+            "casNumber": "54464-57-2",
+            "concentration": "10–30%",
+            "ghsClassification": [
+              "Skin Irrit. 2",
+              "Skin Sens. 1"
+            ],
+            "hazardStatements": [
+              "H315",
+              "H317"
+            ]
+          }
+        ]
+      },
+      "section9": {
+        "physicalState": "liquid",
+        "appearance": "CLEAR LIQUID",
+        "odour": "conforms to standard",
+        "flashPoint": "246 °F (119 °C)",
+        "vapourPressure": ".03 hPa (0.03 hPa) at 68 °F (20 °C)",
+        "note": "Calculated"
+      },
+      "section14": {
+        "dot": "Not dangerous goods",
+        "iata": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9"
+        },
+        "imdg": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9",
+          "emsNumber1": "F-A",
+          "emsNumber2": "S-F",
+          "marinePollutant": "yes"
+        },
+        "otherInformation": "Shipment by ground under DOT is non-regulated; however it may be shipped per the applicable hazard classification to facilitate multi-modal transport involving ICAO (IATA) or IMO."
+      }
+    },
+    "uploadedDate": "2025-10-15"
+  },
+  {
+    "sdsId": "SDS029",
+    "materialId": "RM1028",
+    "materialName": "Sodium Nitrite",
+    "source": "RDS",
+    "aiRecommendedDGCode": "UN1888 - Class 6.1",
+    "rationaleSummary": "May intensify fire; oxidizer. Causes severe skin burns and eye damage.",
+    "ghsPictograms": [
+      "GHS03",
+      "GHS05",
+      "GHS07"
+    ],
+    "status": "Approved",
+    "feedback":"",
+    "sections": {
+      "section2": {
+        "classification": "Skin irritation, Category 2; Skin sensitisation, Category 1",
+        "hazards": [
+          "Skin irritation",
+          "Skin sensitisation"
+        ],
+        "ghsCodes": [
+          "GHS02",
+          "GHS07",
+          "H315",
+          "H317"
+        ],
+        "signalWord": "Warning",
+        "hazardStatements": "H315: Causes skin irritation. H317: May cause an allergic skin reaction.",
+        "precautionaryCodes": [
+          "P261",
+          "P280",
+          "P302+P352",
+          "P333+P313",
+          "P501"
+        ],
+        "precautionaryStatements": "P261: Avoid breathing mist or vapours. P280: Wear protective gloves. P302+P352: IF ON SKIN: Wash with plenty of soap and water. P333+P313: If skin irritation or rash occurs: Get medical advice/attention. P501: Dispose of contents/container to an approved waste disposal plant.",
+        "carcinogenicity": "No component of this product present at levels greater than or equal to 0.1% is identified as probable, possible or confirmed human carcinogen by IARC, OSHA, or NTP."
+      },
+      "section3": {
+        "chemicalNature": "Fragrance for consumer product",
+        "description": "Fragrance Compound: A multi component mixture of fragrance ingredients. The specific chemical identities of the ingredients not listed herein are considered by IFF to be Trade Secrets and are withheld in accordance with the provisions of 1910.1200 of Title29 of the U.S. Code of Federal Regulations.",
+        "composition": [
+          {
+            "chemicalName": "Octahydro Tetramethyl Naphthalenyl Ethanone",
+            "casNumber": "54464-57-2",
+            "concentration": "10–30%",
+            "ghsClassification": [
+              "Skin Irrit. 2",
+              "Skin Sens. 1"
+            ],
+            "hazardStatements": [
+              "H315",
+              "H317"
+            ]
+          }
+        ]
+      },
+      "section9": {
+        "physicalState": "liquid",
+        "appearance": "CLEAR LIQUID",
+        "odour": "conforms to standard",
+        "flashPoint": "246 °F (119 °C)",
+        "vapourPressure": ".03 hPa (0.03 hPa) at 68 °F (20 °C)",
+        "note": "Calculated"
+      },
+      "section14": {
+        "dot": "Not dangerous goods",
+        "iata": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9"
+        },
+        "imdg": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9",
+          "emsNumber1": "F-A",
+          "emsNumber2": "S-F",
+          "marinePollutant": "yes"
+        },
+        "otherInformation": "Shipment by ground under DOT is non-regulated; however it may be shipped per the applicable hazard classification to facilitate multi-modal transport involving ICAO (IATA) or IMO."
+      }
+    },
+    "uploadedDate": "2025-10-22"
+  },
+  {
+    "sdsId": "SDS030",
+    "materialId": "RM1029",
+    "materialName": "Ethylene Oxide",
+    "source": "RDS",
+    "aiRecommendedDGCode": "UN1155 - Class 3",
+    "rationaleSummary": "Causes severe skin burns and eye damage. May cause respiratory irritation.",
+    "ghsPictograms": [
+      "GHS05",
+      "GHS07"
+    ],
+    "status": "Approved",
+    "feedback":"",
+    "sections": {
+      "section2": {
+        "classification": "Skin irritation, Category 2; Skin sensitisation, Category 1",
+        "hazards": [
+          "Skin irritation",
+          "Skin sensitisation"
+        ],
+        "ghsCodes": [
+          "GHS02",
+          "GHS07",
+          "H315",
+          "H317"
+        ],
+        "signalWord": "Warning",
+        "hazardStatements": "H315: Causes skin irritation. H317: May cause an allergic skin reaction.",
+        "precautionaryCodes": [
+          "P261",
+          "P280",
+          "P302+P352",
+          "P333+P313",
+          "P501"
+        ],
+        "precautionaryStatements": "P261: Avoid breathing mist or vapours. P280: Wear protective gloves. P302+P352: IF ON SKIN: Wash with plenty of soap and water. P333+P313: If skin irritation or rash occurs: Get medical advice/attention. P501: Dispose of contents/container to an approved waste disposal plant.",
+        "carcinogenicity": "No component of this product present at levels greater than or equal to 0.1% is identified as probable, possible or confirmed human carcinogen by IARC, OSHA, or NTP."
+      },
+      "section3": {
+        "chemicalNature": "Fragrance for consumer product",
+        "description": "Fragrance Compound: A multi component mixture of fragrance ingredients. The specific chemical identities of the ingredients not listed herein are considered by IFF to be Trade Secrets and are withheld in accordance with the provisions of 1910.1200 of Title29 of the U.S. Code of Federal Regulations.",
+        "composition": [
+          {
+            "chemicalName": "Octahydro Tetramethyl Naphthalenyl Ethanone",
+            "casNumber": "54464-57-2",
+            "concentration": "10–30%",
+            "ghsClassification": [
+              "Skin Irrit. 2",
+              "Skin Sens. 1"
+            ],
+            "hazardStatements": [
+              "H315",
+              "H317"
+            ]
+          }
+        ]
+      },
+      "section9": {
+        "physicalState": "liquid",
+        "appearance": "CLEAR LIQUID",
+        "odour": "conforms to standard",
+        "flashPoint": "246 °F (119 °C)",
+        "vapourPressure": ".03 hPa (0.03 hPa) at 68 °F (20 °C)",
+        "note": "Calculated"
+      },
+      "section14": {
+        "dot": "Not dangerous goods",
+        "iata": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9"
+        },
+        "imdg": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9",
+          "emsNumber1": "F-A",
+          "emsNumber2": "S-F",
+          "marinePollutant": "yes"
+        },
+        "otherInformation": "Shipment by ground under DOT is non-regulated; however it may be shipped per the applicable hazard classification to facilitate multi-modal transport involving ICAO (IATA) or IMO."
+      }
+    },
+    "uploadedDate": "2025-10-24"
+  },
+  {
+    "sdsId": "SDS031",
+    "materialId": "RM1030",
+    "materialName": "Acetic Acid Glacial",
+    "source": "RDS",
+    "aiRecommendedDGCode": "UN1131 - Class 3",
+    "rationaleSummary": "Causes severe skin burns and eye damage. Toxic if inhaled.",
+    "ghsPictograms": [
+      "GHS03",
+      "GHS07"
+    ],
+    "status": "Rejected",
+    "feedback":"",
+    "sections": {
+      "section2": {
+        "classification": "Skin irritation, Category 2; Skin sensitisation, Category 1",
+        "hazards": [
+          "Skin irritation",
+          "Skin sensitisation"
+        ],
+        "ghsCodes": [
+          "GHS02",
+          "GHS07",
+          "H315",
+          "H317"
+        ],
+        "signalWord": "Warning",
+        "hazardStatements": "H315: Causes skin irritation. H317: May cause an allergic skin reaction.",
+        "precautionaryCodes": [
+          "P261",
+          "P280",
+          "P302+P352",
+          "P333+P313",
+          "P501"
+        ],
+        "precautionaryStatements": "P261: Avoid breathing mist or vapours. P280: Wear protective gloves. P302+P352: IF ON SKIN: Wash with plenty of soap and water. P333+P313: If skin irritation or rash occurs: Get medical advice/attention. P501: Dispose of contents/container to an approved waste disposal plant.",
+        "carcinogenicity": "No component of this product present at levels greater than or equal to 0.1% is identified as probable, possible or confirmed human carcinogen by IARC, OSHA, or NTP."
+      },
+      "section3": {
+        "chemicalNature": "Fragrance for consumer product",
+        "description": "Fragrance Compound: A multi component mixture of fragrance ingredients. The specific chemical identities of the ingredients not listed herein are considered by IFF to be Trade Secrets and are withheld in accordance with the provisions of 1910.1200 of Title29 of the U.S. Code of Federal Regulations.",
+        "composition": [
+          {
+            "chemicalName": "Octahydro Tetramethyl Naphthalenyl Ethanone",
+            "casNumber": "54464-57-2",
+            "concentration": "10–30%",
+            "ghsClassification": [
+              "Skin Irrit. 2",
+              "Skin Sens. 1"
+            ],
+            "hazardStatements": [
+              "H315",
+              "H317"
+            ]
+          }
+        ]
+      },
+      "section9": {
+        "physicalState": "liquid",
+        "appearance": "CLEAR LIQUID",
+        "odour": "conforms to standard",
+        "flashPoint": "246 °F (119 °C)",
+        "vapourPressure": ".03 hPa (0.03 hPa) at 68 °F (20 °C)",
+        "note": "Calculated"
+      },
+      "section14": {
+        "dot": "Not dangerous goods",
+        "iata": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9"
+        },
+        "imdg": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9",
+          "emsNumber1": "F-A",
+          "emsNumber2": "S-F",
+          "marinePollutant": "yes"
+        },
+        "otherInformation": "Shipment by ground under DOT is non-regulated; however it may be shipped per the applicable hazard classification to facilitate multi-modal transport involving ICAO (IATA) or IMO."
+      }
+    },
+    "uploadedDate": "2025-10-24"
+  },
+  {
+    "sdsId": "SDS032",
+    "materialId": "RM1031",
+    "materialName": "Phosphoric Acid 85%",
+    "source": "SAP",
+    "aiRecommendedDGCode": "UN1090 - Class 3",
+    "rationaleSummary": "Highly flammable liquid and vapor. May cause drowsiness.",
+    "ghsPictograms": [
+      "GHS05",
+      "GHS06",
+      "GHS07",
+      "GHS08"
+    ],
+    "status": "Rejected",
+    "feedback":"",
+    "sections": {
+      "section2": {
+        "classification": "Skin irritation, Category 2; Skin sensitisation, Category 1",
+        "hazards": [
+          "Skin irritation",
+          "Skin sensitisation"
+        ],
+        "ghsCodes": [
+          "GHS02",
+          "GHS07",
+          "H315",
+          "H317"
+        ],
+        "signalWord": "Warning",
+        "hazardStatements": "H315: Causes skin irritation. H317: May cause an allergic skin reaction.",
+        "precautionaryCodes": [
+          "P261",
+          "P280",
+          "P302+P352",
+          "P333+P313",
+          "P501"
+        ],
+        "precautionaryStatements": "P261: Avoid breathing mist or vapours. P280: Wear protective gloves. P302+P352: IF ON SKIN: Wash with plenty of soap and water. P333+P313: If skin irritation or rash occurs: Get medical advice/attention. P501: Dispose of contents/container to an approved waste disposal plant.",
+        "carcinogenicity": "No component of this product present at levels greater than or equal to 0.1% is identified as probable, possible or confirmed human carcinogen by IARC, OSHA, or NTP."
+      },
+      "section3": {
+        "chemicalNature": "Fragrance for consumer product",
+        "description": "Fragrance Compound: A multi component mixture of fragrance ingredients. The specific chemical identities of the ingredients not listed herein are considered by IFF to be Trade Secrets and are withheld in accordance with the provisions of 1910.1200 of Title29 of the U.S. Code of Federal Regulations.",
+        "composition": [
+          {
+            "chemicalName": "Octahydro Tetramethyl Naphthalenyl Ethanone",
+            "casNumber": "54464-57-2",
+            "concentration": "10–30%",
+            "ghsClassification": [
+              "Skin Irrit. 2",
+              "Skin Sens. 1"
+            ],
+            "hazardStatements": [
+              "H315",
+              "H317"
+            ]
+          }
+        ]
+      },
+      "section9": {
+        "physicalState": "liquid",
+        "appearance": "CLEAR LIQUID",
+        "odour": "conforms to standard",
+        "flashPoint": "246 °F (119 °C)",
+        "vapourPressure": ".03 hPa (0.03 hPa) at 68 °F (20 °C)",
+        "note": "Calculated"
+      },
+      "section14": {
+        "dot": "Not dangerous goods",
+        "iata": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9"
+        },
+        "imdg": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9",
+          "emsNumber1": "F-A",
+          "emsNumber2": "S-F",
+          "marinePollutant": "yes"
+        },
+        "otherInformation": "Shipment by ground under DOT is non-regulated; however it may be shipped per the applicable hazard classification to facilitate multi-modal transport involving ICAO (IATA) or IMO."
+      }
+    },
+    "uploadedDate": "2025-10-31"
+  },
+  {
+    "sdsId": "SDS033",
+    "materialId": "RM1032",
+    "materialName": "Xylene Mixed Isomers",
+    "source": "SAP",
+    "aiRecommendedDGCode": "UN1230 - Class 3",
+    "rationaleSummary": "Causes severe skin burns and eye damage. May be corrosive to metals.",
+    "ghsPictograms": [
+      "GHS02",
+      "GHS07",
+      "GHS08"
+    ],
+    "status": "Approved",
+    "feedback":"",
+    "sections": {
+      "section2": {
+        "classification": "Skin irritation, Category 2; Skin sensitisation, Category 1",
+        "hazards": [
+          "Skin irritation",
+          "Skin sensitisation"
+        ],
+        "ghsCodes": [
+          "GHS02",
+          "GHS07",
+          "H315",
+          "H317"
+        ],
+        "signalWord": "Warning",
+        "hazardStatements": "H315: Causes skin irritation. H317: May cause an allergic skin reaction.",
+        "precautionaryCodes": [
+          "P261",
+          "P280",
+          "P302+P352",
+          "P333+P313",
+          "P501"
+        ],
+        "precautionaryStatements": "P261: Avoid breathing mist or vapours. P280: Wear protective gloves. P302+P352: IF ON SKIN: Wash with plenty of soap and water. P333+P313: If skin irritation or rash occurs: Get medical advice/attention. P501: Dispose of contents/container to an approved waste disposal plant.",
+        "carcinogenicity": "No component of this product present at levels greater than or equal to 0.1% is identified as probable, possible or confirmed human carcinogen by IARC, OSHA, or NTP."
+      },
+      "section3": {
+        "chemicalNature": "Fragrance for consumer product",
+        "description": "Fragrance Compound: A multi component mixture of fragrance ingredients. The specific chemical identities of the ingredients not listed herein are considered by IFF to be Trade Secrets and are withheld in accordance with the provisions of 1910.1200 of Title29 of the U.S. Code of Federal Regulations.",
+        "composition": [
+          {
+            "chemicalName": "Octahydro Tetramethyl Naphthalenyl Ethanone",
+            "casNumber": "54464-57-2",
+            "concentration": "10–30%",
+            "ghsClassification": [
+              "Skin Irrit. 2",
+              "Skin Sens. 1"
+            ],
+            "hazardStatements": [
+              "H315",
+              "H317"
+            ]
+          }
+        ]
+      },
+      "section9": {
+        "physicalState": "liquid",
+        "appearance": "CLEAR LIQUID",
+        "odour": "conforms to standard",
+        "flashPoint": "246 °F (119 °C)",
+        "vapourPressure": ".03 hPa (0.03 hPa) at 68 °F (20 °C)",
+        "note": "Calculated"
+      },
+      "section14": {
+        "dot": "Not dangerous goods",
+        "iata": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9"
+        },
+        "imdg": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9",
+          "emsNumber1": "F-A",
+          "emsNumber2": "S-F",
+          "marinePollutant": "yes"
+        },
+        "otherInformation": "Shipment by ground under DOT is non-regulated; however it may be shipped per the applicable hazard classification to facilitate multi-modal transport involving ICAO (IATA) or IMO."
+      }
+    },
+    "uploadedDate": "2025-11-02"
+  },
+  {
+    "sdsId": "SDS034",
+    "materialId": "RM1033",
+    "materialName": "Sodium Hypochlorite 12%",
+    "source": "RDS",
+    "aiRecommendedDGCode": "UN1219 - Class 3",
+    "rationaleSummary": "May intensify fire; oxidizer. Causes severe skin burns.",
+    "ghsPictograms": [
+      "GHS07",
+      "GHS08"
+    ],
+    "status": "Rejected",
+    "feedback":"",
+    "sections": {
+      "section2": {
+        "classification": "Skin irritation, Category 2; Skin sensitisation, Category 1",
+        "hazards": [
+          "Skin irritation",
+          "Skin sensitisation"
+        ],
+        "ghsCodes": [
+          "GHS02",
+          "GHS07",
+          "H315",
+          "H317"
+        ],
+        "signalWord": "Warning",
+        "hazardStatements": "H315: Causes skin irritation. H317: May cause an allergic skin reaction.",
+        "precautionaryCodes": [
+          "P261",
+          "P280",
+          "P302+P352",
+          "P333+P313",
+          "P501"
+        ],
+        "precautionaryStatements": "P261: Avoid breathing mist or vapours. P280: Wear protective gloves. P302+P352: IF ON SKIN: Wash with plenty of soap and water. P333+P313: If skin irritation or rash occurs: Get medical advice/attention. P501: Dispose of contents/container to an approved waste disposal plant.",
+        "carcinogenicity": "No component of this product present at levels greater than or equal to 0.1% is identified as probable, possible or confirmed human carcinogen by IARC, OSHA, or NTP."
+      },
+      "section3": {
+        "chemicalNature": "Fragrance for consumer product",
+        "description": "Fragrance Compound: A multi component mixture of fragrance ingredients. The specific chemical identities of the ingredients not listed herein are considered by IFF to be Trade Secrets and are withheld in accordance with the provisions of 1910.1200 of Title29 of the U.S. Code of Federal Regulations.",
+        "composition": [
+          {
+            "chemicalName": "Octahydro Tetramethyl Naphthalenyl Ethanone",
+            "casNumber": "54464-57-2",
+            "concentration": "10–30%",
+            "ghsClassification": [
+              "Skin Irrit. 2",
+              "Skin Sens. 1"
+            ],
+            "hazardStatements": [
+              "H315",
+              "H317"
+            ]
+          }
+        ]
+      },
+      "section9": {
+        "physicalState": "liquid",
+        "appearance": "CLEAR LIQUID",
+        "odour": "conforms to standard",
+        "flashPoint": "246 °F (119 °C)",
+        "vapourPressure": ".03 hPa (0.03 hPa) at 68 °F (20 °C)",
+        "note": "Calculated"
+      },
+      "section14": {
+        "dot": "Not dangerous goods",
+        "iata": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9"
+        },
+        "imdg": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9",
+          "emsNumber1": "F-A",
+          "emsNumber2": "S-F",
+          "marinePollutant": "yes"
+        },
+        "otherInformation": "Shipment by ground under DOT is non-regulated; however it may be shipped per the applicable hazard classification to facilitate multi-modal transport involving ICAO (IATA) or IMO."
+      }
+    },
+    "uploadedDate": "2025-11-07"
+  },
+  {
+    "sdsId": "SDS035",
+    "materialId": "RM1034",
+    "materialName": "n-Hexane",
+    "source": "RDS",
+    "aiRecommendedDGCode": "UN1294 - Class 3",
+    "rationaleSummary": "Flammable liquid. Suspected of causing cancer.",
+    "ghsPictograms": [
+      "GHS04",
+      "GHS05",
+      "GHS06"
+    ],
+    "status": "Approved",
+    "feedback":"",
+    "sections": {
+      "section2": {
+        "classification": "Skin irritation, Category 2; Skin sensitisation, Category 1",
+        "hazards": [
+          "Skin irritation",
+          "Skin sensitisation"
+        ],
+        "ghsCodes": [
+          "GHS02",
+          "GHS07",
+          "H315",
+          "H317"
+        ],
+        "signalWord": "Warning",
+        "hazardStatements": "H315: Causes skin irritation. H317: May cause an allergic skin reaction.",
+        "precautionaryCodes": [
+          "P261",
+          "P280",
+          "P302+P352",
+          "P333+P313",
+          "P501"
+        ],
+        "precautionaryStatements": "P261: Avoid breathing mist or vapours. P280: Wear protective gloves. P302+P352: IF ON SKIN: Wash with plenty of soap and water. P333+P313: If skin irritation or rash occurs: Get medical advice/attention. P501: Dispose of contents/container to an approved waste disposal plant.",
+        "carcinogenicity": "No component of this product present at levels greater than or equal to 0.1% is identified as probable, possible or confirmed human carcinogen by IARC, OSHA, or NTP."
+      },
+      "section3": {
+        "chemicalNature": "Fragrance for consumer product",
+        "description": "Fragrance Compound: A multi component mixture of fragrance ingredients. The specific chemical identities of the ingredients not listed herein are considered by IFF to be Trade Secrets and are withheld in accordance with the provisions of 1910.1200 of Title29 of the U.S. Code of Federal Regulations.",
+        "composition": [
+          {
+            "chemicalName": "Octahydro Tetramethyl Naphthalenyl Ethanone",
+            "casNumber": "54464-57-2",
+            "concentration": "10–30%",
+            "ghsClassification": [
+              "Skin Irrit. 2",
+              "Skin Sens. 1"
+            ],
+            "hazardStatements": [
+              "H315",
+              "H317"
+            ]
+          }
+        ]
+      },
+      "section9": {
+        "physicalState": "liquid",
+        "appearance": "CLEAR LIQUID",
+        "odour": "conforms to standard",
+        "flashPoint": "246 °F (119 °C)",
+        "vapourPressure": ".03 hPa (0.03 hPa) at 68 °F (20 °C)",
+        "note": "Calculated"
+      },
+      "section14": {
+        "dot": "Not dangerous goods",
+        "iata": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9"
+        },
+        "imdg": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9",
+          "emsNumber1": "F-A",
+          "emsNumber2": "S-F",
+          "marinePollutant": "yes"
+        },
+        "otherInformation": "Shipment by ground under DOT is non-regulated; however it may be shipped per the applicable hazard classification to facilitate multi-modal transport involving ICAO (IATA) or IMO."
+      }
+    },
+    "uploadedDate": "2025-11-08"
+  },
+  {
+    "sdsId": "SDS036",
+    "materialId": "RM1035",
+    "materialName": "Diethyl Ether",
+    "source": "SAP",
+    "aiRecommendedDGCode": "UN1823 - Class 8",
+    "rationaleSummary": "Causes severe skin burns and eye damage. Produces corrosive mist.",
+    "ghsPictograms": [
+      "GHS02",
+      "GHS05",
+      "GHS07",
+      "GHS08"
+    ],
+    "status": "Approved",
+    "feedback":"",
+    "sections": {
+      "section2": {
+        "classification": "Skin irritation, Category 2; Skin sensitisation, Category 1",
+        "hazards": [
+          "Skin irritation",
+          "Skin sensitisation"
+        ],
+        "ghsCodes": [
+          "GHS02",
+          "GHS07",
+          "H315",
+          "H317"
+        ],
+        "signalWord": "Warning",
+        "hazardStatements": "H315: Causes skin irritation. H317: May cause an allergic skin reaction.",
+        "precautionaryCodes": [
+          "P261",
+          "P280",
+          "P302+P352",
+          "P333+P313",
+          "P501"
+        ],
+        "precautionaryStatements": "P261: Avoid breathing mist or vapours. P280: Wear protective gloves. P302+P352: IF ON SKIN: Wash with plenty of soap and water. P333+P313: If skin irritation or rash occurs: Get medical advice/attention. P501: Dispose of contents/container to an approved waste disposal plant.",
+        "carcinogenicity": "No component of this product present at levels greater than or equal to 0.1% is identified as probable, possible or confirmed human carcinogen by IARC, OSHA, or NTP."
+      },
+      "section3": {
+        "chemicalNature": "Fragrance for consumer product",
+        "description": "Fragrance Compound: A multi component mixture of fragrance ingredients. The specific chemical identities of the ingredients not listed herein are considered by IFF to be Trade Secrets and are withheld in accordance with the provisions of 1910.1200 of Title29 of the U.S. Code of Federal Regulations.",
+        "composition": [
+          {
+            "chemicalName": "Octahydro Tetramethyl Naphthalenyl Ethanone",
+            "casNumber": "54464-57-2",
+            "concentration": "10–30%",
+            "ghsClassification": [
+              "Skin Irrit. 2",
+              "Skin Sens. 1"
+            ],
+            "hazardStatements": [
+              "H315",
+              "H317"
+            ]
+          }
+        ]
+      },
+      "section9": {
+        "physicalState": "liquid",
+        "appearance": "CLEAR LIQUID",
+        "odour": "conforms to standard",
+        "flashPoint": "246 °F (119 °C)",
+        "vapourPressure": ".03 hPa (0.03 hPa) at 68 °F (20 °C)",
+        "note": "Calculated"
+      },
+      "section14": {
+        "dot": "Not dangerous goods",
+        "iata": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9"
+        },
+        "imdg": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9",
+          "emsNumber1": "F-A",
+          "emsNumber2": "S-F",
+          "marinePollutant": "yes"
+        },
+        "otherInformation": "Shipment by ground under DOT is non-regulated; however it may be shipped per the applicable hazard classification to facilitate multi-modal transport involving ICAO (IATA) or IMO."
+      }
+    },
+    "uploadedDate": "2025-11-12"
+  },
+  {
+    "sdsId": "SDS037",
+    "materialId": "RM1036",
+    "materialName": "Carbon Disulfide",
+    "source": "SAP",
+    "aiRecommendedDGCode": "UN2014 - Class 5.1",
+    "rationaleSummary": "May intensify fire; oxidizer. Harmful if swallowed.",
+    "ghsPictograms": [
+      "GHS03",
+      "GHS06",
+      "GHS08"
+    ],
+    "status": "Approved",
+    "feedback":"",
+    "sections": {
+      "section2": {
+        "classification": "Skin irritation, Category 2; Skin sensitisation, Category 1",
+        "hazards": [
+          "Skin irritation",
+          "Skin sensitisation"
+        ],
+        "ghsCodes": [
+          "GHS02",
+          "GHS07",
+          "H315",
+          "H317"
+        ],
+        "signalWord": "Warning",
+        "hazardStatements": "H315: Causes skin irritation. H317: May cause an allergic skin reaction.",
+        "precautionaryCodes": [
+          "P261",
+          "P280",
+          "P302+P352",
+          "P333+P313",
+          "P501"
+        ],
+        "precautionaryStatements": "P261: Avoid breathing mist or vapours. P280: Wear protective gloves. P302+P352: IF ON SKIN: Wash with plenty of soap and water. P333+P313: If skin irritation or rash occurs: Get medical advice/attention. P501: Dispose of contents/container to an approved waste disposal plant.",
+        "carcinogenicity": "No component of this product present at levels greater than or equal to 0.1% is identified as probable, possible or confirmed human carcinogen by IARC, OSHA, or NTP."
+      },
+      "section3": {
+        "chemicalNature": "Fragrance for consumer product",
+        "description": "Fragrance Compound: A multi component mixture of fragrance ingredients. The specific chemical identities of the ingredients not listed herein are considered by IFF to be Trade Secrets and are withheld in accordance with the provisions of 1910.1200 of Title29 of the U.S. Code of Federal Regulations.",
+        "composition": [
+          {
+            "chemicalName": "Octahydro Tetramethyl Naphthalenyl Ethanone",
+            "casNumber": "54464-57-2",
+            "concentration": "10–30%",
+            "ghsClassification": [
+              "Skin Irrit. 2",
+              "Skin Sens. 1"
+            ],
+            "hazardStatements": [
+              "H315",
+              "H317"
+            ]
+          }
+        ]
+      },
+      "section9": {
+        "physicalState": "liquid",
+        "appearance": "CLEAR LIQUID",
+        "odour": "conforms to standard",
+        "flashPoint": "246 °F (119 °C)",
+        "vapourPressure": ".03 hPa (0.03 hPa) at 68 °F (20 °C)",
+        "note": "Calculated"
+      },
+      "section14": {
+        "dot": "Not dangerous goods",
+        "iata": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9"
+        },
+        "imdg": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9",
+          "emsNumber1": "F-A",
+          "emsNumber2": "S-F",
+          "marinePollutant": "yes"
+        },
+        "otherInformation": "Shipment by ground under DOT is non-regulated; however it may be shipped per the applicable hazard classification to facilitate multi-modal transport involving ICAO (IATA) or IMO."
+      }
+    },
+    "uploadedDate": "2025-11-14"
+  },
+  {
+    "sdsId": "SDS038",
+    "materialId": "RM1037",
+    "materialName": "Acetone",
+    "source": "RDS",
+    "aiRecommendedDGCode": "UN1830 - Class 8",
+    "rationaleSummary": "Gas under pressure. Causes severe respiratory irritation.",
+    "ghsPictograms": [
+      "GHS02",
+      "GHS06",
+      "GHS08",
+      "GHS09"
+    ],
+    "status": "Approved",
+    "feedback":"",
+    "sections": {
+      "section2": {
+        "classification": "Skin irritation, Category 2; Skin sensitisation, Category 1",
+        "hazards": [
+          "Skin irritation",
+          "Skin sensitisation"
+        ],
+        "ghsCodes": [
+          "GHS02",
+          "GHS07",
+          "H315",
+          "H317"
+        ],
+        "signalWord": "Warning",
+        "hazardStatements": "H315: Causes skin irritation. H317: May cause an allergic skin reaction.",
+        "precautionaryCodes": [
+          "P261",
+          "P280",
+          "P302+P352",
+          "P333+P313",
+          "P501"
+        ],
+        "precautionaryStatements": "P261: Avoid breathing mist or vapours. P280: Wear protective gloves. P302+P352: IF ON SKIN: Wash with plenty of soap and water. P333+P313: If skin irritation or rash occurs: Get medical advice/attention. P501: Dispose of contents/container to an approved waste disposal plant.",
+        "carcinogenicity": "No component of this product present at levels greater than or equal to 0.1% is identified as probable, possible or confirmed human carcinogen by IARC, OSHA, or NTP."
+      },
+      "section3": {
+        "chemicalNature": "Fragrance for consumer product",
+        "description": "Fragrance Compound: A multi component mixture of fragrance ingredients. The specific chemical identities of the ingredients not listed herein are considered by IFF to be Trade Secrets and are withheld in accordance with the provisions of 1910.1200 of Title29 of the U.S. Code of Federal Regulations.",
+        "composition": [
+          {
+            "chemicalName": "Octahydro Tetramethyl Naphthalenyl Ethanone",
+            "casNumber": "54464-57-2",
+            "concentration": "10–30%",
+            "ghsClassification": [
+              "Skin Irrit. 2",
+              "Skin Sens. 1"
+            ],
+            "hazardStatements": [
+              "H315",
+              "H317"
+            ]
+          }
+        ]
+      },
+      "section9": {
+        "physicalState": "liquid",
+        "appearance": "CLEAR LIQUID",
+        "odour": "conforms to standard",
+        "flashPoint": "246 °F (119 °C)",
+        "vapourPressure": ".03 hPa (0.03 hPa) at 68 °F (20 °C)",
+        "note": "Calculated"
+      },
+      "section14": {
+        "dot": "Not dangerous goods",
+        "iata": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9"
+        },
+        "imdg": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9",
+          "emsNumber1": "F-A",
+          "emsNumber2": "S-F",
+          "marinePollutant": "yes"
+        },
+        "otherInformation": "Shipment by ground under DOT is non-regulated; however it may be shipped per the applicable hazard classification to facilitate multi-modal transport involving ICAO (IATA) or IMO."
+      }
+    },
+    "uploadedDate": "2025-11-18"
+  },
+  {
+    "sdsId": "SDS039",
+    "materialId": "RM1038",
+    "materialName": "Methanol",
+    "source": "RDS",
+    "aiRecommendedDGCode": "UN2672 - Class 8",
+    "rationaleSummary": "May intensify fire; strong oxidizer. Causes skin burns.",
+    "ghsPictograms": [
+      "GHS04",
+      "GHS06",
+      "GHS08"
+    ],
+    "status": "Rejected",
+    "feedback":"",
+    "sections": {
+      "section2": {
+        "classification": "Skin irritation, Category 2; Skin sensitisation, Category 1",
+        "hazards": [
+          "Skin irritation",
+          "Skin sensitisation"
+        ],
+        "ghsCodes": [
+          "GHS02",
+          "GHS07",
+          "H315",
+          "H317"
+        ],
+        "signalWord": "Warning",
+        "hazardStatements": "H315: Causes skin irritation. H317: May cause an allergic skin reaction.",
+        "precautionaryCodes": [
+          "P261",
+          "P280",
+          "P302+P352",
+          "P333+P313",
+          "P501"
+        ],
+        "precautionaryStatements": "P261: Avoid breathing mist or vapours. P280: Wear protective gloves. P302+P352: IF ON SKIN: Wash with plenty of soap and water. P333+P313: If skin irritation or rash occurs: Get medical advice/attention. P501: Dispose of contents/container to an approved waste disposal plant.",
+        "carcinogenicity": "No component of this product present at levels greater than or equal to 0.1% is identified as probable, possible or confirmed human carcinogen by IARC, OSHA, or NTP."
+      },
+      "section3": {
+        "chemicalNature": "Fragrance for consumer product",
+        "description": "Fragrance Compound: A multi component mixture of fragrance ingredients. The specific chemical identities of the ingredients not listed herein are considered by IFF to be Trade Secrets and are withheld in accordance with the provisions of 1910.1200 of Title29 of the U.S. Code of Federal Regulations.",
+        "composition": [
+          {
+            "chemicalName": "Octahydro Tetramethyl Naphthalenyl Ethanone",
+            "casNumber": "54464-57-2",
+            "concentration": "10–30%",
+            "ghsClassification": [
+              "Skin Irrit. 2",
+              "Skin Sens. 1"
+            ],
+            "hazardStatements": [
+              "H315",
+              "H317"
+            ]
+          }
+        ]
+      },
+      "section9": {
+        "physicalState": "liquid",
+        "appearance": "CLEAR LIQUID",
+        "odour": "conforms to standard",
+        "flashPoint": "246 °F (119 °C)",
+        "vapourPressure": ".03 hPa (0.03 hPa) at 68 °F (20 °C)",
+        "note": "Calculated"
+      },
+      "section14": {
+        "dot": "Not dangerous goods",
+        "iata": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9"
+        },
+        "imdg": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9",
+          "emsNumber1": "F-A",
+          "emsNumber2": "S-F",
+          "marinePollutant": "yes"
+        },
+        "otherInformation": "Shipment by ground under DOT is non-regulated; however it may be shipped per the applicable hazard classification to facilitate multi-modal transport involving ICAO (IATA) or IMO."
+      }
+    },
+    "uploadedDate": "2025-11-28"
+  },
+  {
+    "sdsId": "SDS040",
+    "materialId": "RM1039",
+    "materialName": "Ethanol",
+    "source": "SAP",
+    "aiRecommendedDGCode": "UN2031 - Class 8",
+    "rationaleSummary": "Flammable liquid. Suspected of causing cancer.",
+    "ghsPictograms": [
+      "GHS02",
+      "GHS07"
+    ],
+    "status": "Pending Review",
+    "feedback":"",
+    "sections": {
+      "section2": {
+        "classification": "Skin irritation, Category 2; Skin sensitisation, Category 1",
+        "hazards": [
+          "Skin irritation",
+          "Skin sensitisation"
+        ],
+        "ghsCodes": [
+          "GHS02",
+          "GHS07",
+          "H315",
+          "H317"
+        ],
+        "signalWord": "Warning",
+        "hazardStatements": "H315: Causes skin irritation. H317: May cause an allergic skin reaction.",
+        "precautionaryCodes": [
+          "P261",
+          "P280",
+          "P302+P352",
+          "P333+P313",
+          "P501"
+        ],
+        "precautionaryStatements": "P261: Avoid breathing mist or vapours. P280: Wear protective gloves. P302+P352: IF ON SKIN: Wash with plenty of soap and water. P333+P313: If skin irritation or rash occurs: Get medical advice/attention. P501: Dispose of contents/container to an approved waste disposal plant.",
+        "carcinogenicity": "No component of this product present at levels greater than or equal to 0.1% is identified as probable, possible or confirmed human carcinogen by IARC, OSHA, or NTP."
+      },
+      "section3": {
+        "chemicalNature": "Fragrance for consumer product",
+        "description": "Fragrance Compound: A multi component mixture of fragrance ingredients. The specific chemical identities of the ingredients not listed herein are considered by IFF to be Trade Secrets and are withheld in accordance with the provisions of 1910.1200 of Title29 of the U.S. Code of Federal Regulations.",
+        "composition": [
+          {
+            "chemicalName": "Octahydro Tetramethyl Naphthalenyl Ethanone",
+            "casNumber": "54464-57-2",
+            "concentration": "10–30%",
+            "ghsClassification": [
+              "Skin Irrit. 2",
+              "Skin Sens. 1"
+            ],
+            "hazardStatements": [
+              "H315",
+              "H317"
+            ]
+          }
+        ]
+      },
+      "section9": {
+        "physicalState": "liquid",
+        "appearance": "CLEAR LIQUID",
+        "odour": "conforms to standard",
+        "flashPoint": "246 °F (119 °C)",
+        "vapourPressure": ".03 hPa (0.03 hPa) at 68 °F (20 °C)",
+        "note": "Calculated"
+      },
+      "section14": {
+        "dot": "Not dangerous goods",
+        "iata": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9"
+        },
+        "imdg": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9",
+          "emsNumber1": "F-A",
+          "emsNumber2": "S-F",
+          "marinePollutant": "yes"
+        },
+        "otherInformation": "Shipment by ground under DOT is non-regulated; however it may be shipped per the applicable hazard classification to facilitate multi-modal transport involving ICAO (IATA) or IMO."
+      }
+    },
+    "uploadedDate": "2025-12-08"
+  },
+  {
+    "sdsId": "SDS041",
+    "materialId": "RM1040",
+    "materialName": "Isopropyl Alcohol",
+    "source": "RDS",
+    "aiRecommendedDGCode": "UN1789 - Class 8",
+    "rationaleSummary": "Gas under pressure. Toxic if inhaled.",
+    "ghsPictograms": [
+      "GHS02",
+      "GHS06",
+      "GHS08"
+    ],
+    "status": "Pending Review",
+    "feedback":"",
+    "sections": {
+      "section2": {
+        "classification": "Skin irritation, Category 2; Skin sensitisation, Category 1",
+        "hazards": [
+          "Skin irritation",
+          "Skin sensitisation"
+        ],
+        "ghsCodes": [
+          "GHS02",
+          "GHS07",
+          "H315",
+          "H317"
+        ],
+        "signalWord": "Warning",
+        "hazardStatements": "H315: Causes skin irritation. H317: May cause an allergic skin reaction.",
+        "precautionaryCodes": [
+          "P261",
+          "P280",
+          "P302+P352",
+          "P333+P313",
+          "P501"
+        ],
+        "precautionaryStatements": "P261: Avoid breathing mist or vapours. P280: Wear protective gloves. P302+P352: IF ON SKIN: Wash with plenty of soap and water. P333+P313: If skin irritation or rash occurs: Get medical advice/attention. P501: Dispose of contents/container to an approved waste disposal plant.",
+        "carcinogenicity": "No component of this product present at levels greater than or equal to 0.1% is identified as probable, possible or confirmed human carcinogen by IARC, OSHA, or NTP."
+      },
+      "section3": {
+        "chemicalNature": "Fragrance for consumer product",
+        "description": "Fragrance Compound: A multi component mixture of fragrance ingredients. The specific chemical identities of the ingredients not listed herein are considered by IFF to be Trade Secrets and are withheld in accordance with the provisions of 1910.1200 of Title29 of the U.S. Code of Federal Regulations.",
+        "composition": [
+          {
+            "chemicalName": "Octahydro Tetramethyl Naphthalenyl Ethanone",
+            "casNumber": "54464-57-2",
+            "concentration": "10–30%",
+            "ghsClassification": [
+              "Skin Irrit. 2",
+              "Skin Sens. 1"
+            ],
+            "hazardStatements": [
+              "H315",
+              "H317"
+            ]
+          }
+        ]
+      },
+      "section9": {
+        "physicalState": "liquid",
+        "appearance": "CLEAR LIQUID",
+        "odour": "conforms to standard",
+        "flashPoint": "246 °F (119 °C)",
+        "vapourPressure": ".03 hPa (0.03 hPa) at 68 °F (20 °C)",
+        "note": "Calculated"
+      },
+      "section14": {
+        "dot": "Not dangerous goods",
+        "iata": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9"
+        },
+        "imdg": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9",
+          "emsNumber1": "F-A",
+          "emsNumber2": "S-F",
+          "marinePollutant": "yes"
+        },
+        "otherInformation": "Shipment by ground under DOT is non-regulated; however it may be shipped per the applicable hazard classification to facilitate multi-modal transport involving ICAO (IATA) or IMO."
+      }
+    },
+    "uploadedDate": "2025-12-10"
+  },
+  {
+    "sdsId": "SDS042",
+    "materialId": "RM1041",
+    "materialName": "Toluene",
+    "source": "SAP",
+    "aiRecommendedDGCode": "UN2209 - Class 3",
+    "rationaleSummary": "Highly flammable. Causes skin burns and serious eye damage.",
+    "ghsPictograms": [
+      "GHS02",
+      "GHS07"
+    ],
+    "status": "Rejected",
+    "feedback":"",
+    "sections": {
+      "section2": {
+        "classification": "Skin irritation, Category 2; Skin sensitisation, Category 1",
+        "hazards": [
+          "Skin irritation",
+          "Skin sensitisation"
+        ],
+        "ghsCodes": [
+          "GHS02",
+          "GHS07",
+          "H315",
+          "H317"
+        ],
+        "signalWord": "Warning",
+        "hazardStatements": "H315: Causes skin irritation. H317: May cause an allergic skin reaction.",
+        "precautionaryCodes": [
+          "P261",
+          "P280",
+          "P302+P352",
+          "P333+P313",
+          "P501"
+        ],
+        "precautionaryStatements": "P261: Avoid breathing mist or vapours. P280: Wear protective gloves. P302+P352: IF ON SKIN: Wash with plenty of soap and water. P333+P313: If skin irritation or rash occurs: Get medical advice/attention. P501: Dispose of contents/container to an approved waste disposal plant.",
+        "carcinogenicity": "No component of this product present at levels greater than or equal to 0.1% is identified as probable, possible or confirmed human carcinogen by IARC, OSHA, or NTP."
+      },
+      "section3": {
+        "chemicalNature": "Fragrance for consumer product",
+        "description": "Fragrance Compound: A multi component mixture of fragrance ingredients. The specific chemical identities of the ingredients not listed herein are considered by IFF to be Trade Secrets and are withheld in accordance with the provisions of 1910.1200 of Title29 of the U.S. Code of Federal Regulations.",
+        "composition": [
+          {
+            "chemicalName": "Octahydro Tetramethyl Naphthalenyl Ethanone",
+            "casNumber": "54464-57-2",
+            "concentration": "10–30%",
+            "ghsClassification": [
+              "Skin Irrit. 2",
+              "Skin Sens. 1"
+            ],
+            "hazardStatements": [
+              "H315",
+              "H317"
+            ]
+          }
+        ]
+      },
+      "section9": {
+        "physicalState": "liquid",
+        "appearance": "CLEAR LIQUID",
+        "odour": "conforms to standard",
+        "flashPoint": "246 °F (119 °C)",
+        "vapourPressure": ".03 hPa (0.03 hPa) at 68 °F (20 °C)",
+        "note": "Calculated"
+      },
+      "section14": {
+        "dot": "Not dangerous goods",
+        "iata": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9"
+        },
+        "imdg": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9",
+          "emsNumber1": "F-A",
+          "emsNumber2": "S-F",
+          "marinePollutant": "yes"
+        },
+        "otherInformation": "Shipment by ground under DOT is non-regulated; however it may be shipped per the applicable hazard classification to facilitate multi-modal transport involving ICAO (IATA) or IMO."
+      }
+    },
+    "uploadedDate": "2025-12-16"
+  },
+  {
+    "sdsId": "SDS043",
+    "materialId": "RM1042",
+    "materialName": "Xylene",
+    "source": "RDS",
+    "aiRecommendedDGCode": "UN2880 - Class 5.1",
+    "rationaleSummary": "May intensify fire; oxidizer. Toxic if swallowed.",
+    "ghsPictograms": [
+      "GHS03",
+      "GHS05",
+      "GHS07"
+    ],
+    "status": "Pending Review",
+    "feedback":"",
+    "sections": {
+      "section2": {
+        "classification": "Skin irritation, Category 2; Skin sensitisation, Category 1",
+        "hazards": [
+          "Skin irritation",
+          "Skin sensitisation"
+        ],
+        "ghsCodes": [
+          "GHS02",
+          "GHS07",
+          "H315",
+          "H317"
+        ],
+        "signalWord": "Warning",
+        "hazardStatements": "H315: Causes skin irritation. H317: May cause an allergic skin reaction.",
+        "precautionaryCodes": [
+          "P261",
+          "P280",
+          "P302+P352",
+          "P333+P313",
+          "P501"
+        ],
+        "precautionaryStatements": "P261: Avoid breathing mist or vapours. P280: Wear protective gloves. P302+P352: IF ON SKIN: Wash with plenty of soap and water. P333+P313: If skin irritation or rash occurs: Get medical advice/attention. P501: Dispose of contents/container to an approved waste disposal plant.",
+        "carcinogenicity": "No component of this product present at levels greater than or equal to 0.1% is identified as probable, possible or confirmed human carcinogen by IARC, OSHA, or NTP."
+      },
+      "section3": {
+        "chemicalNature": "Fragrance for consumer product",
+        "description": "Fragrance Compound: A multi component mixture of fragrance ingredients. The specific chemical identities of the ingredients not listed herein are considered by IFF to be Trade Secrets and are withheld in accordance with the provisions of 1910.1200 of Title29 of the U.S. Code of Federal Regulations.",
+        "composition": [
+          {
+            "chemicalName": "Octahydro Tetramethyl Naphthalenyl Ethanone",
+            "casNumber": "54464-57-2",
+            "concentration": "10–30%",
+            "ghsClassification": [
+              "Skin Irrit. 2",
+              "Skin Sens. 1"
+            ],
+            "hazardStatements": [
+              "H315",
+              "H317"
+            ]
+          }
+        ]
+      },
+      "section9": {
+        "physicalState": "liquid",
+        "appearance": "CLEAR LIQUID",
+        "odour": "conforms to standard",
+        "flashPoint": "246 °F (119 °C)",
+        "vapourPressure": ".03 hPa (0.03 hPa) at 68 °F (20 °C)",
+        "note": "Calculated"
+      },
+      "section14": {
+        "dot": "Not dangerous goods",
+        "iata": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9"
+        },
+        "imdg": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9",
+          "emsNumber1": "F-A",
+          "emsNumber2": "S-F",
+          "marinePollutant": "yes"
+        },
+        "otherInformation": "Shipment by ground under DOT is non-regulated; however it may be shipped per the applicable hazard classification to facilitate multi-modal transport involving ICAO (IATA) or IMO."
+      }
+    },
+    "uploadedDate": "2025-12-16"
+  },
+  {
+    "sdsId": "SDS044",
+    "materialId": "RM1043",
+    "materialName": "Benzene",
+    "source": "RDS",
+    "aiRecommendedDGCode": "UN2428 - Class 5.1",
+    "rationaleSummary": "Flammable gas. Toxic if inhaled. Suspected of causing cancer.",
+    "ghsPictograms": [
+      "GHS05",
+      "GHS07"
+    ],
+    "status": "Approved",
+    "feedback":"",
+    "sections": {
+      "section2": {
+        "classification": "Skin irritation, Category 2; Skin sensitisation, Category 1",
+        "hazards": [
+          "Skin irritation",
+          "Skin sensitisation"
+        ],
+        "ghsCodes": [
+          "GHS02",
+          "GHS07",
+          "H315",
+          "H317"
+        ],
+        "signalWord": "Warning",
+        "hazardStatements": "H315: Causes skin irritation. H317: May cause an allergic skin reaction.",
+        "precautionaryCodes": [
+          "P261",
+          "P280",
+          "P302+P352",
+          "P333+P313",
+          "P501"
+        ],
+        "precautionaryStatements": "P261: Avoid breathing mist or vapours. P280: Wear protective gloves. P302+P352: IF ON SKIN: Wash with plenty of soap and water. P333+P313: If skin irritation or rash occurs: Get medical advice/attention. P501: Dispose of contents/container to an approved waste disposal plant.",
+        "carcinogenicity": "No component of this product present at levels greater than or equal to 0.1% is identified as probable, possible or confirmed human carcinogen by IARC, OSHA, or NTP."
+      },
+      "section3": {
+        "chemicalNature": "Fragrance for consumer product",
+        "description": "Fragrance Compound: A multi component mixture of fragrance ingredients. The specific chemical identities of the ingredients not listed herein are considered by IFF to be Trade Secrets and are withheld in accordance with the provisions of 1910.1200 of Title29 of the U.S. Code of Federal Regulations.",
+        "composition": [
+          {
+            "chemicalName": "Octahydro Tetramethyl Naphthalenyl Ethanone",
+            "casNumber": "54464-57-2",
+            "concentration": "10–30%",
+            "ghsClassification": [
+              "Skin Irrit. 2",
+              "Skin Sens. 1"
+            ],
+            "hazardStatements": [
+              "H315",
+              "H317"
+            ]
+          }
+        ]
+      },
+      "section9": {
+        "physicalState": "liquid",
+        "appearance": "CLEAR LIQUID",
+        "odour": "conforms to standard",
+        "flashPoint": "246 °F (119 °C)",
+        "vapourPressure": ".03 hPa (0.03 hPa) at 68 °F (20 °C)",
+        "note": "Calculated"
+      },
+      "section14": {
+        "dot": "Not dangerous goods",
+        "iata": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9"
+        },
+        "imdg": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9",
+          "emsNumber1": "F-A",
+          "emsNumber2": "S-F",
+          "marinePollutant": "yes"
+        },
+        "otherInformation": "Shipment by ground under DOT is non-regulated; however it may be shipped per the applicable hazard classification to facilitate multi-modal transport involving ICAO (IATA) or IMO."
+      }
+    },
+    "uploadedDate": "2025-12-20"
+  },
+  {
+    "sdsId": "SDS045",
+    "materialId": "RM1044",
+    "materialName": "Chloroform",
+    "source": "RDS",
+    "aiRecommendedDGCode": "UN1017 - Class 2",
+    "rationaleSummary": "Causes severe skin burns and serious eye damage.",
+    "ghsPictograms": [
+      "GHS05",
+      "GHS06",
+      "GHS09"
+    ],
+    "status": "Pending Review",
+    "feedback":"",
+    "sections": {
+      "section2": {
+        "classification": "Skin irritation, Category 2; Skin sensitisation, Category 1",
+        "hazards": [
+          "Skin irritation",
+          "Skin sensitisation"
+        ],
+        "ghsCodes": [
+          "GHS02",
+          "GHS07",
+          "H315",
+          "H317"
+        ],
+        "signalWord": "Warning",
+        "hazardStatements": "H315: Causes skin irritation. H317: May cause an allergic skin reaction.",
+        "precautionaryCodes": [
+          "P261",
+          "P280",
+          "P302+P352",
+          "P333+P313",
+          "P501"
+        ],
+        "precautionaryStatements": "P261: Avoid breathing mist or vapours. P280: Wear protective gloves. P302+P352: IF ON SKIN: Wash with plenty of soap and water. P333+P313: If skin irritation or rash occurs: Get medical advice/attention. P501: Dispose of contents/container to an approved waste disposal plant.",
+        "carcinogenicity": "No component of this product present at levels greater than or equal to 0.1% is identified as probable, possible or confirmed human carcinogen by IARC, OSHA, or NTP."
+      },
+      "section3": {
+        "chemicalNature": "Fragrance for consumer product",
+        "description": "Fragrance Compound: A multi component mixture of fragrance ingredients. The specific chemical identities of the ingredients not listed herein are considered by IFF to be Trade Secrets and are withheld in accordance with the provisions of 1910.1200 of Title29 of the U.S. Code of Federal Regulations.",
+        "composition": [
+          {
+            "chemicalName": "Octahydro Tetramethyl Naphthalenyl Ethanone",
+            "casNumber": "54464-57-2",
+            "concentration": "10–30%",
+            "ghsClassification": [
+              "Skin Irrit. 2",
+              "Skin Sens. 1"
+            ],
+            "hazardStatements": [
+              "H315",
+              "H317"
+            ]
+          }
+        ]
+      },
+      "section9": {
+        "physicalState": "liquid",
+        "appearance": "CLEAR LIQUID",
+        "odour": "conforms to standard",
+        "flashPoint": "246 °F (119 °C)",
+        "vapourPressure": ".03 hPa (0.03 hPa) at 68 °F (20 °C)",
+        "note": "Calculated"
+      },
+      "section14": {
+        "dot": "Not dangerous goods",
+        "iata": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9"
+        },
+        "imdg": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9",
+          "emsNumber1": "F-A",
+          "emsNumber2": "S-F",
+          "marinePollutant": "yes"
+        },
+        "otherInformation": "Shipment by ground under DOT is non-regulated; however it may be shipped per the applicable hazard classification to facilitate multi-modal transport involving ICAO (IATA) or IMO."
+      }
+    },
+    "uploadedDate": "2025-12-21"
+  },
+  {
+    "sdsId": "SDS046",
+    "materialId": "RM1045",
+    "materialName": "Ethyl Acetate",
+    "source": "RDS",
+    "aiRecommendedDGCode": "UN2331 - Class 8",
+    "rationaleSummary": "May intensify fire; oxidizer. Harmful if swallowed.",
+    "ghsPictograms": [
+      "GHS02",
+      "GHS07",
+      "GHS08"
+    ],
+    "status": "Pending Review",
+    "feedback":"",
+    "sections": {
+      "section2": {
+        "classification": "Skin irritation, Category 2; Skin sensitisation, Category 1",
+        "hazards": [
+          "Skin irritation",
+          "Skin sensitisation"
+        ],
+        "ghsCodes": [
+          "GHS02",
+          "GHS07",
+          "H315",
+          "H317"
+        ],
+        "signalWord": "Warning",
+        "hazardStatements": "H315: Causes skin irritation. H317: May cause an allergic skin reaction.",
+        "precautionaryCodes": [
+          "P261",
+          "P280",
+          "P302+P352",
+          "P333+P313",
+          "P501"
+        ],
+        "precautionaryStatements": "P261: Avoid breathing mist or vapours. P280: Wear protective gloves. P302+P352: IF ON SKIN: Wash with plenty of soap and water. P333+P313: If skin irritation or rash occurs: Get medical advice/attention. P501: Dispose of contents/container to an approved waste disposal plant.",
+        "carcinogenicity": "No component of this product present at levels greater than or equal to 0.1% is identified as probable, possible or confirmed human carcinogen by IARC, OSHA, or NTP."
+      },
+      "section3": {
+        "chemicalNature": "Fragrance for consumer product",
+        "description": "Fragrance Compound: A multi component mixture of fragrance ingredients. The specific chemical identities of the ingredients not listed herein are considered by IFF to be Trade Secrets and are withheld in accordance with the provisions of 1910.1200 of Title29 of the U.S. Code of Federal Regulations.",
+        "composition": [
+          {
+            "chemicalName": "Octahydro Tetramethyl Naphthalenyl Ethanone",
+            "casNumber": "54464-57-2",
+            "concentration": "10–30%",
+            "ghsClassification": [
+              "Skin Irrit. 2",
+              "Skin Sens. 1"
+            ],
+            "hazardStatements": [
+              "H315",
+              "H317"
+            ]
+          }
+        ]
+      },
+      "section9": {
+        "physicalState": "liquid",
+        "appearance": "CLEAR LIQUID",
+        "odour": "conforms to standard",
+        "flashPoint": "246 °F (119 °C)",
+        "vapourPressure": ".03 hPa (0.03 hPa) at 68 °F (20 °C)",
+        "note": "Calculated"
+      },
+      "section14": {
+        "dot": "Not dangerous goods",
+        "iata": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9"
+        },
+        "imdg": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9",
+          "emsNumber1": "F-A",
+          "emsNumber2": "S-F",
+          "marinePollutant": "yes"
+        },
+        "otherInformation": "Shipment by ground under DOT is non-regulated; however it may be shipped per the applicable hazard classification to facilitate multi-modal transport involving ICAO (IATA) or IMO."
+      }
+    },
+    "uploadedDate": "2025-12-21"
+  },
+  {
+    "sdsId": "SDS047",
+    "materialId": "RM1046",
+    "materialName": "Hexane",
+    "source": "SAP",
+    "aiRecommendedDGCode": "UN1490 - Class 5.1",
+    "rationaleSummary": "Causes severe skin burns and eye damage. Toxic if absorbed.",
+    "ghsPictograms": [
+      "GHS05"
+    ],
+    "status": "Approved",
+    "sections": {
+      "section2": {
+        "classification": "Skin irritation, Category 2; Skin sensitisation, Category 1",
+        "hazards": [
+          "Skin irritation",
+          "Skin sensitisation"
+        ],
+        "ghsCodes": [
+          "GHS02",
+          "GHS07",
+          "H315",
+          "H317"
+        ],
+        "signalWord": "Warning",
+        "hazardStatements": "H315: Causes skin irritation. H317: May cause an allergic skin reaction.",
+        "precautionaryCodes": [
+          "P261",
+          "P280",
+          "P302+P352",
+          "P333+P313",
+          "P501"
+        ],
+        "precautionaryStatements": "P261: Avoid breathing mist or vapours. P280: Wear protective gloves. P302+P352: IF ON SKIN: Wash with plenty of soap and water. P333+P313: If skin irritation or rash occurs: Get medical advice/attention. P501: Dispose of contents/container to an approved waste disposal plant.",
+        "carcinogenicity": "No component of this product present at levels greater than or equal to 0.1% is identified as probable, possible or confirmed human carcinogen by IARC, OSHA, or NTP."
+      },
+      "section3": {
+        "chemicalNature": "Fragrance for consumer product",
+        "description": "Fragrance Compound: A multi component mixture of fragrance ingredients. The specific chemical identities of the ingredients not listed herein are considered by IFF to be Trade Secrets and are withheld in accordance with the provisions of 1910.1200 of Title29 of the U.S. Code of Federal Regulations.",
+        "composition": [
+          {
+            "chemicalName": "Octahydro Tetramethyl Naphthalenyl Ethanone",
+            "casNumber": "54464-57-2",
+            "concentration": "10–30%",
+            "ghsClassification": [
+              "Skin Irrit. 2",
+              "Skin Sens. 1"
+            ],
+            "hazardStatements": [
+              "H315",
+              "H317"
+            ]
+          }
+        ]
+      },
+      "section9": {
+        "physicalState": "liquid",
+        "appearance": "CLEAR LIQUID",
+        "odour": "conforms to standard",
+        "flashPoint": "246 °F (119 °C)",
+        "vapourPressure": ".03 hPa (0.03 hPa) at 68 °F (20 °C)",
+        "note": "Calculated"
+      },
+      "section14": {
+        "dot": "Not dangerous goods",
+        "iata": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9"
+        },
+        "imdg": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9",
+          "emsNumber1": "F-A",
+          "emsNumber2": "S-F",
+          "marinePollutant": "yes"
+        },
+        "otherInformation": "Shipment by ground under DOT is non-regulated; however it may be shipped per the applicable hazard classification to facilitate multi-modal transport involving ICAO (IATA) or IMO."
+      }
+    },
+    "uploadedDate": "2025-12-23"
+  },
+  {
+    "sdsId": "SDS048",
+    "materialId": "RM1047",
+    "materialName": "Ethanol",
+    "source": "RDS",
+    "aiRecommendedDGCode": "UN1170 - Class 3",
+    "rationaleSummary": "Highly flammable liquid and vapor. May cause cancer. Causes serious eye irritation.",
+    "ghsPictograms": [
+      "GHS02",
+      "GHS08",
+      "GHS07"
+    ],
+    "status": "Pending Review",
+    "feedback": "",
+    "sections": {
+      "section2": {
+        "classification": "Flammable Liquids, Category 2; Carcinogenicity, Category 1A; Eye Irritation, Category 2A",
+        "hazards": [
+          "Flammable liquid",
+          "Carcinogenicity",
+          "Eye irritation"
+        ],
+        "ghsCodes": [
+          "GHS02",
+          "GHS08",
+          "GHS07",
+          "H225",
+          "H350",
+          "H319"
+        ],
+        "signalWord": "Danger",
+        "hazardStatements": "H225: Highly flammable liquid and vapor. H350: May cause cancer. H319: Causes serious eye irritation.",
+        "precautionaryCodes": [
+          "P210",
+          "P233",
+          "P240",
+          "P241",
+          "P242",
+          "P243",
+          "P280",
+          "P305+P351+P338",
+          "P308+P313",
+          "P370+P378"
+        ],
+        "precautionaryStatements": "P210: Keep away from heat, sparks, open flames, hot surfaces. P233: Keep container tightly closed. P240: Ground/bond container and receiving equipment. P241: Use explosion-proof electrical equipment. P242: Use only non-sparking tools. P243: Take precautionary measures against static discharge. P280: Wear protective gloves, eye protection, face protection. P305+P351+P338: IF IN EYES: Rinse cautiously with water for several minutes. P308+P313: IF exposed or concerned: Get medical advice/attention. P370+P378: In case of fire: Use dry chemical, dry sand, or alcohol-resistant foam for extinction.",
+        "carcinogenicity": "This product is classified as Carcinogenicity Category 1A (H350) based on regulatory listings including IARC Group 1 references. May cause cancer."
+      },
+      "section3": {
+        "chemicalNature": "Substance (organic solvent, laboratory grade)",
+        "description": "Ethanol (Ethyl Alcohol) - CAS Number: 64-17-5, EC Number: 200-578-6, Index Number: 603-002-00-5. Intended use: Reagents and standards for analytical chemical laboratory use. Manufacturer: Agilent Technologies, Inc., Santa Clara, California, USA.",
+        "composition": [
+          {
+            "chemicalName": "Ethanol",
+            "casNumber": "64-17-5",
+            "concentration": "100%",
+            "ghsClassification": [
+              "Flam. Liq. 2",
+              "Carc. 1A",
+              "Eye Irrit. 2A"
+            ],
+            "hazardStatements": [
+              "H225",
+              "H350",
+              "H319"
+            ]
+          }
+        ]
+      },
+      "section9": {
+        "physicalState": "liquid",
+        "appearance": "Colorless liquid",
+        "odour": "Alcohol-like",
+        "flashPoint": "55.4 °F (13 °C)",
+        "vapourPressure": "Not specified",
+        "note": "Boiling point: ~78 °C. Explosive vapor/air mixtures possible."
+      },
+      "section14": {
+        "dot": "UN 1170, Ethanol / Ethyl Alcohol, Class 3, Packing Group II",
+        "iata": {
+          "unNumber": "UN1170",
+          "description": "ETHANOL / ETHYL ALCOHOL",
+          "class": "3",
+          "packingGroup": "II",
+          "labels": "3"
+        },
+        "imdg": {
+          "unNumber": "UN1170",
+          "description": "ETHANOL / ETHYL ALCOHOL",
+          "class": "3",
+          "packingGroup": "II",
+          "labels": "3",
+          "emsNumber1": "F-E",
+          "emsNumber2": "S-D",
+          "marinePollutant": "no"
+        },
+        "otherInformation": "Kemler Code: 33. Limited Quantity (IMDG): 1 L. Passenger Aircraft Limit: 5 L. Cargo Aircraft Limit: 60 L. Emergency Contact: CHEMTREC® 1-800-424-9300. Classification is mandatory across road (DOT), sea (IMDG), and air (IATA) transport."
+      }
+    },
+    "uploadedDate": "2025-12-24"
+  }
+]

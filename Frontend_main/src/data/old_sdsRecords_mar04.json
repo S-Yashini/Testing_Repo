@@ -1,0 +1,2628 @@
+[
+ 
+  {
+    "id": 1,
+    "materialId": "9999-31-8001",
+    "materialName": "Key Lime Mint Allergen Mod",
+    "source": "RDS",
+    "partNumber": "UL028649/00",
+    "internalCode": "9999-31-8761",
+    "synonyms": [],
+    "productType": "Mixture",
+    "intendedUse": "Fragrance / Perfume compound",
+    "manufacturer": "Givaudan Fragrances Corp.",
+    "manufacturerLocation": "Mount Olive, New Jersey, USA",
+    "emergencyContact": "Not specified",
+    "aiRecommendedDGCode": "NA1993 - Combustible Liquid (DOT bulk only)",
+    "rationaleSummary": "Combustible liquid. Causes skin irritation. Causes serious eye irritation. May cause allergic skin reaction. Suspected of damaging fertility or the unborn child.",
+    "ghsRationale": "The GHS classification is driven primarily by health hazards and combustibility, not extreme flammability. The flash point of 89 °C places the product in Flammable Liquid Category 4, qualifying it as a combustible liquid rather than a highly flammable one. Multiple constituents contribute to skin irritation, eye irritation, and skin sensitization, justifying H315, H319, and H317. Toxicological evaluation indicates suspected reproductive toxicity (Category 2), resulting in H361.",
+    "dgRationale": "Under U.S. DOT, the material qualifies as NA 1993, Combustible Liquid, PG III only when shipped in bulk quantities. The flash point exceeds 60 °C, excluding it from Class 3 flammable liquids but still meeting the U.S. definition of a combustible liquid. International regulations (IMDG, IATA) do not classify this material as Dangerous Goods due to higher flash point thresholds and lower transport risk profiles.",
+    "ghsPictograms": [
+      "GHS02",
+      "GHS07"
+    ],
+    "hazardousWaste": false,
+    "sdsSheetUrl": "/public/sds sheets/MSDS1.pdf",
+    "GHSStatus": "Pending Review",
+    "DGStatus": "Pending Review",
+    "GHS Approval/Rejection Date": "",
+    "DG Approval/Rejection Date": "",
+    "feedback": "",
+    "sections": {
+      "section2": {
+        "classification": "Flammable Liquid, Category 4; Skin Irritation, Category 2; Eye Irritation, Category 2A; Skin Sensitization, Category 1; Reproductive Toxicity, Category 2",
+        "hazards": [
+          "Flammable liquid",
+          "Skin irritation",
+          "Eye irritation",
+          "Skin sensitization",
+          "Reproductive toxicity"
+        ],
+        "ghsCodes": [
+          "GHS02",
+          "GHS07",
+          "H227",
+          "H315",
+          "H319",
+          "H317",
+          "H361"
+        ],
+        "signalWord": "Warning",
+        "hazardStatements": "H227: Combustible liquid. H315: Causes skin irritation. H319: Causes serious eye irritation. H317: May cause an allergic skin reaction. H361: Suspected of damaging fertility or the unborn child.",
+        "precautionaryCodes": [
+          "P210",
+          "P280",
+          "P302+P352",
+          "P305+P351+P338",
+          "P308+P313",
+          "P501"
+        ],
+        "precautionaryStatements": "P210: Keep away from heat, sparks, open flames, hot surfaces. P280: Wear protective gloves, eye protection, face protection. P302+P352: IF ON SKIN: Wash with plenty of water. P305+P351+P338: IF IN EYES: Rinse cautiously with water for several minutes. P308+P313: IF exposed or concerned: Get medical advice/attention. P501: Dispose of contents/container in accordance with local regulations.",
+        "carcinogenicity": "Not specified in source material.",
+        "additionalNotes": "These classifications are explicitly stated by the manufacturer in Section 2 and supported by component toxicology in Sections 3 and 11."
+      },
+      "section3": {
+        "chemicalNature": "Fragrance compound",
+        "description": "Key Lime Mint Allergen Mod - Fragrance / Perfume compound. Product Identifier: UL028649/00, Internal code: 9999-31-8761. Manufacturer: Givaudan Fragrances Corp., Mount Olive, New Jersey, USA.",
+        "composition": [
+          {
+            "chemicalName": "2,6-dimethyloct-7-en-2-ol",
+            "casNumber": "Not specified",
+            "concentration": "Not specified",
+            "ghsClassification": [],
+            "hazardStatements": []
+          },
+          {
+            "chemicalName": "2,6-dimethyloctanol",
+            "casNumber": "Not specified",
+            "concentration": "Not specified",
+            "ghsClassification": [],
+            "hazardStatements": []
+          }
+        ]
+      },
+      "section9": {
+        "physicalState": "liquid",
+        "appearance": "Off-white liquid",
+        "odour": "Citrus-like, aromatic, herbaceous",
+        "flashPoint": "192 °F (89 °C), closed cup",
+        "boilingPoint": "Not specified",
+        "vapourPressure": "Not specified",
+        "note": "Flash point exceeds 60 °C, excluding it from Class 3 flammable liquids but still meeting the U.S. definition of a combustible liquid."
+      },
+      "section14": {
+        "dot": "NA 1993, Combustible liquid, n.o.s. (contains 2,6-dimethyloct-7-en-2-ol, 2,6-dimethyloctanol), Combustible Liquid, Packing Group III, ERG Guide: 128. Not regulated as a DG in non-bulk packaging ≤119 gallons (450 L) under 49 CFR.",
+        "iata": {
+          "unNumber": "Not regulated",
+          "description": "Not regulated as Dangerous Goods",
+          "class": "Not regulated",
+          "packingGroup": "Not regulated",
+          "labels": "Not regulated"
+        },
+        "imdg": {
+          "unNumber": "Not regulated",
+          "description": "Not regulated as Dangerous Goods",
+          "class": "Not regulated",
+          "packingGroup": "Not regulated",
+          "labels": "Not regulated",
+          "marinePollutant": "no"
+        },
+        "otherInformation": "Regulatory Conclusion: GHS - Classified due to health and combustible hazards. DG - Regulated (U.S. DOT only) → bulk shipments. Not regulated → non-bulk, air, or sea transport. This dual outcome is common for fragrance and specialty chemical mixtures with moderate flash points but significant health hazards."
+      }
+    },
+    "uploadedDate": "2026-02-05"
+  },
+  {
+    "id": 2,
+    "materialId": "9999-31-8002",
+    "materialName": "TX-85",
+    "source": "RDS",
+    "partNumber": "TX-85",
+    "synonyms": [],
+    "productType": "Mixture (cosmetic raw material)",
+    "intendedUse": "Cosmetics",
+    "manufacturer": "SUNJIN BEAUTY SCIENCE CO., LTD.",
+    "manufacturerLocation": "Seoul, Republic of Korea (Head Office). Manufacturing site: Chungcheongnam-do, Republic of Korea",
+    "emergencyContact": "Not specified",
+    "aiRecommendedDGCode": "Not regulated as Dangerous Goods",
+    "rationaleSummary": "Not classified as hazardous under GHS/CLP. Non-flammable, non-reactive, non-toxic for transport purposes.",
+    "ghsRationale": "The SDS explicitly states \"Not Applicable\" for GHS/CLP classification. Although titanium dioxide is present at high concentration, the SDS clarifies that it does not meet the respirable particle criteria (≤10 μm at ≥1%), which is the trigger for TiO₂ carcinogenic classification under EU CLP. Toxicological data indicate: No skin corrosion or serious eye damage, No sensitization, No acute toxicity classification thresholds met. The EUH212 statement is precautionary and applies only if dust is generated, not under normal handling conditions.",
+    "dgRationale": "The material is: Non-flammable, Non-reactive, Non-toxic for transport purposes, Solid powder with no DG hazard classes. No UN number, hazard class, or packing group is assigned under IMDG, IATA, ADR, RID, or ADN. Environmental hazard criteria are not met for DG transport.",
+    "ghsPictograms": [],
+    "hazardousWaste": false,   
+    "sdsSheetUrl": "/public/sds sheets/MSDS2.pdf",
+    "GHSStatus": "Pending Review",
+    "DGStatus": "Pending Review",
+    "GHS Approval/Rejection Date": "",
+    "DG Approval/Rejection Date": "",
+    "feedback": "",
+    "sections": {
+      "section2": {
+        "classification": "Not classified as hazardous under Regulation (EC) No. 1272/2008 (CLP)",
+        "hazards": [],
+        "ghsCodes": [
+          "EUH210",
+          "EUH212"
+        ],
+        "signalWord": "Not applicable",
+        "hazardStatements": "EUH210: Safety Data Sheet available on request. EUH212: Warning! Hazardous respirable dust may be formed when used. Do not breathe dust.",
+        "precautionaryCodes": [],
+        "precautionaryStatements": "These EUH statements are supplemental information only and do not constitute a GHS hazard classification.",
+        "carcinogenicity": "The titanium dioxide present is not in powder form containing ≥1% respirable particles ≤10 μm, which is critical for classification decisions.",
+        "additionalNotes": "TX-85 is considered a non-hazardous cosmetic raw material under both GHS and Dangerous Goods transport regulations, with standard industrial hygiene controls recommended to minimize dust exposure."
+      },
+      "section3": {
+        "chemicalNature": "Mixture (cosmetic raw material)",
+        "description": "TX-85 - Cosmetic raw material. Main Components (Typical Ranges): Titanium Dioxide: 82–87%, Silica: 7–18%, Dimethicone: 1–7%. Manufacturer: SUNJIN BEAUTY SCIENCE CO., LTD., Seoul, Republic of Korea.",
+        "composition": [
+          {
+            "chemicalName": "Titanium Dioxide",
+            "casNumber": "Not specified",
+            "concentration": "82–87%",
+            "ghsClassification": [],
+            "hazardStatements": []
+          },
+          {
+            "chemicalName": "Silica",
+            "casNumber": "Not specified",
+            "concentration": "7–18%",
+            "ghsClassification": [],
+            "hazardStatements": []
+          },
+          {
+            "chemicalName": "Dimethicone",
+            "casNumber": "Not specified",
+            "concentration": "1–7%",
+            "ghsClassification": [],
+            "hazardStatements": []
+          }
+        ]
+      },
+      "section9": {
+        "physicalState": "solid",
+        "appearance": "White fine powder",
+        "odour": "Odorless",
+        "flashPoint": "Not applicable",
+        "boilingPoint": "Not specified",
+        "vapourPressure": "Not specified",
+        "note": "Water insoluble. Primary handling concern: Dust control (occupational exposure)."
+      },
+      "section14": {
+        "dot": "Not regulated as Dangerous Goods",
+        "iata": {
+          "unNumber": "Not regulated",
+          "description": "Not regulated as Dangerous Goods",
+          "class": "Not regulated",
+          "packingGroup": "Not regulated",
+          "labels": "Not regulated"
+        },
+        "imdg": {
+          "unNumber": "Not regulated",
+          "description": "Not regulated as Dangerous Goods",
+          "class": "Not regulated",
+          "packingGroup": "Not regulated",
+          "labels": "Not regulated",
+          "marinePollutant": "no"
+        },
+        "otherInformation": "Regulatory Conclusion: GHS/CLP - Not classified (EUH statements only). DG (All modes) - Not Dangerous Goods. Transport restrictions: None. Primary handling concern: Dust control (occupational exposure)."
+      }
+    },
+    "uploadedDate": "2026-02-05"
+  },
+  {
+    "id": 3,
+    "materialId": "9999-31-8003",
+    "materialName": "JUVENESSENCE AD",
+    "source": "RDS",
+    "partNumber": "11649M",
+    "synonyms": [],
+    "productType": "Mixture",
+    "intendedUse": "Cosmetic Active Agent",
+    "manufacturer": "BiotechMarine (Subsidiary of SEPPIC Group)",
+    "manufacturerLocation": "Pontrieux, France",
+    "emergencyContact": "CHEMTREC (1-800-424-9300)",
+    "aiRecommendedDGCode": "Not regulated as Dangerous Goods",
+    "rationaleSummary": "Not classified as hazardous. Non-flammable, non-toxic for transport, non-reactive, not environmentally hazardous.",
+    "ghsRationale": "The SDS clearly confirms no physical, health, or environmental hazards meeting GHS classification thresholds. Toxicological data show: No skin or eye irritation classification, No sensitization, No acute or chronic toxicity triggers. The very high flash point (240°C) excludes flammable liquid classification. No hazardous ingredients are present at reportable concentrations under GHS criteria.",
+    "dgRationale": "The product is: Non-flammable, Non-toxic for transport, Non-reactive, Not environmentally hazardous. Transport regulations (DOT, IMDG, IATA, TDG) explicitly state \"Not regulated\", meaning no DG class, UN number, or packing group applies.",
+    "ghsPictograms": [],
+    "hazardousWaste": false,
+    "sdsSheetUrl": "/public/sds sheets/MSDS-3.pdf",
+    "GHSStatus": "Pending Review",
+    "DGStatus": "Pending Review",
+    "GHS Approval/Rejection Date": "",
+    "DG Approval/Rejection Date": "",
+    "feedback": "",
+    "sections": {
+      "section2": {
+        "classification": "Not classified as hazardous",
+        "hazards": [],
+        "ghsCodes": [],
+        "signalWord": "No signal word",
+        "hazardStatements": "None",
+        "precautionaryCodes": [],
+        "precautionaryStatements": "The SDS explicitly states: \"Classification of the substance or mixture: Not classified.\"",
+        "carcinogenicity": "Not applicable - product not classified as hazardous.",
+        "additionalNotes": "JUVENESSENCE AD does not belong to any GHS hazard class or Dangerous Goods class. Overall Status: Non-hazardous cosmetic raw material."
+      },
+      "section3": {
+        "chemicalNature": "Mixture",
+        "description": "JUVENESSENCE AD - Cosmetic Active Agent. Product Code: 11649M. INCI Name: Caprylic/Capric Triglyceride / Algae Extract. Manufacturer: BiotechMarine (Subsidiary of SEPPIC Group), Pontrieux, France.",
+        "composition": [
+          {
+            "chemicalName": "Caprylic/Capric Triglyceride / Algae Extract",
+            "casNumber": "Not specified",
+            "concentration": "Not specified",
+            "ghsClassification": [],
+            "hazardStatements": []
+          }
+        ]
+      },
+      "section9": {
+        "physicalState": "liquid",
+        "appearance": "Liquid (oily), Yellow to green-yellow",
+        "odour": "Not specified",
+        "flashPoint": "240°C (464°F) (Closed cup, estimated)",
+        "boilingPoint": "Not specified",
+        "vapourPressure": "Not specified",
+        "density": "0.92–0.95 g/cm³",
+        "note": "Very high flash point (240°C) excludes flammable liquid classification."
+      },
+      "section14": {
+        "dot": "Not regulated as Dangerous Goods",
+        "iata": {
+          "unNumber": "Not assigned",
+          "description": "Not regulated",
+          "class": "None",
+          "packingGroup": "None",
+          "labels": "Not applicable"
+        },
+        "imdg": {
+          "unNumber": "Not assigned",
+          "description": "Not regulated",
+          "class": "None",
+          "packingGroup": "None",
+          "labels": "Not applicable",
+          "marinePollutant": "no"
+        },
+        "tdg": {
+          "class": "Not regulated",
+          "packingGroup": "Not regulated"
+        },
+        "otherInformation": "Regulatory Conclusion: DOT (US) - Not regulated. IMDG (Sea) - Not regulated. IATA (Air) - Not regulated. TDG (Canada) - Not regulated. ADR/RID / Mexico - Not regulated. Overall Status: Non-hazardous cosmetic raw material."
+      }
+    },
+    "uploadedDate": "2026-02-05"
+  },
+  
+  {
+    "id": 4,
+    "materialId": "9999-31-8004",
+    "materialName": "Ethanol",
+    "source": "RDS",
+    "partNumber": "WRK-120B",
+    "synonyms": [
+      "Ethyl alcohol",
+      "Alcohol",
+      "EtOH",
+      "Grain alcohol",
+      "Denatured Alcohol",
+      "Methylated Spirits",
+      "Ethyl hydroxide",
+      "Cologne spirit",
+      "Methylcarbinol"
+    ],
+    "casNumber": "64-17-5",
+    "ecNumber": "200-578-6",
+    "indexNumber": "603-002-00-5",
+    "productType": "Substance (100% ethanol)",
+    "intendedUse": "Reagents and standards for analytical chemical laboratory use",
+    "manufacturer": "Agilent Technologies, Inc.",
+    "manufacturerLocation": "Santa Clara, California, USA",
+    "emergencyContact": "CHEMTREC® 1-800-424-9300",
+    "aiRecommendedDGCode": "UN1170 - Class 3",
+    "rationaleSummary": "Highly flammable liquid and vapor. May cause cancer. Causes serious eye irritation.",
+    "ghsRationale": "Ethanol's low flash point (~13 °C) and ability to form explosive vapor-air mixtures clearly meet the criteria for Flammable Liquid Category 2 (H225). The SDS assigns Carcinogenicity Category 1A (H350) based on regulatory listings (e.g., IARC Group 1 references), which triggers the GHS08 health hazard pictogram. Eye exposure data supports Eye Irritation Category 2A (H319). These combined hazards justify the \"Danger\" signal word and multiple pictograms.",
+    "dgRationale": "Under UN Model Regulations, liquids with flash point < 23 °C and sustained flammable vapor behavior are classified as Class 3 Flammable Liquids. Ethanol therefore receives UN 1170, Class 3, Packing Group II (medium danger). This classification is mandatory across road, sea, and air transport, regardless of laboratory or commercial use.",
+    "ghsPictograms": [
+      "GHS02",
+      "GHS08",
+      "GHS07"
+    ],
+    "hazardousWaste": true,
+    "sdsSheetUrl": "/public/sds sheets/WRK-120B.pdf", 
+    "GHSStatus": "Pending Review",
+    "DGStatus": "Pending Review",
+    "GHS Approval/Rejection Date": "",
+    "DG Approval/Rejection Date": "",
+    "feedback": "",
+    "sections": {
+      "section2": {
+        "classification": "Flammable Liquids, Category 2; Carcinogenicity, Category 1A; Eye Irritation, Category 2A",
+        "hazards": [
+          "Flammable liquid",
+          "Carcinogenicity",
+          "Eye irritation"
+        ],
+        "ghsCodes": [
+          "GHS02",
+          "GHS08",
+          "GHS07",
+          "H225",
+          "H350",
+          "H319"
+        ],
+        "signalWord": "Danger",
+        "hazardStatements": "H225: Highly flammable liquid and vapor. H350: May cause cancer. H319: Causes serious eye irritation. Additional statement: May form explosive mixtures with air.",
+        "precautionaryCodes": [
+          "P210",
+          "P233",
+          "P240",
+          "P241",
+          "P242",
+          "P243",
+          "P280",
+          "P305+P351+P338",
+          "P308+P313",
+          "P370+P378"
+        ],
+        "precautionaryStatements": "P210: Keep away from heat, sparks, open flames, hot surfaces. P233: Keep container tightly closed. P240: Ground/bond container and receiving equipment. P241: Use explosion-proof electrical equipment. P242: Use only non-sparking tools. P243: Take precautionary measures against static discharge. P280: Wear protective gloves, eye protection, face protection. P305+P351+P338: IF IN EYES: Rinse cautiously with water for several minutes. P308+P313: IF exposed or concerned: Get medical advice/attention. P370+P378: In case of fire: Use dry chemical, dry sand, or alcohol-resistant foam for extinction. Store in a well-ventilated place; keep cool.",
+        "carcinogenicity": "This product is classified as Carcinogenicity Category 1A (H350) based on regulatory listings including IARC Group 1 references. May cause cancer. This SDS applies a more conservative carcinogenic classification (Carc. 1A) than many general ethanol SDSs, based on regulatory interpretation referenced by the supplier.",
+        "additionalNotes": "No additional health or environmental hazard classes are assigned at this concentration (pure ethanol), but flammability alone is sufficient for GHS hazard classification."
+      },
+      "section3": {
+        "chemicalNature": "Substance (organic solvent, laboratory grade)",
+        "description": "Ethanol (Ethyl Alcohol) - CAS Number: 64-17-5, EC Number: 200-578-6, Index Number: 603-002-00-5. Intended use: Reagents and standards for analytical chemical laboratory use. Manufacturer: Agilent Technologies, Inc., Santa Clara, California, USA.",
+        "composition": [
+          {
+            "chemicalName": "Ethanol",
+            "casNumber": "64-17-5",
+            "concentration": "100%",
+            "ghsClassification": [
+              "Flam. Liq. 2",
+              "Carc. 1A",
+              "Eye Irrit. 2A"
+            ],
+            "hazardStatements": [
+              "H225",
+              "H350",
+              "H319"
+            ]
+          }
+        ]
+      },
+      "section9": {
+        "physicalState": "liquid",
+        "appearance": "Clear, colorless liquid",
+        "odour": "Alcohol-like",
+        "flashPoint": "9.7 °C (closed cup) / ~13 °C (55.4 °F)",
+        "boilingPoint": "78.29 °C",
+        "vapourPressure": "Not specified",
+        "lowerExplosiveLimit": "3.3%",
+        "upperExplosiveLimit": "19%",
+        "note": "Explosive vapor/air mixtures possible. Lower explosive limit: 3.3%. Upper explosive limit: 19%."
+      },
+      "section14": {
+        "dot": "UN 1170, Ethanol / Ethyl Alcohol / Ethanol Solution, Class 3, Packing Group II",
+        "kemlerCode": "33",
+        "iata": {
+          "unNumber": "UN1170",
+          "description": "ETHANOL / ETHYL ALCOHOL",
+          "class": "3",
+          "packingGroup": "II",
+          "labels": "3",
+          "limitedQuantity": "Allowed, subject to volume limits",
+          "passengerAircraftLimit": "5 L",
+          "cargoAircraftLimit": "60 L"
+        },
+        "imdg": {
+          "unNumber": "UN1170",
+          "description": "ETHANOL / ETHYL ALCOHOL",
+          "class": "3",
+          "packingGroup": "II",
+          "labels": "3",
+          "emsNumber1": "F-E",
+          "emsNumber2": "S-D",
+          "marinePollutant": "no",
+          "limitedQuantity": "1 L"
+        },
+        "tdg": {
+          "class": "3",
+          "packingGroup": "II"
+        },
+        "mexico": {
+          "class": "3",
+          "packingGroup": "II"
+        },
+        "otherInformation": "Kemler Code: 33. EMS: F-E, S-D. Limited Quantity (IMDG): 1 L. Passenger Aircraft Limit: 5 L. Cargo Aircraft Limit: 60 L. Emergency Contact: CHEMTREC® 1-800-424-9300. Classification is mandatory across road (DOT), sea (IMDG), and air (IATA) transport. Transport modes covered: DOT (US): UN 1170, Class 3, PG II; IMDG (Sea): UN 1170, Class 3, PG II; IATA/ICAO (Air): UN 1170, Class 3, PG II; TDG (Canada): Class 3, PG II; Mexico: Class 3, PG II."
+      }
+    },
+    "uploadedDate": "2026-02-05"
+  },
+  {
+    "id": 5,
+    "materialId": "9999-31-8005",
+    "materialName": "6263732 Woods 25 X EXT 3",
+    "source": "RDS",
+    "partNumber": "6263732",
+    "sdsNumber": "300001162644",
+    "synonyms": [],
+    "productType": "Fragrance Compound (consumer product fragrance)",
+    "intendedUse": "Fragrance compound",
+    "manufacturer": "International Flavors & Fragrances (IFF)",
+    "manufacturerLocation": "IFF (Nederland) BV, Tilburg, Netherlands",
+    "emergencyContact": "Not specified",
+    "aiRecommendedDGCode": "UN3082 - Class 9 (IATA/IMDG only)",
+    "rationaleSummary": "Causes skin irritation. May cause an allergic skin reaction. Environmentally hazardous substance.",
+    "ghsRationale": "The product causes skin irritation and skin sensitization, meeting the criteria for: Skin Irritation Category 2 (H315), Skin Sensitisation Category 1 (H317). No components trigger carcinogenicity, flammability, or systemic toxicity classifications at reportable levels. The flash point of 119 °C is well above the GHS flammable liquid thresholds, excluding flammability classification.",
+    "dgRationale": "The product contains fragrance ingredients (e.g., octahydro tetramethyl naphthalenyl ethanone) that meet aquatic environmental hazard criteria. Under IATA and IMDG, substances hazardous to the aquatic environment are classified as UN 3082, Class 9, Packing Group III. Ground transport under DOT allows exemption; however, air and sea regulations mandate DG classification, making this product conditionally regulated depending on transport mode.",
+    "ghsPictograms": [
+      "GHS07"
+    ],
+    "hazardousWaste": true,
+    "sdsSheetUrl": "/public/sds sheets/MSDS4.pdf",
+    "GHSStatus": "Approved",
+    "DGStatus": "Approved",
+    "GHS Approval/Rejection Date": "2026-02-02",
+    "DG Approval/Rejection Date": "2026-02-02",
+    "feedback": "",
+    "sections": {
+      "section2": {
+        "classification": "Skin Irritation, Category 2; Skin Sensitisation, Category 1",
+        "hazards": [
+          "Skin irritation",
+          "Skin sensitization"
+        ],
+        "ghsCodes": [
+          "GHS07",
+          "H315",
+          "H317"
+        ],
+        "signalWord": "Warning",
+        "hazardStatements": "H315: Causes skin irritation. H317: May cause an allergic skin reaction.",
+        "precautionaryCodes": [
+          "P261",
+          "P280",
+          "P302+P352",
+          "P333+P313",
+          "P501"
+        ],
+        "precautionaryStatements": "P261: Avoid breathing mist or vapours. P280: Wear protective gloves. P302+P352: IF ON SKIN: Wash with plenty of soap and water. P333+P313: If skin irritation or rash occurs: Get medical advice/attention. P501: Dispose of contents/container to an approved waste disposal plant.",
+        "carcinogenicity": "No components trigger carcinogenicity, flammability, or systemic toxicity classifications at reportable levels.",
+        "additionalNotes": "Despite a relatively high flash point, the product is not classified as a flammable liquid under GHS."
+      },
+      "section3": {
+        "chemicalNature": "Fragrance Compound",
+        "description": "6263732 Woods 25 X EXT 3 - Fragrance Compound (consumer product fragrance). Sales No.: 6263732, SDS No.: 300001162644. Manufacturer: International Flavors & Fragrances (IFF), IFF (Nederland) BV, Tilburg, Netherlands.",
+        "composition": [
+          {
+            "chemicalName": "Octahydro Tetramethyl Naphthalenyl Ethanone",
+            "casNumber": "Not specified",
+            "concentration": "Not specified",
+            "ghsClassification": [],
+            "hazardStatements": []
+          }
+        ]
+      },
+      "section9": {
+        "physicalState": "liquid",
+        "appearance": "Clear liquid",
+        "odour": "Not specified",
+        "flashPoint": "246 °F (119 °C)",
+        "boilingPoint": "Not specified",
+        "vapourPressure": "0.03 hPa at 20 °C",
+        "note": "Flash point of 119 °C is well above the GHS flammable liquid thresholds, excluding flammability classification."
+      },
+      "section14": {
+        "dot": "Not regulated as Dangerous Goods under DOT when shipped by ground only",
+        "iata": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9"
+        },
+        "imdg": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9",
+          "emsNumber1": "F-A",
+          "emsNumber2": "S-F",
+          "marinePollutant": "yes"
+        },
+        "otherInformation": "Important Transport Note: IFF states that although DOT ground shipment is non-regulated, the product may be shipped as UN 3082 to support multi-modal transport consistency (air/sea). Ground transport under DOT allows exemption; however, air and sea regulations mandate DG classification, making this product conditionally regulated depending on transport mode."
+      }
+    },
+    "uploadedDate": "2026-02-01"
+  },
+  {
+    "id": 6,
+    "materialId": "9999-31-8006",
+    "materialName": "Ethanol",
+    "source": "NEW",
+    "partNumber": "001114",
+    "synonyms": [
+      "Ethyl alcohol",
+      "Alcohol",
+      "EtOH",
+      "Grain alcohol",
+      "Denatured Alcohol",
+      "Methylated Spirits",
+      "Ethyl hydroxide",
+      "Cologne spirit",
+      "Methylcarbinol"
+    ],
+    "casNumber": "64-17-5",
+    "productType": "Substance (100% ethanol)",
+    "intendedUse": "Synthetic / Analytical chemistry",
+    "manufacturer": "Airgas USA, LLC",
+    "manufacturerLocation": "Radnor, Pennsylvania, USA",
+    "emergencyContact": "1-866-734-3438",
+    "aiRecommendedDGCode": "UN1170 - Class 3",
+    "rationaleSummary": "Highly flammable liquid and vapor. May form explosive mixtures with air.",
+    "ghsRationale": "Ethanol has a very low flash point (9.7 °C) and produces flammable vapors capable of forming explosive air–vapor mixtures. These properties clearly meet the criteria for Flammable Liquid Category 2 under GHS. No additional health or environmental hazard classes are assigned at this concentration (pure ethanol), but flammability alone is sufficient for GHS hazard classification.",
+    "dgRationale": "Under UN Model Regulations and modal transport rules, liquids with a flash point below 23 °C and initial boiling point above 35 °C fall under Class 3 – Flammable Liquids. Ethanol meets these criteria and is therefore assigned: UN 1170, Class 3, Packing Group II (medium danger). The classification is consistent and mandatory across road, sea, and air transport.",
+    "ghsPictograms": [
+      "GHS02"
+    ],
+    "hazardousWaste": true,
+    "sdsSheetUrl": "/public/sds sheets/001114.pdf",
+    "GHSStatus": "Rejected",
+    "DGStatus": "Rejected",
+    "GHS Approval/Rejection Date": "2026-01-29",
+    "DG Approval/Rejection Date": "2026-01-29",
+    "feedback": "",
+    "sections": {
+      "section2": {
+        "classification": "Flammable Liquids, Category 2",
+        "hazards": [
+          "Flammable liquid"
+        ],
+        "ghsCodes": [
+          "GHS02",
+          "H225"
+        ],
+        "signalWord": "Danger",
+        "hazardStatements": "H225: Highly flammable liquid and vapor. Additional statement: May form explosive mixtures with air.",
+        "precautionaryCodes": [
+          "P210",
+          "P233",
+          "P240",
+          "P241",
+          "P242",
+          "P243"
+        ],
+        "precautionaryStatements": "Keep away from heat, sparks, open flames – No smoking. Use explosion-proof equipment. Take precautionary measures against static discharge. Store in a well-ventilated place; keep cool.",
+        "carcinogenicity": "No additional health or environmental hazard classes are assigned at this concentration (pure ethanol), but flammability alone is sufficient for GHS hazard classification.",
+        "additionalNotes": "No additional health or environmental hazard classes are assigned at this concentration (pure ethanol), but flammability alone is sufficient for GHS hazard classification."
+      },
+      "section3": {
+        "chemicalNature": "Substance (100% ethanol)",
+        "description": "Ethanol - CAS Number: 64-17-5. Product Type: Substance (100% ethanol). Product Use: Synthetic / Analytical chemistry. Supplier: Airgas USA, LLC, Radnor, Pennsylvania, USA.",
+        "composition": [
+          {
+            "chemicalName": "Ethanol",
+            "casNumber": "64-17-5",
+            "concentration": "100%",
+            "ghsClassification": [
+              "Flam. Liq. 2"
+            ],
+            "hazardStatements": [
+              "H225"
+            ]
+          }
+        ]
+      },
+      "section9": {
+        "physicalState": "liquid",
+        "appearance": "Clear, colorless liquid",
+        "odour": "Not specified",
+        "flashPoint": "9.7 °C (closed cup)",
+        "boilingPoint": "78.29 °C",
+        "vapourPressure": "Not specified",
+        "lowerExplosiveLimit": "3.3%",
+        "upperExplosiveLimit": "19%",
+        "note": "Lower explosive limit: 3.3%. Upper explosive limit: 19%."
+      },
+      "section14": {
+        "dot": "UN 1170, Ethanol / Ethyl Alcohol / Ethanol Solution, Class 3, Packing Group II",
+        "iata": {
+          "unNumber": "UN1170",
+          "description": "ETHANOL / ETHYL ALCOHOL / ETHANOL SOLUTION",
+          "class": "3",
+          "packingGroup": "II",
+          "labels": "3",
+          "limitedQuantity": "Allowed, subject to volume limits (e.g., 5 L passenger aircraft, 60 L cargo aircraft)"
+        },
+        "imdg": {
+          "unNumber": "UN1170",
+          "description": "ETHANOL / ETHYL ALCOHOL / ETHANOL SOLUTION",
+          "class": "3",
+          "packingGroup": "II",
+          "labels": "3",
+          "marinePollutant": "no"
+        },
+        "tdg": {
+          "class": "3",
+          "packingGroup": "II"
+        },
+        "mexico": {
+          "class": "3",
+          "packingGroup": "II"
+        },
+        "otherInformation": "Transport Modes: DOT (US): Class 3, PG II; IMDG (Sea): Class 3, PG II; IATA/ICAO (Air): Class 3, PG II; TDG (Canada): Class 3, PG II; Mexico: Class 3, PG II. Limited Quantity: Allowed, subject to volume limits (e.g., 5 L passenger aircraft, 60 L cargo aircraft). The classification is consistent and mandatory across road, sea, and air transport."
+      }
+    },
+    "uploadedDate": "2026-01-28"
+  },
+  {
+    "id": 7,
+    "materialId": "9999-31-8007",
+    "materialName": "Ethanol",
+    "source": "RDS",
+    "partNumber": "WRK-120B",
+    "synonyms": [
+      "Ethyl alcohol",
+      "Alcohol",
+      "EtOH",
+      "Grain alcohol",
+      "Denatured Alcohol",
+      "Methylated Spirits",
+      "Ethyl hydroxide",
+      "Cologne spirit",
+      "Methylcarbinol"
+    ],
+    "casNumber": "64-17-5",
+    "ecNumber": "200-578-6",
+    "indexNumber": "603-002-00-5",
+    "productType": "Substance (100% ethanol)",
+    "intendedUse": "Reagents and standards for analytical chemical laboratory use",
+    "manufacturer": "Agilent Technologies, Inc.",
+    "manufacturerLocation": "Santa Clara, California, USA",
+    "emergencyContact": "CHEMTREC® 1-800-424-9300",
+    "aiRecommendedDGCode": "UN1170 - Class 3",
+    "rationaleSummary": "Highly flammable liquid and vapor. May cause cancer. Causes serious eye irritation.",
+    "ghsRationale": "Ethanol's low flash point (~13 °C) and ability to form explosive vapor-air mixtures clearly meet the criteria for Flammable Liquid Category 2 (H225). The SDS assigns Carcinogenicity Category 1A (H350) based on regulatory listings (e.g., IARC Group 1 references), which triggers the GHS08 health hazard pictogram. Eye exposure data supports Eye Irritation Category 2A (H319). These combined hazards justify the \"Danger\" signal word and multiple pictograms.",
+    "dgRationale": "Under UN Model Regulations, liquids with flash point < 23 °C and sustained flammable vapor behavior are classified as Class 3 Flammable Liquids. Ethanol therefore receives UN 1170, Class 3, Packing Group II (medium danger). This classification is mandatory across road, sea, and air transport, regardless of laboratory or commercial use.",
+    "ghsPictograms": [
+      "GHS02",
+      "GHS08",
+      "GHS07"
+    ],
+    "hazardousWaste": true,
+    "sdsSheetUrl": "/public/sds sheets/WRK-120B.pdf", 
+    "GHSStatus": "Approved",
+    "DGStatus": "Approved",
+    "GHS Approval/Rejection Date": "2026-01-22",
+    "DG Approval/Rejection Date": "2026-01-22",
+    "feedback": "",
+    "sections": {
+      "section2": {
+        "classification": "Flammable Liquids, Category 2; Carcinogenicity, Category 1A; Eye Irritation, Category 2A",
+        "hazards": [
+          "Flammable liquid",
+          "Carcinogenicity",
+          "Eye irritation"
+        ],
+        "ghsCodes": [
+          "GHS02",
+          "GHS08",
+          "GHS07",
+          "H225",
+          "H350",
+          "H319"
+        ],
+        "signalWord": "Danger",
+        "hazardStatements": "H225: Highly flammable liquid and vapor. H350: May cause cancer. H319: Causes serious eye irritation. Additional statement: May form explosive mixtures with air.",
+        "precautionaryCodes": [
+          "P210",
+          "P233",
+          "P240",
+          "P241",
+          "P242",
+          "P243",
+          "P280",
+          "P305+P351+P338",
+          "P308+P313",
+          "P370+P378"
+        ],
+        "precautionaryStatements": "P210: Keep away from heat, sparks, open flames, hot surfaces. P233: Keep container tightly closed. P240: Ground/bond container and receiving equipment. P241: Use explosion-proof electrical equipment. P242: Use only non-sparking tools. P243: Take precautionary measures against static discharge. P280: Wear protective gloves, eye protection, face protection. P305+P351+P338: IF IN EYES: Rinse cautiously with water for several minutes. P308+P313: IF exposed or concerned: Get medical advice/attention. P370+P378: In case of fire: Use dry chemical, dry sand, or alcohol-resistant foam for extinction. Store in a well-ventilated place; keep cool.",
+        "carcinogenicity": "This product is classified as Carcinogenicity Category 1A (H350) based on regulatory listings including IARC Group 1 references. May cause cancer. This SDS applies a more conservative carcinogenic classification (Carc. 1A) than many general ethanol SDSs, based on regulatory interpretation referenced by the supplier.",
+        "additionalNotes": "No additional health or environmental hazard classes are assigned at this concentration (pure ethanol), but flammability alone is sufficient for GHS hazard classification."
+      },
+      "section3": {
+        "chemicalNature": "Substance (organic solvent, laboratory grade)",
+        "description": "Ethanol (Ethyl Alcohol) - CAS Number: 64-17-5, EC Number: 200-578-6, Index Number: 603-002-00-5. Intended use: Reagents and standards for analytical chemical laboratory use. Manufacturer: Agilent Technologies, Inc., Santa Clara, California, USA.",
+        "composition": [
+          {
+            "chemicalName": "Ethanol",
+            "casNumber": "64-17-5",
+            "concentration": "100%",
+            "ghsClassification": [
+              "Flam. Liq. 2",
+              "Carc. 1A",
+              "Eye Irrit. 2A"
+            ],
+            "hazardStatements": [
+              "H225",
+              "H350",
+              "H319"
+            ]
+          }
+        ]
+      },
+      "section9": {
+        "physicalState": "liquid",
+        "appearance": "Clear, colorless liquid",
+        "odour": "Alcohol-like",
+        "flashPoint": "9.7 °C (closed cup) / ~13 °C (55.4 °F)",
+        "boilingPoint": "78.29 °C",
+        "vapourPressure": "Not specified",
+        "lowerExplosiveLimit": "3.3%",
+        "upperExplosiveLimit": "19%",
+        "note": "Explosive vapor/air mixtures possible. Lower explosive limit: 3.3%. Upper explosive limit: 19%."
+      },
+      "section14": {
+        "dot": "UN 1170, Ethanol / Ethyl Alcohol / Ethanol Solution, Class 3, Packing Group II",
+        "kemlerCode": "33",
+        "iata": {
+          "unNumber": "UN1170",
+          "description": "ETHANOL / ETHYL ALCOHOL",
+          "class": "3",
+          "packingGroup": "II",
+          "labels": "3",
+          "limitedQuantity": "Allowed, subject to volume limits",
+          "passengerAircraftLimit": "5 L",
+          "cargoAircraftLimit": "60 L"
+        },
+        "imdg": {
+          "unNumber": "UN1170",
+          "description": "ETHANOL / ETHYL ALCOHOL",
+          "class": "3",
+          "packingGroup": "II",
+          "labels": "3",
+          "emsNumber1": "F-E",
+          "emsNumber2": "S-D",
+          "marinePollutant": "no",
+          "limitedQuantity": "1 L"
+        },
+        "tdg": {
+          "class": "3",
+          "packingGroup": "II"
+        },
+        "mexico": {
+          "class": "3",
+          "packingGroup": "II"
+        },
+        "otherInformation": "Kemler Code: 33. EMS: F-E, S-D. Limited Quantity (IMDG): 1 L. Passenger Aircraft Limit: 5 L. Cargo Aircraft Limit: 60 L. Emergency Contact: CHEMTREC® 1-800-424-9300. Classification is mandatory across road (DOT), sea (IMDG), and air (IATA) transport. Transport modes covered: DOT (US): UN 1170, Class 3, PG II; IMDG (Sea): UN 1170, Class 3, PG II; IATA/ICAO (Air): UN 1170, Class 3, PG II; TDG (Canada): Class 3, PG II; Mexico: Class 3, PG II."
+      }
+    },
+    "uploadedDate": "2026-01-21"
+  },
+  {
+    "id": 8,
+    "materialId": "9999-31-8008",
+    "materialName": "Key Lime Mint Allergen Mod",
+    "source": "RDS",
+    "partNumber": "UL028649/00",
+    "internalCode": "9999-31-8761",
+    "synonyms": [],
+    "productType": "Mixture",
+    "intendedUse": "Fragrance / Perfume compound",
+    "manufacturer": "Givaudan Fragrances Corp.",
+    "manufacturerLocation": "Mount Olive, New Jersey, USA",
+    "emergencyContact": "Not specified",
+    "aiRecommendedDGCode": "NA1993 - Combustible Liquid (DOT bulk only)",
+    "rationaleSummary": "Combustible liquid. Causes skin irritation. Causes serious eye irritation. May cause allergic skin reaction. Suspected of damaging fertility or the unborn child.",
+    "ghsRationale": "The GHS classification is driven primarily by health hazards and combustibility, not extreme flammability. The flash point of 89 °C places the product in Flammable Liquid Category 4, qualifying it as a combustible liquid rather than a highly flammable one. Multiple constituents contribute to skin irritation, eye irritation, and skin sensitization, justifying H315, H319, and H317. Toxicological evaluation indicates suspected reproductive toxicity (Category 2), resulting in H361.",
+    "dgRationale": "Under U.S. DOT, the material qualifies as NA 1993, Combustible Liquid, PG III only when shipped in bulk quantities. The flash point exceeds 60 °C, excluding it from Class 3 flammable liquids but still meeting the U.S. definition of a combustible liquid. International regulations (IMDG, IATA) do not classify this material as Dangerous Goods due to higher flash point thresholds and lower transport risk profiles.",
+    "ghsPictograms": [
+      "GHS02",
+      "GHS07"
+    ],
+    "hazardousWaste": false,
+    "sdsSheetUrl": "/public/sds sheets/MSDS1.pdf",
+    "GHSStatus": "Approved",
+    "DGStatus": "Approved",
+    "GHS Approval/Rejection Date": "2026-01-12",
+    "DG Approval/Rejection Date": "2026-01-12",
+    "feedback": "",
+    "sections": {
+      "section2": {
+        "classification": "Flammable Liquid, Category 4; Skin Irritation, Category 2; Eye Irritation, Category 2A; Skin Sensitization, Category 1; Reproductive Toxicity, Category 2",
+        "hazards": [
+          "Flammable liquid",
+          "Skin irritation",
+          "Eye irritation",
+          "Skin sensitization",
+          "Reproductive toxicity"
+        ],
+        "ghsCodes": [
+          "GHS02",
+          "GHS07",
+          "H227",
+          "H315",
+          "H319",
+          "H317",
+          "H361"
+        ],
+        "signalWord": "Warning",
+        "hazardStatements": "H227: Combustible liquid. H315: Causes skin irritation. H319: Causes serious eye irritation. H317: May cause an allergic skin reaction. H361: Suspected of damaging fertility or the unborn child.",
+        "precautionaryCodes": [
+          "P210",
+          "P280",
+          "P302+P352",
+          "P305+P351+P338",
+          "P308+P313",
+          "P501"
+        ],
+        "precautionaryStatements": "P210: Keep away from heat, sparks, open flames, hot surfaces. P280: Wear protective gloves, eye protection, face protection. P302+P352: IF ON SKIN: Wash with plenty of water. P305+P351+P338: IF IN EYES: Rinse cautiously with water for several minutes. P308+P313: IF exposed or concerned: Get medical advice/attention. P501: Dispose of contents/container in accordance with local regulations.",
+        "carcinogenicity": "Not specified in source material.",
+        "additionalNotes": "These classifications are explicitly stated by the manufacturer in Section 2 and supported by component toxicology in Sections 3 and 11."
+      },
+      "section3": {
+        "chemicalNature": "Fragrance compound",
+        "description": "Key Lime Mint Allergen Mod - Fragrance / Perfume compound. Product Identifier: UL028649/00, Internal code: 9999-31-8761. Manufacturer: Givaudan Fragrances Corp., Mount Olive, New Jersey, USA.",
+        "composition": [
+          {
+            "chemicalName": "2,6-dimethyloct-7-en-2-ol",
+            "casNumber": "Not specified",
+            "concentration": "Not specified",
+            "ghsClassification": [],
+            "hazardStatements": []
+          },
+          {
+            "chemicalName": "2,6-dimethyloctanol",
+            "casNumber": "Not specified",
+            "concentration": "Not specified",
+            "ghsClassification": [],
+            "hazardStatements": []
+          }
+        ]
+      },
+      "section9": {
+        "physicalState": "liquid",
+        "appearance": "Off-white liquid",
+        "odour": "Citrus-like, aromatic, herbaceous",
+        "flashPoint": "192 °F (89 °C), closed cup",
+        "boilingPoint": "Not specified",
+        "vapourPressure": "Not specified",
+        "note": "Flash point exceeds 60 °C, excluding it from Class 3 flammable liquids but still meeting the U.S. definition of a combustible liquid."
+      },
+      "section14": {
+        "dot": "NA 1993, Combustible liquid, n.o.s. (contains 2,6-dimethyloct-7-en-2-ol, 2,6-dimethyloctanol), Combustible Liquid, Packing Group III, ERG Guide: 128. Not regulated as a DG in non-bulk packaging ≤119 gallons (450 L) under 49 CFR.",
+        "iata": {
+          "unNumber": "Not regulated",
+          "description": "Not regulated as Dangerous Goods",
+          "class": "Not regulated",
+          "packingGroup": "Not regulated",
+          "labels": "Not regulated"
+        },
+        "imdg": {
+          "unNumber": "Not regulated",
+          "description": "Not regulated as Dangerous Goods",
+          "class": "Not regulated",
+          "packingGroup": "Not regulated",
+          "labels": "Not regulated",
+          "marinePollutant": "no"
+        },
+        "otherInformation": "Regulatory Conclusion: GHS - Classified due to health and combustible hazards. DG - Regulated (U.S. DOT only) → bulk shipments. Not regulated → non-bulk, air, or sea transport. This dual outcome is common for fragrance and specialty chemical mixtures with moderate flash points but significant health hazards."
+      }
+    },
+    "uploadedDate": "2026-01-11"
+  },
+  {
+    "id": 9,
+    "materialId": "9999-31-8009",
+    "materialName": "TX-85",
+    "source": "RDS",
+    "partNumber": "TX-85",
+    "synonyms": [],
+    "productType": "Mixture (cosmetic raw material)",
+    "intendedUse": "Cosmetics",
+    "manufacturer": "SUNJIN BEAUTY SCIENCE CO., LTD.",
+    "manufacturerLocation": "Seoul, Republic of Korea (Head Office). Manufacturing site: Chungcheongnam-do, Republic of Korea",
+    "emergencyContact": "Not specified",
+    "aiRecommendedDGCode": "Not regulated as Dangerous Goods",
+    "rationaleSummary": "Not classified as hazardous under GHS/CLP. Non-flammable, non-reactive, non-toxic for transport purposes.",
+    "ghsRationale": "The SDS explicitly states \"Not Applicable\" for GHS/CLP classification. Although titanium dioxide is present at high concentration, the SDS clarifies that it does not meet the respirable particle criteria (≤10 μm at ≥1%), which is the trigger for TiO₂ carcinogenic classification under EU CLP. Toxicological data indicate: No skin corrosion or serious eye damage, No sensitization, No acute toxicity classification thresholds met. The EUH212 statement is precautionary and applies only if dust is generated, not under normal handling conditions.",
+    "dgRationale": "The material is: Non-flammable, Non-reactive, Non-toxic for transport purposes, Solid powder with no DG hazard classes. No UN number, hazard class, or packing group is assigned under IMDG, IATA, ADR, RID, or ADN. Environmental hazard criteria are not met for DG transport.",
+    "ghsPictograms": [],
+    "sdsSheetUrl": "/public/sds sheets/MSDS2.pdf",
+    "GHSStatus": "Approved",
+    "DGStatus": "Approved",
+    "GHS Approval/Rejection Date": "2026-01-03",
+    "DG Approval/Rejection Date": "2026-01-03",
+    "feedback": "",
+    "sections": {
+      "section2": {
+        "classification": "Not classified as hazardous under Regulation (EC) No. 1272/2008 (CLP)",
+        "hazards": [],
+        "ghsCodes": [
+          "EUH210",
+          "EUH212"
+        ],
+        "hazardousWaste": false,
+        "signalWord": "Not applicable",
+        "hazardStatements": "EUH210: Safety Data Sheet available on request. EUH212: Warning! Hazardous respirable dust may be formed when used. Do not breathe dust.",
+        "precautionaryCodes": [],
+        "precautionaryStatements": "These EUH statements are supplemental information only and do not constitute a GHS hazard classification.",
+        "carcinogenicity": "The titanium dioxide present is not in powder form containing ≥1% respirable particles ≤10 μm, which is critical for classification decisions.",
+        "additionalNotes": "TX-85 is considered a non-hazardous cosmetic raw material under both GHS and Dangerous Goods transport regulations, with standard industrial hygiene controls recommended to minimize dust exposure."
+      },
+      "section3": {
+        "chemicalNature": "Mixture (cosmetic raw material)",
+        "description": "TX-85 - Cosmetic raw material. Main Components (Typical Ranges): Titanium Dioxide: 82–87%, Silica: 7–18%, Dimethicone: 1–7%. Manufacturer: SUNJIN BEAUTY SCIENCE CO., LTD., Seoul, Republic of Korea.",
+        "composition": [
+          {
+            "chemicalName": "Titanium Dioxide",
+            "casNumber": "Not specified",
+            "concentration": "82–87%",
+            "ghsClassification": [],
+            "hazardStatements": []
+          },
+          {
+            "chemicalName": "Silica",
+            "casNumber": "Not specified",
+            "concentration": "7–18%",
+            "ghsClassification": [],
+            "hazardStatements": []
+          },
+          {
+            "chemicalName": "Dimethicone",
+            "casNumber": "Not specified",
+            "concentration": "1–7%",
+            "ghsClassification": [],
+            "hazardStatements": []
+          }
+        ]
+      },
+      "section9": {
+        "physicalState": "solid",
+        "appearance": "White fine powder",
+        "odour": "Odorless",
+        "flashPoint": "Not applicable",
+        "boilingPoint": "Not specified",
+        "vapourPressure": "Not specified",
+        "note": "Water insoluble. Primary handling concern: Dust control (occupational exposure)."
+      },
+      "section14": {
+        "dot": "Not regulated as Dangerous Goods",
+        "iata": {
+          "unNumber": "Not regulated",
+          "description": "Not regulated as Dangerous Goods",
+          "class": "Not regulated",
+          "packingGroup": "Not regulated",
+          "labels": "Not regulated"
+        },
+        "imdg": {
+          "unNumber": "Not regulated",
+          "description": "Not regulated as Dangerous Goods",
+          "class": "Not regulated",
+          "packingGroup": "Not regulated",
+          "labels": "Not regulated",
+          "marinePollutant": "no"
+        },
+        "otherInformation": "Regulatory Conclusion: GHS/CLP - Not classified (EUH statements only). DG (All modes) - Not Dangerous Goods. Transport restrictions: None. Primary handling concern: Dust control (occupational exposure)."
+      }
+    },
+    "uploadedDate": "2026-01-02"
+  },
+  {
+    "id": 10,
+    "materialId": "9999-31-8010",
+    "materialName": "JUVENESSENCE AD",
+    "source": "RDS",
+    "partNumber": "11649M",
+    "synonyms": [],
+    "productType": "Mixture",
+    "intendedUse": "Cosmetic Active Agent",
+    "manufacturer": "BiotechMarine (Subsidiary of SEPPIC Group)",
+    "manufacturerLocation": "Pontrieux, France",
+    "emergencyContact": "CHEMTREC (1-800-424-9300)",
+    "aiRecommendedDGCode": "Not regulated as Dangerous Goods",
+    "rationaleSummary": "Not classified as hazardous. Non-flammable, non-toxic for transport, non-reactive, not environmentally hazardous.",
+    "ghsRationale": "The SDS clearly confirms no physical, health, or environmental hazards meeting GHS classification thresholds. Toxicological data show: No skin or eye irritation classification, No sensitization, No acute or chronic toxicity triggers. The very high flash point (240°C) excludes flammable liquid classification. No hazardous ingredients are present at reportable concentrations under GHS criteria.",
+    "dgRationale": "The product is: Non-flammable, Non-toxic for transport, Non-reactive, Not environmentally hazardous. Transport regulations (DOT, IMDG, IATA, TDG) explicitly state \"Not regulated\", meaning no DG class, UN number, or packing group applies.",
+    "ghsPictograms": [],
+    "hazardousWaste": false,
+    "sdsSheetUrl": "/public/sds sheets/MSDS-3.pdf",
+    "GHSStatus": "Approved",
+    "DGStatus": "Approved",
+    "GHS Approval/Rejection Date": "2025-12-30",
+    "DG Approval/Rejection Date": "2025-12-30",
+    "feedback": "",
+    "sections": {
+      "section2": {
+        "classification": "Not classified as hazardous",
+        "hazards": [],
+        "ghsCodes": [],
+        "signalWord": "No signal word",
+        "hazardStatements": "None",
+        "precautionaryCodes": [],
+        "precautionaryStatements": "The SDS explicitly states: \"Classification of the substance or mixture: Not classified.\"",
+        "carcinogenicity": "Not applicable - product not classified as hazardous.",
+        "additionalNotes": "JUVENESSENCE AD does not belong to any GHS hazard class or Dangerous Goods class. Overall Status: Non-hazardous cosmetic raw material."
+      },
+      "section3": {
+        "chemicalNature": "Mixture",
+        "description": "JUVENESSENCE AD - Cosmetic Active Agent. Product Code: 11649M. INCI Name: Caprylic/Capric Triglyceride / Algae Extract. Manufacturer: BiotechMarine (Subsidiary of SEPPIC Group), Pontrieux, France.",
+        "composition": [
+          {
+            "chemicalName": "Caprylic/Capric Triglyceride / Algae Extract",
+            "casNumber": "Not specified",
+            "concentration": "Not specified",
+            "ghsClassification": [],
+            "hazardStatements": []
+          }
+        ]
+      },
+      "section9": {
+        "physicalState": "liquid",
+        "appearance": "Liquid (oily), Yellow to green-yellow",
+        "odour": "Not specified",
+        "flashPoint": "240°C (464°F) (Closed cup, estimated)",
+        "boilingPoint": "Not specified",
+        "vapourPressure": "Not specified",
+        "density": "0.92–0.95 g/cm³",
+        "note": "Very high flash point (240°C) excludes flammable liquid classification."
+      },
+      "section14": {
+        "dot": "Not regulated as Dangerous Goods",
+        "iata": {
+          "unNumber": "Not assigned",
+          "description": "Not regulated",
+          "class": "None",
+          "packingGroup": "None",
+          "labels": "Not applicable"
+        },
+        "imdg": {
+          "unNumber": "Not assigned",
+          "description": "Not regulated",
+          "class": "None",
+          "packingGroup": "None",
+          "labels": "Not applicable",
+          "marinePollutant": "no"
+        },
+        "tdg": {
+          "class": "Not regulated",
+          "packingGroup": "Not regulated"
+        },
+        "otherInformation": "Regulatory Conclusion: DOT (US) - Not regulated. IMDG (Sea) - Not regulated. IATA (Air) - Not regulated. TDG (Canada) - Not regulated. ADR/RID / Mexico - Not regulated. Overall Status: Non-hazardous cosmetic raw material."
+      }
+    },
+    "uploadedDate": "2025-12-29"
+  },
+  {
+    "id": 11,
+    "materialId": "9999-31-8011",
+    "materialName": "6263732 Woods 25 X EXT 3",
+    "source": "RDS",
+    "partNumber": "6263732",
+    "sdsNumber": "300001162644",
+    "synonyms": [],
+    "productType": "Fragrance Compound (consumer product fragrance)",
+    "intendedUse": "Fragrance compound",
+    "manufacturer": "International Flavors & Fragrances (IFF)",
+    "manufacturerLocation": "IFF (Nederland) BV, Tilburg, Netherlands",
+    "emergencyContact": "Not specified",
+    "aiRecommendedDGCode": "UN3082 - Class 9 (IATA/IMDG only)",
+    "rationaleSummary": "Causes skin irritation. May cause an allergic skin reaction. Environmentally hazardous substance.",
+    "ghsRationale": "The product causes skin irritation and skin sensitization, meeting the criteria for: Skin Irritation Category 2 (H315), Skin Sensitisation Category 1 (H317). No components trigger carcinogenicity, flammability, or systemic toxicity classifications at reportable levels. The flash point of 119 °C is well above the GHS flammable liquid thresholds, excluding flammability classification.",
+    "dgRationale": "The product contains fragrance ingredients (e.g., octahydro tetramethyl naphthalenyl ethanone) that meet aquatic environmental hazard criteria. Under IATA and IMDG, substances hazardous to the aquatic environment are classified as UN 3082, Class 9, Packing Group III. Ground transport under DOT allows exemption; however, air and sea regulations mandate DG classification, making this product conditionally regulated depending on transport mode.",
+    "ghsPictograms": [
+      "GHS07"
+    ],
+    "hazardousWaste": true,
+    "sdsSheetUrl": "/public/sds sheets/MSDS4.pdf",
+    "GHSStatus": "Rejected",
+    "DGStatus": "Rejected",
+    "GHS Approval/Rejection Date": "2025-12-25",
+    "DG Approval/Rejection Date": "2025-12-25",
+    "feedback": "",
+    "sections": {
+      "section2": {
+        "classification": "Skin Irritation, Category 2; Skin Sensitisation, Category 1",
+        "hazards": [
+          "Skin irritation",
+          "Skin sensitization"
+        ],
+        "ghsCodes": [
+          "GHS07",
+          "H315",
+          "H317"
+        ],
+        "signalWord": "Warning",
+        "hazardStatements": "H315: Causes skin irritation. H317: May cause an allergic skin reaction.",
+        "precautionaryCodes": [
+          "P261",
+          "P280",
+          "P302+P352",
+          "P333+P313",
+          "P501"
+        ],
+        "precautionaryStatements": "P261: Avoid breathing mist or vapours. P280: Wear protective gloves. P302+P352: IF ON SKIN: Wash with plenty of soap and water. P333+P313: If skin irritation or rash occurs: Get medical advice/attention. P501: Dispose of contents/container to an approved waste disposal plant.",
+        "carcinogenicity": "No components trigger carcinogenicity, flammability, or systemic toxicity classifications at reportable levels.",
+        "additionalNotes": "Despite a relatively high flash point, the product is not classified as a flammable liquid under GHS."
+      },
+      "section3": {
+        "chemicalNature": "Fragrance Compound",
+        "description": "6263732 Woods 25 X EXT 3 - Fragrance Compound (consumer product fragrance). Sales No.: 6263732, SDS No.: 300001162644. Manufacturer: International Flavors & Fragrances (IFF), IFF (Nederland) BV, Tilburg, Netherlands.",
+        "composition": [
+          {
+            "chemicalName": "Octahydro Tetramethyl Naphthalenyl Ethanone",
+            "casNumber": "Not specified",
+            "concentration": "Not specified",
+            "ghsClassification": [],
+            "hazardStatements": []
+          }
+        ]
+      },
+      "section9": {
+        "physicalState": "liquid",
+        "appearance": "Clear liquid",
+        "odour": "Not specified",
+        "flashPoint": "246 °F (119 °C)",
+        "boilingPoint": "Not specified",
+        "vapourPressure": "0.03 hPa at 20 °C",
+        "note": "Flash point of 119 °C is well above the GHS flammable liquid thresholds, excluding flammability classification."
+      },
+      "section14": {
+        "dot": "Not regulated as Dangerous Goods under DOT when shipped by ground only",
+        "iata": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9"
+        },
+        "imdg": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9",
+          "emsNumber1": "F-A",
+          "emsNumber2": "S-F",
+          "marinePollutant": "yes"
+        },
+        "otherInformation": "Important Transport Note: IFF states that although DOT ground shipment is non-regulated, the product may be shipped as UN 3082 to support multi-modal transport consistency (air/sea). Ground transport under DOT allows exemption; however, air and sea regulations mandate DG classification, making this product conditionally regulated depending on transport mode."
+      }
+    },
+    "uploadedDate": "2025-12-24"
+  },
+  {
+    "id": 12,
+    "materialId": "9999-31-8012",
+    "materialName": "Ethanol",
+    "source": "NEW",
+    "partNumber": "001114",
+    "synonyms": [
+      "Ethyl alcohol",
+      "Alcohol",
+      "EtOH",
+      "Grain alcohol",
+      "Denatured Alcohol",
+      "Methylated Spirits",
+      "Ethyl hydroxide",
+      "Cologne spirit",
+      "Methylcarbinol"
+    ],
+    "casNumber": "64-17-5",
+    "productType": "Substance (100% ethanol)",
+    "intendedUse": "Synthetic / Analytical chemistry",
+    "manufacturer": "Airgas USA, LLC",
+    "manufacturerLocation": "Radnor, Pennsylvania, USA",
+    "emergencyContact": "1-866-734-3438",
+    "aiRecommendedDGCode": "UN1170 - Class 3",
+    "rationaleSummary": "Highly flammable liquid and vapor. May form explosive mixtures with air.",
+    "ghsRationale": "Ethanol has a very low flash point (9.7 °C) and produces flammable vapors capable of forming explosive air–vapor mixtures. These properties clearly meet the criteria for Flammable Liquid Category 2 under GHS. No additional health or environmental hazard classes are assigned at this concentration (pure ethanol), but flammability alone is sufficient for GHS hazard classification.",
+    "dgRationale": "Under UN Model Regulations and modal transport rules, liquids with a flash point below 23 °C and initial boiling point above 35 °C fall under Class 3 – Flammable Liquids. Ethanol meets these criteria and is therefore assigned: UN 1170, Class 3, Packing Group II (medium danger). The classification is consistent and mandatory across road, sea, and air transport.",
+    "ghsPictograms": [
+      "GHS02"
+    ],
+    "hazardousWaste": true,
+    "sdsSheetUrl": "/public/sds sheets/001114.pdf",
+    "GHSStatus": "Approved",
+    "DGStatus": "Approved",
+    "GHS Approval/Rejection Date": "2025-12-20",
+    "DG Approval/Rejection Date": "2025-12-20",
+    "feedback": "",
+    "sections": {
+      "section2": {
+        "classification": "Flammable Liquids, Category 2",
+        "hazards": [
+          "Flammable liquid"
+        ],
+        "ghsCodes": [
+          "GHS02",
+          "H225"
+        ],
+        "signalWord": "Danger",
+        "hazardStatements": "H225: Highly flammable liquid and vapor. Additional statement: May form explosive mixtures with air.",
+        "precautionaryCodes": [
+          "P210",
+          "P233",
+          "P240",
+          "P241",
+          "P242",
+          "P243"
+        ],
+        "precautionaryStatements": "Keep away from heat, sparks, open flames – No smoking. Use explosion-proof equipment. Take precautionary measures against static discharge. Store in a well-ventilated place; keep cool.",
+        "carcinogenicity": "No additional health or environmental hazard classes are assigned at this concentration (pure ethanol), but flammability alone is sufficient for GHS hazard classification.",
+        "additionalNotes": "No additional health or environmental hazard classes are assigned at this concentration (pure ethanol), but flammability alone is sufficient for GHS hazard classification."
+      },
+      "section3": {
+        "chemicalNature": "Substance (100% ethanol)",
+        "description": "Ethanol - CAS Number: 64-17-5. Product Type: Substance (100% ethanol). Product Use: Synthetic / Analytical chemistry. Supplier: Airgas USA, LLC, Radnor, Pennsylvania, USA.",
+        "composition": [
+          {
+            "chemicalName": "Ethanol",
+            "casNumber": "64-17-5",
+            "concentration": "100%",
+            "ghsClassification": [
+              "Flam. Liq. 2"
+            ],
+            "hazardStatements": [
+              "H225"
+            ]
+          }
+        ]
+      },
+      "section9": {
+        "physicalState": "liquid",
+        "appearance": "Clear, colorless liquid",
+        "odour": "Not specified",
+        "flashPoint": "9.7 °C (closed cup)",
+        "boilingPoint": "78.29 °C",
+        "vapourPressure": "Not specified",
+        "lowerExplosiveLimit": "3.3%",
+        "upperExplosiveLimit": "19%",
+        "note": "Lower explosive limit: 3.3%. Upper explosive limit: 19%."
+      },
+      "section14": {
+        "dot": "UN 1170, Ethanol / Ethyl Alcohol / Ethanol Solution, Class 3, Packing Group II",
+        "iata": {
+          "unNumber": "UN1170",
+          "description": "ETHANOL / ETHYL ALCOHOL / ETHANOL SOLUTION",
+          "class": "3",
+          "packingGroup": "II",
+          "labels": "3",
+          "limitedQuantity": "Allowed, subject to volume limits (e.g., 5 L passenger aircraft, 60 L cargo aircraft)"
+        },
+        "imdg": {
+          "unNumber": "UN1170",
+          "description": "ETHANOL / ETHYL ALCOHOL / ETHANOL SOLUTION",
+          "class": "3",
+          "packingGroup": "II",
+          "labels": "3",
+          "marinePollutant": "no"
+        },
+        "tdg": {
+          "class": "3",
+          "packingGroup": "II"
+        },
+        "mexico": {
+          "class": "3",
+          "packingGroup": "II"
+        },
+        "otherInformation": "Transport Modes: DOT (US): Class 3, PG II; IMDG (Sea): Class 3, PG II; IATA/ICAO (Air): Class 3, PG II; TDG (Canada): Class 3, PG II; Mexico: Class 3, PG II. Limited Quantity: Allowed, subject to volume limits (e.g., 5 L passenger aircraft, 60 L cargo aircraft). The classification is consistent and mandatory across road, sea, and air transport."
+      }
+    },
+    "uploadedDate": "2025-012-18"
+  },
+  {
+    "id": 13,
+    "materialId": "9999-31-80013",
+    "materialName": "Ethanol",
+    "source": "RDS",
+    "partNumber": "WRK-120B",
+    "synonyms": [
+      "Ethyl alcohol",
+      "Alcohol",
+      "EtOH",
+      "Grain alcohol",
+      "Denatured Alcohol",
+      "Methylated Spirits",
+      "Ethyl hydroxide",
+      "Cologne spirit",
+      "Methylcarbinol"
+    ],
+    "casNumber": "64-17-5",
+    "ecNumber": "200-578-6",
+    "indexNumber": "603-002-00-5",
+    "productType": "Substance (100% ethanol)",
+    "intendedUse": "Reagents and standards for analytical chemical laboratory use",
+    "manufacturer": "Agilent Technologies, Inc.",
+    "manufacturerLocation": "Santa Clara, California, USA",
+    "emergencyContact": "CHEMTREC® 1-800-424-9300",
+    "aiRecommendedDGCode": "UN1170 - Class 3",
+    "rationaleSummary": "Highly flammable liquid and vapor. May cause cancer. Causes serious eye irritation.",
+    "ghsRationale": "Ethanol's low flash point (~13 °C) and ability to form explosive vapor-air mixtures clearly meet the criteria for Flammable Liquid Category 2 (H225). The SDS assigns Carcinogenicity Category 1A (H350) based on regulatory listings (e.g., IARC Group 1 references), which triggers the GHS08 health hazard pictogram. Eye exposure data supports Eye Irritation Category 2A (H319). These combined hazards justify the \"Danger\" signal word and multiple pictograms.",
+    "dgRationale": "Under UN Model Regulations, liquids with flash point < 23 °C and sustained flammable vapor behavior are classified as Class 3 Flammable Liquids. Ethanol therefore receives UN 1170, Class 3, Packing Group II (medium danger). This classification is mandatory across road, sea, and air transport, regardless of laboratory or commercial use.",
+    "ghsPictograms": [
+      "GHS02",
+      "GHS08",
+      "GHS07"
+    ],
+    "hazardousWaste": true,
+    "sdsSheetUrl": "/public/sds sheets/WRK-120B.pdf", 
+    "GHSStatus": "Approved",
+    "DGStatus": "Approved",
+    "GHS Approval/Rejection Date": "2025-12-10",
+    "DG Approval/Rejection Date": "2025-12-10",
+    "feedback": "",
+    "sections": {
+      "section2": {
+        "classification": "Flammable Liquids, Category 2; Carcinogenicity, Category 1A; Eye Irritation, Category 2A",
+        "hazards": [
+          "Flammable liquid",
+          "Carcinogenicity",
+          "Eye irritation"
+        ],
+        "ghsCodes": [
+          "GHS02",
+          "GHS08",
+          "GHS07",
+          "H225",
+          "H350",
+          "H319"
+        ],
+        "signalWord": "Danger",
+        "hazardStatements": "H225: Highly flammable liquid and vapor. H350: May cause cancer. H319: Causes serious eye irritation. Additional statement: May form explosive mixtures with air.",
+        "precautionaryCodes": [
+          "P210",
+          "P233",
+          "P240",
+          "P241",
+          "P242",
+          "P243",
+          "P280",
+          "P305+P351+P338",
+          "P308+P313",
+          "P370+P378"
+        ],
+        "precautionaryStatements": "P210: Keep away from heat, sparks, open flames, hot surfaces. P233: Keep container tightly closed. P240: Ground/bond container and receiving equipment. P241: Use explosion-proof electrical equipment. P242: Use only non-sparking tools. P243: Take precautionary measures against static discharge. P280: Wear protective gloves, eye protection, face protection. P305+P351+P338: IF IN EYES: Rinse cautiously with water for several minutes. P308+P313: IF exposed or concerned: Get medical advice/attention. P370+P378: In case of fire: Use dry chemical, dry sand, or alcohol-resistant foam for extinction. Store in a well-ventilated place; keep cool.",
+        "carcinogenicity": "This product is classified as Carcinogenicity Category 1A (H350) based on regulatory listings including IARC Group 1 references. May cause cancer. This SDS applies a more conservative carcinogenic classification (Carc. 1A) than many general ethanol SDSs, based on regulatory interpretation referenced by the supplier.",
+        "additionalNotes": "No additional health or environmental hazard classes are assigned at this concentration (pure ethanol), but flammability alone is sufficient for GHS hazard classification."
+      },
+      "section3": {
+        "chemicalNature": "Substance (organic solvent, laboratory grade)",
+        "description": "Ethanol (Ethyl Alcohol) - CAS Number: 64-17-5, EC Number: 200-578-6, Index Number: 603-002-00-5. Intended use: Reagents and standards for analytical chemical laboratory use. Manufacturer: Agilent Technologies, Inc., Santa Clara, California, USA.",
+        "composition": [
+          {
+            "chemicalName": "Ethanol",
+            "casNumber": "64-17-5",
+            "concentration": "100%",
+            "ghsClassification": [
+              "Flam. Liq. 2",
+              "Carc. 1A",
+              "Eye Irrit. 2A"
+            ],
+            "hazardStatements": [
+              "H225",
+              "H350",
+              "H319"
+            ]
+          }
+        ]
+      },
+      "section9": {
+        "physicalState": "liquid",
+        "appearance": "Clear, colorless liquid",
+        "odour": "Alcohol-like",
+        "flashPoint": "9.7 °C (closed cup) / ~13 °C (55.4 °F)",
+        "boilingPoint": "78.29 °C",
+        "vapourPressure": "Not specified",
+        "lowerExplosiveLimit": "3.3%",
+        "upperExplosiveLimit": "19%",
+        "note": "Explosive vapor/air mixtures possible. Lower explosive limit: 3.3%. Upper explosive limit: 19%."
+      },
+      "section14": {
+        "dot": "UN 1170, Ethanol / Ethyl Alcohol / Ethanol Solution, Class 3, Packing Group II",
+        "kemlerCode": "33",
+        "iata": {
+          "unNumber": "UN1170",
+          "description": "ETHANOL / ETHYL ALCOHOL",
+          "class": "3",
+          "packingGroup": "II",
+          "labels": "3",
+          "limitedQuantity": "Allowed, subject to volume limits",
+          "passengerAircraftLimit": "5 L",
+          "cargoAircraftLimit": "60 L"
+        },
+        "imdg": {
+          "unNumber": "UN1170",
+          "description": "ETHANOL / ETHYL ALCOHOL",
+          "class": "3",
+          "packingGroup": "II",
+          "labels": "3",
+          "emsNumber1": "F-E",
+          "emsNumber2": "S-D",
+          "marinePollutant": "no",
+          "limitedQuantity": "1 L"
+        },
+        "tdg": {
+          "class": "3",
+          "packingGroup": "II"
+        },
+        "mexico": {
+          "class": "3",
+          "packingGroup": "II"
+        },
+        "otherInformation": "Kemler Code: 33. EMS: F-E, S-D. Limited Quantity (IMDG): 1 L. Passenger Aircraft Limit: 5 L. Cargo Aircraft Limit: 60 L. Emergency Contact: CHEMTREC® 1-800-424-9300. Classification is mandatory across road (DOT), sea (IMDG), and air (IATA) transport. Transport modes covered: DOT (US): UN 1170, Class 3, PG II; IMDG (Sea): UN 1170, Class 3, PG II; IATA/ICAO (Air): UN 1170, Class 3, PG II; TDG (Canada): Class 3, PG II; Mexico: Class 3, PG II."
+      }
+    },
+    "uploadedDate": "2025-12-09"
+  },
+  {
+    "id": 14,
+    "materialId": "9999-31-8014",
+    "materialName": "Key Lime Mint Allergen Mod",
+    "source": "RDS",
+    "partNumber": "UL028649/00",
+    "internalCode": "9999-31-8761",
+    "synonyms": [],
+    "productType": "Mixture",
+    "intendedUse": "Fragrance / Perfume compound",
+    "manufacturer": "Givaudan Fragrances Corp.",
+    "manufacturerLocation": "Mount Olive, New Jersey, USA",
+    "emergencyContact": "Not specified",
+    "aiRecommendedDGCode": "NA1993 - Combustible Liquid (DOT bulk only)",
+    "rationaleSummary": "Combustible liquid. Causes skin irritation. Causes serious eye irritation. May cause allergic skin reaction. Suspected of damaging fertility or the unborn child.",
+    "ghsRationale": "The GHS classification is driven primarily by health hazards and combustibility, not extreme flammability. The flash point of 89 °C places the product in Flammable Liquid Category 4, qualifying it as a combustible liquid rather than a highly flammable one. Multiple constituents contribute to skin irritation, eye irritation, and skin sensitization, justifying H315, H319, and H317. Toxicological evaluation indicates suspected reproductive toxicity (Category 2), resulting in H361.",
+    "dgRationale": "Under U.S. DOT, the material qualifies as NA 1993, Combustible Liquid, PG III only when shipped in bulk quantities. The flash point exceeds 60 °C, excluding it from Class 3 flammable liquids but still meeting the U.S. definition of a combustible liquid. International regulations (IMDG, IATA) do not classify this material as Dangerous Goods due to higher flash point thresholds and lower transport risk profiles.",
+    "ghsPictograms": [
+      "GHS02",
+      "GHS07"
+    ],
+    "hazardousWaste": false,
+    "sdsSheetUrl": "/public/sds sheets/MSDS1.pdf",
+    "GHSStatus": "Approved",
+    "DGStatus": "Approved",
+    "GHS Approval/Rejection Date": "2025-12-05",
+    "DG Approval/Rejection Date": "2025-12-05",
+    "feedback": "",
+    "sections": {
+      "section2": {
+        "classification": "Flammable Liquid, Category 4; Skin Irritation, Category 2; Eye Irritation, Category 2A; Skin Sensitization, Category 1; Reproductive Toxicity, Category 2",
+        "hazards": [
+          "Flammable liquid",
+          "Skin irritation",
+          "Eye irritation",
+          "Skin sensitization",
+          "Reproductive toxicity"
+        ],
+        "ghsCodes": [
+          "GHS02",
+          "GHS07",
+          "H227",
+          "H315",
+          "H319",
+          "H317",
+          "H361"
+        ],
+        "signalWord": "Warning",
+        "hazardStatements": "H227: Combustible liquid. H315: Causes skin irritation. H319: Causes serious eye irritation. H317: May cause an allergic skin reaction. H361: Suspected of damaging fertility or the unborn child.",
+        "precautionaryCodes": [
+          "P210",
+          "P280",
+          "P302+P352",
+          "P305+P351+P338",
+          "P308+P313",
+          "P501"
+        ],
+        "precautionaryStatements": "P210: Keep away from heat, sparks, open flames, hot surfaces. P280: Wear protective gloves, eye protection, face protection. P302+P352: IF ON SKIN: Wash with plenty of water. P305+P351+P338: IF IN EYES: Rinse cautiously with water for several minutes. P308+P313: IF exposed or concerned: Get medical advice/attention. P501: Dispose of contents/container in accordance with local regulations.",
+        "carcinogenicity": "Not specified in source material.",
+        "additionalNotes": "These classifications are explicitly stated by the manufacturer in Section 2 and supported by component toxicology in Sections 3 and 11."
+      },
+      "section3": {
+        "chemicalNature": "Fragrance compound",
+        "description": "Key Lime Mint Allergen Mod - Fragrance / Perfume compound. Product Identifier: UL028649/00, Internal code: 9999-31-8761. Manufacturer: Givaudan Fragrances Corp., Mount Olive, New Jersey, USA.",
+        "composition": [
+          {
+            "chemicalName": "2,6-dimethyloct-7-en-2-ol",
+            "casNumber": "Not specified",
+            "concentration": "Not specified",
+            "ghsClassification": [],
+            "hazardStatements": []
+          },
+          {
+            "chemicalName": "2,6-dimethyloctanol",
+            "casNumber": "Not specified",
+            "concentration": "Not specified",
+            "ghsClassification": [],
+            "hazardStatements": []
+          }
+        ]
+      },
+      "section9": {
+        "physicalState": "liquid",
+        "appearance": "Off-white liquid",
+        "odour": "Citrus-like, aromatic, herbaceous",
+        "flashPoint": "192 °F (89 °C), closed cup",
+        "boilingPoint": "Not specified",
+        "vapourPressure": "Not specified",
+        "note": "Flash point exceeds 60 °C, excluding it from Class 3 flammable liquids but still meeting the U.S. definition of a combustible liquid."
+      },
+      "section14": {
+        "dot": "NA 1993, Combustible liquid, n.o.s. (contains 2,6-dimethyloct-7-en-2-ol, 2,6-dimethyloctanol), Combustible Liquid, Packing Group III, ERG Guide: 128. Not regulated as a DG in non-bulk packaging ≤119 gallons (450 L) under 49 CFR.",
+        "iata": {
+          "unNumber": "Not regulated",
+          "description": "Not regulated as Dangerous Goods",
+          "class": "Not regulated",
+          "packingGroup": "Not regulated",
+          "labels": "Not regulated"
+        },
+        "imdg": {
+          "unNumber": "Not regulated",
+          "description": "Not regulated as Dangerous Goods",
+          "class": "Not regulated",
+          "packingGroup": "Not regulated",
+          "labels": "Not regulated",
+          "marinePollutant": "no"
+        },
+        "otherInformation": "Regulatory Conclusion: GHS - Classified due to health and combustible hazards. DG - Regulated (U.S. DOT only) → bulk shipments. Not regulated → non-bulk, air, or sea transport. This dual outcome is common for fragrance and specialty chemical mixtures with moderate flash points but significant health hazards."
+      }
+    },
+    "uploadedDate": "2025-12-04"
+  },
+  {
+    "id": 15,
+    "materialId": "9999-31-8015",
+    "materialName": "TX-85",
+    "source": "RDS",
+    "partNumber": "TX-85",
+    "synonyms": [],
+    "productType": "Mixture (cosmetic raw material)",
+    "intendedUse": "Cosmetics",
+    "manufacturer": "SUNJIN BEAUTY SCIENCE CO., LTD.",
+    "manufacturerLocation": "Seoul, Republic of Korea (Head Office). Manufacturing site: Chungcheongnam-do, Republic of Korea",
+    "emergencyContact": "Not specified",
+    "aiRecommendedDGCode": "Not regulated as Dangerous Goods",
+    "rationaleSummary": "Not classified as hazardous under GHS/CLP. Non-flammable, non-reactive, non-toxic for transport purposes.",
+    "ghsRationale": "The SDS explicitly states \"Not Applicable\" for GHS/CLP classification. Although titanium dioxide is present at high concentration, the SDS clarifies that it does not meet the respirable particle criteria (≤10 μm at ≥1%), which is the trigger for TiO₂ carcinogenic classification under EU CLP. Toxicological data indicate: No skin corrosion or serious eye damage, No sensitization, No acute toxicity classification thresholds met. The EUH212 statement is precautionary and applies only if dust is generated, not under normal handling conditions.",
+    "dgRationale": "The material is: Non-flammable, Non-reactive, Non-toxic for transport purposes, Solid powder with no DG hazard classes. No UN number, hazard class, or packing group is assigned under IMDG, IATA, ADR, RID, or ADN. Environmental hazard criteria are not met for DG transport.",
+    "ghsPictograms": [],
+    "hazardousWaste": false,
+    "sdsSheetUrl": "/public/sds sheets/MSDS2.pdf",
+    "GHSStatus": "Approved",
+    "DGStatus": "Approved",
+    "GHS Approval/Rejection Date": "2025-11-29",
+    "DG Approval/Rejection Date": "2025-11-29",
+    "feedback": "",
+    "sections": {
+      "section2": {
+        "classification": "Not classified as hazardous under Regulation (EC) No. 1272/2008 (CLP)",
+        "hazards": [],
+        "ghsCodes": [
+          "EUH210",
+          "EUH212"
+        ],
+        "signalWord": "Not applicable",
+        "hazardStatements": "EUH210: Safety Data Sheet available on request. EUH212: Warning! Hazardous respirable dust may be formed when used. Do not breathe dust.",
+        "precautionaryCodes": [],
+        "precautionaryStatements": "These EUH statements are supplemental information only and do not constitute a GHS hazard classification.",
+        "carcinogenicity": "The titanium dioxide present is not in powder form containing ≥1% respirable particles ≤10 μm, which is critical for classification decisions.",
+        "additionalNotes": "TX-85 is considered a non-hazardous cosmetic raw material under both GHS and Dangerous Goods transport regulations, with standard industrial hygiene controls recommended to minimize dust exposure."
+      },
+      "section3": {
+        "chemicalNature": "Mixture (cosmetic raw material)",
+        "description": "TX-85 - Cosmetic raw material. Main Components (Typical Ranges): Titanium Dioxide: 82–87%, Silica: 7–18%, Dimethicone: 1–7%. Manufacturer: SUNJIN BEAUTY SCIENCE CO., LTD., Seoul, Republic of Korea.",
+        "composition": [
+          {
+            "chemicalName": "Titanium Dioxide",
+            "casNumber": "Not specified",
+            "concentration": "82–87%",
+            "ghsClassification": [],
+            "hazardStatements": []
+          },
+          {
+            "chemicalName": "Silica",
+            "casNumber": "Not specified",
+            "concentration": "7–18%",
+            "ghsClassification": [],
+            "hazardStatements": []
+          },
+          {
+            "chemicalName": "Dimethicone",
+            "casNumber": "Not specified",
+            "concentration": "1–7%",
+            "ghsClassification": [],
+            "hazardStatements": []
+          }
+        ]
+      },
+      "section9": {
+        "physicalState": "solid",
+        "appearance": "White fine powder",
+        "odour": "Odorless",
+        "flashPoint": "Not applicable",
+        "boilingPoint": "Not specified",
+        "vapourPressure": "Not specified",
+        "note": "Water insoluble. Primary handling concern: Dust control (occupational exposure)."
+      },
+      "section14": {
+        "dot": "Not regulated as Dangerous Goods",
+        "iata": {
+          "unNumber": "Not regulated",
+          "description": "Not regulated as Dangerous Goods",
+          "class": "Not regulated",
+          "packingGroup": "Not regulated",
+          "labels": "Not regulated"
+        },
+        "imdg": {
+          "unNumber": "Not regulated",
+          "description": "Not regulated as Dangerous Goods",
+          "class": "Not regulated",
+          "packingGroup": "Not regulated",
+          "labels": "Not regulated",
+          "marinePollutant": "no"
+        },
+        "otherInformation": "Regulatory Conclusion: GHS/CLP - Not classified (EUH statements only). DG (All modes) - Not Dangerous Goods. Transport restrictions: None. Primary handling concern: Dust control (occupational exposure)."
+      }
+    },
+    "uploadedDate": "2025-11-28"
+  },
+  {
+    "id": 16,
+    "materialId": "9999-31-8016",
+    "materialName": "JUVENESSENCE AD",
+    "source": "RDS",
+    "partNumber": "11649M",
+    "synonyms": [],
+    "productType": "Mixture",
+    "intendedUse": "Cosmetic Active Agent",
+    "manufacturer": "BiotechMarine (Subsidiary of SEPPIC Group)",
+    "manufacturerLocation": "Pontrieux, France",
+    "emergencyContact": "CHEMTREC (1-800-424-9300)",
+    "aiRecommendedDGCode": "Not regulated as Dangerous Goods",
+    "rationaleSummary": "Not classified as hazardous. Non-flammable, non-toxic for transport, non-reactive, not environmentally hazardous.",
+    "ghsRationale": "The SDS clearly confirms no physical, health, or environmental hazards meeting GHS classification thresholds. Toxicological data show: No skin or eye irritation classification, No sensitization, No acute or chronic toxicity triggers. The very high flash point (240°C) excludes flammable liquid classification. No hazardous ingredients are present at reportable concentrations under GHS criteria.",
+    "dgRationale": "The product is: Non-flammable, Non-toxic for transport, Non-reactive, Not environmentally hazardous. Transport regulations (DOT, IMDG, IATA, TDG) explicitly state \"Not regulated\", meaning no DG class, UN number, or packing group applies.",
+    "ghsPictograms": [],
+    "hazardousWaste": false,
+    "sdsSheetUrl": "/public/sds sheets/MSDS-3.pdf",
+    "GHSStatus": "Approved",
+    "DGStatus": "Approved",
+    "GHS Approval/Rejection Date": "2025-11-22",
+    "DG Approval/Rejection Date": "2025-11-22",
+    "feedback": "",
+    "sections": {
+      "section2": {
+        "classification": "Not classified as hazardous",
+        "hazards": [],
+        "ghsCodes": [],
+        "signalWord": "No signal word",
+        "hazardStatements": "None",
+        "precautionaryCodes": [],
+        "precautionaryStatements": "The SDS explicitly states: \"Classification of the substance or mixture: Not classified.\"",
+        "carcinogenicity": "Not applicable - product not classified as hazardous.",
+        "additionalNotes": "JUVENESSENCE AD does not belong to any GHS hazard class or Dangerous Goods class. Overall Status: Non-hazardous cosmetic raw material."
+      },
+      "section3": {
+        "chemicalNature": "Mixture",
+        "description": "JUVENESSENCE AD - Cosmetic Active Agent. Product Code: 11649M. INCI Name: Caprylic/Capric Triglyceride / Algae Extract. Manufacturer: BiotechMarine (Subsidiary of SEPPIC Group), Pontrieux, France.",
+        "composition": [
+          {
+            "chemicalName": "Caprylic/Capric Triglyceride / Algae Extract",
+            "casNumber": "Not specified",
+            "concentration": "Not specified",
+            "ghsClassification": [],
+            "hazardStatements": []
+          }
+        ]
+      },
+      "section9": {
+        "physicalState": "liquid",
+        "appearance": "Liquid (oily), Yellow to green-yellow",
+        "odour": "Not specified",
+        "flashPoint": "240°C (464°F) (Closed cup, estimated)",
+        "boilingPoint": "Not specified",
+        "vapourPressure": "Not specified",
+        "density": "0.92–0.95 g/cm³",
+        "note": "Very high flash point (240°C) excludes flammable liquid classification."
+      },
+      "section14": {
+        "dot": "Not regulated as Dangerous Goods",
+        "iata": {
+          "unNumber": "Not assigned",
+          "description": "Not regulated",
+          "class": "None",
+          "packingGroup": "None",
+          "labels": "Not applicable"
+        },
+        "imdg": {
+          "unNumber": "Not assigned",
+          "description": "Not regulated",
+          "class": "None",
+          "packingGroup": "None",
+          "labels": "Not applicable",
+          "marinePollutant": "no"
+        },
+        "tdg": {
+          "class": "Not regulated",
+          "packingGroup": "Not regulated"
+        },
+        "otherInformation": "Regulatory Conclusion: DOT (US) - Not regulated. IMDG (Sea) - Not regulated. IATA (Air) - Not regulated. TDG (Canada) - Not regulated. ADR/RID / Mexico - Not regulated. Overall Status: Non-hazardous cosmetic raw material."
+      }
+    },
+    "uploadedDate": "2025-11-20"
+  },
+  {
+    "id": 17,
+    "materialId": "9999-31-8017",
+    "materialName": "6263732 Woods 25 X EXT 3",
+    "source": "RDS",
+    "partNumber": "6263732",
+    "sdsNumber": "300001162644",
+    "synonyms": [],
+    "productType": "Fragrance Compound (consumer product fragrance)",
+    "intendedUse": "Fragrance compound",
+    "manufacturer": "International Flavors & Fragrances (IFF)",
+    "manufacturerLocation": "IFF (Nederland) BV, Tilburg, Netherlands",
+    "emergencyContact": "Not specified",
+    "aiRecommendedDGCode": "UN3082 - Class 9 (IATA/IMDG only)",
+    "rationaleSummary": "Causes skin irritation. May cause an allergic skin reaction. Environmentally hazardous substance.",
+    "ghsRationale": "The product causes skin irritation and skin sensitization, meeting the criteria for: Skin Irritation Category 2 (H315), Skin Sensitisation Category 1 (H317). No components trigger carcinogenicity, flammability, or systemic toxicity classifications at reportable levels. The flash point of 119 °C is well above the GHS flammable liquid thresholds, excluding flammability classification.",
+    "dgRationale": "The product contains fragrance ingredients (e.g., octahydro tetramethyl naphthalenyl ethanone) that meet aquatic environmental hazard criteria. Under IATA and IMDG, substances hazardous to the aquatic environment are classified as UN 3082, Class 9, Packing Group III. Ground transport under DOT allows exemption; however, air and sea regulations mandate DG classification, making this product conditionally regulated depending on transport mode.",
+    "ghsPictograms": [
+      "GHS07"
+    ],
+    "hazardousWaste": true,
+    "sdsSheetUrl": "/public/sds sheets/MSDS4.pdf",
+    "GHSStatus": "Approved",
+    "DGStatus": "Approved",
+    "GHS Approval/Rejection Date": "2025-11-15",
+    "DG Approval/Rejection Date": "2025-11-15",
+    "feedback": "",
+    "sections": {
+      "section2": {
+        "classification": "Skin Irritation, Category 2; Skin Sensitisation, Category 1",
+        "hazards": [
+          "Skin irritation",
+          "Skin sensitization"
+        ],
+        "ghsCodes": [
+          "GHS07",
+          "H315",
+          "H317"
+        ],
+        "signalWord": "Warning",
+        "hazardStatements": "H315: Causes skin irritation. H317: May cause an allergic skin reaction.",
+        "precautionaryCodes": [
+          "P261",
+          "P280",
+          "P302+P352",
+          "P333+P313",
+          "P501"
+        ],
+        "precautionaryStatements": "P261: Avoid breathing mist or vapours. P280: Wear protective gloves. P302+P352: IF ON SKIN: Wash with plenty of soap and water. P333+P313: If skin irritation or rash occurs: Get medical advice/attention. P501: Dispose of contents/container to an approved waste disposal plant.",
+        "carcinogenicity": "No components trigger carcinogenicity, flammability, or systemic toxicity classifications at reportable levels.",
+        "additionalNotes": "Despite a relatively high flash point, the product is not classified as a flammable liquid under GHS."
+      },
+      "section3": {
+        "chemicalNature": "Fragrance Compound",
+        "description": "6263732 Woods 25 X EXT 3 - Fragrance Compound (consumer product fragrance). Sales No.: 6263732, SDS No.: 300001162644. Manufacturer: International Flavors & Fragrances (IFF), IFF (Nederland) BV, Tilburg, Netherlands.",
+        "composition": [
+          {
+            "chemicalName": "Octahydro Tetramethyl Naphthalenyl Ethanone",
+            "casNumber": "Not specified",
+            "concentration": "Not specified",
+            "ghsClassification": [],
+            "hazardStatements": []
+          }
+        ]
+      },
+      "section9": {
+        "physicalState": "liquid",
+        "appearance": "Clear liquid",
+        "odour": "Not specified",
+        "flashPoint": "246 °F (119 °C)",
+        "boilingPoint": "Not specified",
+        "vapourPressure": "0.03 hPa at 20 °C",
+        "note": "Flash point of 119 °C is well above the GHS flammable liquid thresholds, excluding flammability classification."
+      },
+      "section14": {
+        "dot": "Not regulated as Dangerous Goods under DOT when shipped by ground only",
+        "iata": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9"
+        },
+        "imdg": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9",
+          "emsNumber1": "F-A",
+          "emsNumber2": "S-F",
+          "marinePollutant": "yes"
+        },
+        "otherInformation": "Important Transport Note: IFF states that although DOT ground shipment is non-regulated, the product may be shipped as UN 3082 to support multi-modal transport consistency (air/sea). Ground transport under DOT allows exemption; however, air and sea regulations mandate DG classification, making this product conditionally regulated depending on transport mode."
+      }
+    },
+    "uploadedDate": "2025-11-12"
+  },
+  {
+      "id": 18,
+    "materialId": "9999-31-8018",
+    "materialName": "Ethanol",
+    "source": "NEW",
+    "partNumber": "001114",
+    "synonyms": [
+      "Ethyl alcohol",
+      "Alcohol",
+      "EtOH",
+      "Grain alcohol",
+      "Denatured Alcohol",
+      "Methylated Spirits",
+      "Ethyl hydroxide",
+      "Cologne spirit",
+      "Methylcarbinol"
+    ],
+    "casNumber": "64-17-5",
+    "productType": "Substance (100% ethanol)",
+    "intendedUse": "Synthetic / Analytical chemistry",
+    "manufacturer": "Airgas USA, LLC",
+    "manufacturerLocation": "Radnor, Pennsylvania, USA",
+    "emergencyContact": "1-866-734-3438",
+    "aiRecommendedDGCode": "UN1170 - Class 3",
+    "rationaleSummary": "Highly flammable liquid and vapor. May form explosive mixtures with air.",
+    "ghsRationale": "Ethanol has a very low flash point (9.7 °C) and produces flammable vapors capable of forming explosive air–vapor mixtures. These properties clearly meet the criteria for Flammable Liquid Category 2 under GHS. No additional health or environmental hazard classes are assigned at this concentration (pure ethanol), but flammability alone is sufficient for GHS hazard classification.",
+    "dgRationale": "Under UN Model Regulations and modal transport rules, liquids with a flash point below 23 °C and initial boiling point above 35 °C fall under Class 3 – Flammable Liquids. Ethanol meets these criteria and is therefore assigned: UN 1170, Class 3, Packing Group II (medium danger). The classification is consistent and mandatory across road, sea, and air transport.",
+    "ghsPictograms": [
+      "GHS02"
+    ],
+    "hazardousWaste": true,
+    "sdsSheetUrl": "/public/sds sheets/001114.pdf",
+    "GHSStatus": "Approved",
+    "DGStatus": "Approved",
+    "GHS Approval/Rejection Date": "2025-10-26",
+    "DG Approval/Rejection Date": "2025-10-26",
+    "feedback": "",
+    "sections": {
+      "section2": {
+        "classification": "Flammable Liquids, Category 2",
+        "hazards": [
+          "Flammable liquid"
+        ],
+        "ghsCodes": [
+          "GHS02",
+          "H225"
+        ],
+        "signalWord": "Danger",
+        "hazardStatements": "H225: Highly flammable liquid and vapor. Additional statement: May form explosive mixtures with air.",
+        "precautionaryCodes": [
+          "P210",
+          "P233",
+          "P240",
+          "P241",
+          "P242",
+          "P243"
+        ],
+        "precautionaryStatements": "Keep away from heat, sparks, open flames – No smoking. Use explosion-proof equipment. Take precautionary measures against static discharge. Store in a well-ventilated place; keep cool.",
+        "carcinogenicity": "No additional health or environmental hazard classes are assigned at this concentration (pure ethanol), but flammability alone is sufficient for GHS hazard classification.",
+        "additionalNotes": "No additional health or environmental hazard classes are assigned at this concentration (pure ethanol), but flammability alone is sufficient for GHS hazard classification."
+      },
+      "section3": {
+        "chemicalNature": "Substance (100% ethanol)",
+        "description": "Ethanol - CAS Number: 64-17-5. Product Type: Substance (100% ethanol). Product Use: Synthetic / Analytical chemistry. Supplier: Airgas USA, LLC, Radnor, Pennsylvania, USA.",
+        "composition": [
+          {
+            "chemicalName": "Ethanol",
+            "casNumber": "64-17-5",
+            "concentration": "100%",
+            "ghsClassification": [
+              "Flam. Liq. 2"
+            ],
+            "hazardStatements": [
+              "H225"
+            ]
+          }
+        ]
+      },
+      "section9": {
+        "physicalState": "liquid",
+        "appearance": "Clear, colorless liquid",
+        "odour": "Not specified",
+        "flashPoint": "9.7 °C (closed cup)",
+        "boilingPoint": "78.29 °C",
+        "vapourPressure": "Not specified",
+        "lowerExplosiveLimit": "3.3%",
+        "upperExplosiveLimit": "19%",
+        "note": "Lower explosive limit: 3.3%. Upper explosive limit: 19%."
+      },
+      "section14": {
+        "dot": "UN 1170, Ethanol / Ethyl Alcohol / Ethanol Solution, Class 3, Packing Group II",
+        "iata": {
+          "unNumber": "UN1170",
+          "description": "ETHANOL / ETHYL ALCOHOL / ETHANOL SOLUTION",
+          "class": "3",
+          "packingGroup": "II",
+          "labels": "3",
+          "limitedQuantity": "Allowed, subject to volume limits (e.g., 5 L passenger aircraft, 60 L cargo aircraft)"
+        },
+        "imdg": {
+          "unNumber": "UN1170",
+          "description": "ETHANOL / ETHYL ALCOHOL / ETHANOL SOLUTION",
+          "class": "3",
+          "packingGroup": "II",
+          "labels": "3",
+          "marinePollutant": "no"
+        },
+        "tdg": {
+          "class": "3",
+          "packingGroup": "II"
+        },
+        "mexico": {
+          "class": "3",
+          "packingGroup": "II"
+        },
+        "otherInformation": "Transport Modes: DOT (US): Class 3, PG II; IMDG (Sea): Class 3, PG II; IATA/ICAO (Air): Class 3, PG II; TDG (Canada): Class 3, PG II; Mexico: Class 3, PG II. Limited Quantity: Allowed, subject to volume limits (e.g., 5 L passenger aircraft, 60 L cargo aircraft). The classification is consistent and mandatory across road, sea, and air transport."
+      }
+    },
+    "uploadedDate": "2025-10-25"
+  },
+  {
+    "id": 19,
+    "materialId": "9999-31-8019",
+    "materialName": "Ethanol",
+    "source": "RDS",
+    "partNumber": "WRK-120B",
+    "synonyms": [
+      "Ethyl alcohol",
+      "Alcohol",
+      "EtOH",
+      "Grain alcohol",
+      "Denatured Alcohol",
+      "Methylated Spirits",
+      "Ethyl hydroxide",
+      "Cologne spirit",
+      "Methylcarbinol"
+    ],
+    "casNumber": "64-17-5",
+    "ecNumber": "200-578-6",
+    "indexNumber": "603-002-00-5",
+    "productType": "Substance (100% ethanol)",
+    "intendedUse": "Reagents and standards for analytical chemical laboratory use",
+    "manufacturer": "Agilent Technologies, Inc.",
+    "manufacturerLocation": "Santa Clara, California, USA",
+    "emergencyContact": "CHEMTREC® 1-800-424-9300",
+    "aiRecommendedDGCode": "UN1170 - Class 3",
+    "rationaleSummary": "Highly flammable liquid and vapor. May cause cancer. Causes serious eye irritation.",
+    "ghsRationale": "Ethanol's low flash point (~13 °C) and ability to form explosive vapor-air mixtures clearly meet the criteria for Flammable Liquid Category 2 (H225). The SDS assigns Carcinogenicity Category 1A (H350) based on regulatory listings (e.g., IARC Group 1 references), which triggers the GHS08 health hazard pictogram. Eye exposure data supports Eye Irritation Category 2A (H319). These combined hazards justify the \"Danger\" signal word and multiple pictograms.",
+    "dgRationale": "Under UN Model Regulations, liquids with flash point < 23 °C and sustained flammable vapor behavior are classified as Class 3 Flammable Liquids. Ethanol therefore receives UN 1170, Class 3, Packing Group II (medium danger). This classification is mandatory across road, sea, and air transport, regardless of laboratory or commercial use.",
+    "ghsPictograms": [
+      "GHS02",
+      "GHS08",
+      "GHS07"
+    ],
+    "hazardousWaste": true,
+    "sdsSheetUrl": "/public/sds sheets/WRK-120B.pdf", 
+    "GHSStatus": "Approved",
+    "DGStatus": "Approved",
+    "GHS Approval/Rejection Date": "2025-10-18",
+    "DG Approval/Rejection Date": "2025-10-18",
+    "feedback": "",
+    "sections": {
+      "section2": {
+        "classification": "Flammable Liquids, Category 2; Carcinogenicity, Category 1A; Eye Irritation, Category 2A",
+        "hazards": [
+          "Flammable liquid",
+          "Carcinogenicity",
+          "Eye irritation"
+        ],
+        "ghsCodes": [
+          "GHS02",
+          "GHS08",
+          "GHS07",
+          "H225",
+          "H350",
+          "H319"
+        ],
+        "signalWord": "Danger",
+        "hazardStatements": "H225: Highly flammable liquid and vapor. H350: May cause cancer. H319: Causes serious eye irritation. Additional statement: May form explosive mixtures with air.",
+        "precautionaryCodes": [
+          "P210",
+          "P233",
+          "P240",
+          "P241",
+          "P242",
+          "P243",
+          "P280",
+          "P305+P351+P338",
+          "P308+P313",
+          "P370+P378"
+        ],
+        "precautionaryStatements": "P210: Keep away from heat, sparks, open flames, hot surfaces. P233: Keep container tightly closed. P240: Ground/bond container and receiving equipment. P241: Use explosion-proof electrical equipment. P242: Use only non-sparking tools. P243: Take precautionary measures against static discharge. P280: Wear protective gloves, eye protection, face protection. P305+P351+P338: IF IN EYES: Rinse cautiously with water for several minutes. P308+P313: IF exposed or concerned: Get medical advice/attention. P370+P378: In case of fire: Use dry chemical, dry sand, or alcohol-resistant foam for extinction. Store in a well-ventilated place; keep cool.",
+        "carcinogenicity": "This product is classified as Carcinogenicity Category 1A (H350) based on regulatory listings including IARC Group 1 references. May cause cancer. This SDS applies a more conservative carcinogenic classification (Carc. 1A) than many general ethanol SDSs, based on regulatory interpretation referenced by the supplier.",
+        "additionalNotes": "No additional health or environmental hazard classes are assigned at this concentration (pure ethanol), but flammability alone is sufficient for GHS hazard classification."
+      },
+      "section3": {
+        "chemicalNature": "Substance (organic solvent, laboratory grade)",
+        "description": "Ethanol (Ethyl Alcohol) - CAS Number: 64-17-5, EC Number: 200-578-6, Index Number: 603-002-00-5. Intended use: Reagents and standards for analytical chemical laboratory use. Manufacturer: Agilent Technologies, Inc., Santa Clara, California, USA.",
+        "composition": [
+          {
+            "chemicalName": "Ethanol",
+            "casNumber": "64-17-5",
+            "concentration": "100%",
+            "ghsClassification": [
+              "Flam. Liq. 2",
+              "Carc. 1A",
+              "Eye Irrit. 2A"
+            ],
+            "hazardStatements": [
+              "H225",
+              "H350",
+              "H319"
+            ]
+          }
+        ]
+      },
+      "section9": {
+        "physicalState": "liquid",
+        "appearance": "Clear, colorless liquid",
+        "odour": "Alcohol-like",
+        "flashPoint": "9.7 °C (closed cup) / ~13 °C (55.4 °F)",
+        "boilingPoint": "78.29 °C",
+        "vapourPressure": "Not specified",
+        "lowerExplosiveLimit": "3.3%",
+        "upperExplosiveLimit": "19%",
+        "note": "Explosive vapor/air mixtures possible. Lower explosive limit: 3.3%. Upper explosive limit: 19%."
+      },
+      "section14": {
+        "dot": "UN 1170, Ethanol / Ethyl Alcohol / Ethanol Solution, Class 3, Packing Group II",
+        "kemlerCode": "33",
+        "iata": {
+          "unNumber": "UN1170",
+          "description": "ETHANOL / ETHYL ALCOHOL",
+          "class": "3",
+          "packingGroup": "II",
+          "labels": "3",
+          "limitedQuantity": "Allowed, subject to volume limits",
+          "passengerAircraftLimit": "5 L",
+          "cargoAircraftLimit": "60 L"
+        },
+        "imdg": {
+          "unNumber": "UN1170",
+          "description": "ETHANOL / ETHYL ALCOHOL",
+          "class": "3",
+          "packingGroup": "II",
+          "labels": "3",
+          "emsNumber1": "F-E",
+          "emsNumber2": "S-D",
+          "marinePollutant": "no",
+          "limitedQuantity": "1 L"
+        },
+        "tdg": {
+          "class": "3",
+          "packingGroup": "II"
+        },
+        "mexico": {
+          "class": "3",
+          "packingGroup": "II"
+        },
+        "otherInformation": "Kemler Code: 33. EMS: F-E, S-D. Limited Quantity (IMDG): 1 L. Passenger Aircraft Limit: 5 L. Cargo Aircraft Limit: 60 L. Emergency Contact: CHEMTREC® 1-800-424-9300. Classification is mandatory across road (DOT), sea (IMDG), and air (IATA) transport. Transport modes covered: DOT (US): UN 1170, Class 3, PG II; IMDG (Sea): UN 1170, Class 3, PG II; IATA/ICAO (Air): UN 1170, Class 3, PG II; TDG (Canada): Class 3, PG II; Mexico: Class 3, PG II."
+      }
+    },
+    "uploadedDate": "2025-10-14"
+  },
+  {
+    "id": 20,
+    "materialId": "9999-31-8020",
+    "materialName": "Key Lime Mint Allergen Mod",
+    "source": "RDS",
+    "partNumber": "UL028649/00",
+    "internalCode": "9999-31-8761",
+    "synonyms": [],
+    "productType": "Mixture",
+    "intendedUse": "Fragrance / Perfume compound",
+    "manufacturer": "Givaudan Fragrances Corp.",
+    "manufacturerLocation": "Mount Olive, New Jersey, USA",
+    "emergencyContact": "Not specified",
+    "aiRecommendedDGCode": "NA1993 - Combustible Liquid (DOT bulk only)",
+    "rationaleSummary": "Combustible liquid. Causes skin irritation. Causes serious eye irritation. May cause allergic skin reaction. Suspected of damaging fertility or the unborn child.",
+    "ghsRationale": "The GHS classification is driven primarily by health hazards and combustibility, not extreme flammability. The flash point of 89 °C places the product in Flammable Liquid Category 4, qualifying it as a combustible liquid rather than a highly flammable one. Multiple constituents contribute to skin irritation, eye irritation, and skin sensitization, justifying H315, H319, and H317. Toxicological evaluation indicates suspected reproductive toxicity (Category 2), resulting in H361.",
+    "dgRationale": "Under U.S. DOT, the material qualifies as NA 1993, Combustible Liquid, PG III only when shipped in bulk quantities. The flash point exceeds 60 °C, excluding it from Class 3 flammable liquids but still meeting the U.S. definition of a combustible liquid. International regulations (IMDG, IATA) do not classify this material as Dangerous Goods due to higher flash point thresholds and lower transport risk profiles.",
+    "ghsPictograms": [
+      "GHS02",
+      "GHS07"
+    ],
+    "hazardousWaste": false,
+    "sdsSheetUrl": "/public/sds sheets/MSDS1.pdf",
+    "GHSStatus": "Rejected",
+    "DGStatus": "Rejected",
+    "GHS Approval/Rejection Date": "2025-10-10",
+    "DG Approval/Rejection Date": "2025-10-10",
+    "feedback": "",
+    "sections": {
+      "section2": {
+        "classification": "Flammable Liquid, Category 4; Skin Irritation, Category 2; Eye Irritation, Category 2A; Skin Sensitization, Category 1; Reproductive Toxicity, Category 2",
+        "hazards": [
+          "Flammable liquid",
+          "Skin irritation",
+          "Eye irritation",
+          "Skin sensitization",
+          "Reproductive toxicity"
+        ],
+        "ghsCodes": [
+          "GHS02",
+          "GHS07",
+          "H227",
+          "H315",
+          "H319",
+          "H317",
+          "H361"
+        ],
+        "signalWord": "Warning",
+        "hazardStatements": "H227: Combustible liquid. H315: Causes skin irritation. H319: Causes serious eye irritation. H317: May cause an allergic skin reaction. H361: Suspected of damaging fertility or the unborn child.",
+        "precautionaryCodes": [
+          "P210",
+          "P280",
+          "P302+P352",
+          "P305+P351+P338",
+          "P308+P313",
+          "P501"
+        ],
+        "precautionaryStatements": "P210: Keep away from heat, sparks, open flames, hot surfaces. P280: Wear protective gloves, eye protection, face protection. P302+P352: IF ON SKIN: Wash with plenty of water. P305+P351+P338: IF IN EYES: Rinse cautiously with water for several minutes. P308+P313: IF exposed or concerned: Get medical advice/attention. P501: Dispose of contents/container in accordance with local regulations.",
+        "carcinogenicity": "Not specified in source material.",
+        "additionalNotes": "These classifications are explicitly stated by the manufacturer in Section 2 and supported by component toxicology in Sections 3 and 11."
+      },
+      "section3": {
+        "chemicalNature": "Fragrance compound",
+        "description": "Key Lime Mint Allergen Mod - Fragrance / Perfume compound. Product Identifier: UL028649/00, Internal code: 9999-31-8761. Manufacturer: Givaudan Fragrances Corp., Mount Olive, New Jersey, USA.",
+        "composition": [
+          {
+            "chemicalName": "2,6-dimethyloct-7-en-2-ol",
+            "casNumber": "Not specified",
+            "concentration": "Not specified",
+            "ghsClassification": [],
+            "hazardStatements": []
+          },
+          {
+            "chemicalName": "2,6-dimethyloctanol",
+            "casNumber": "Not specified",
+            "concentration": "Not specified",
+            "ghsClassification": [],
+            "hazardStatements": []
+          }
+        ]
+      },
+      "section9": {
+        "physicalState": "liquid",
+        "appearance": "Off-white liquid",
+        "odour": "Citrus-like, aromatic, herbaceous",
+        "flashPoint": "192 °F (89 °C), closed cup",
+        "boilingPoint": "Not specified",
+        "vapourPressure": "Not specified",
+        "note": "Flash point exceeds 60 °C, excluding it from Class 3 flammable liquids but still meeting the U.S. definition of a combustible liquid."
+      },
+      "section14": {
+        "dot": "NA 1993, Combustible liquid, n.o.s. (contains 2,6-dimethyloct-7-en-2-ol, 2,6-dimethyloctanol), Combustible Liquid, Packing Group III, ERG Guide: 128. Not regulated as a DG in non-bulk packaging ≤119 gallons (450 L) under 49 CFR.",
+        "iata": {
+          "unNumber": "Not regulated",
+          "description": "Not regulated as Dangerous Goods",
+          "class": "Not regulated",
+          "packingGroup": "Not regulated",
+          "labels": "Not regulated"
+        },
+        "imdg": {
+          "unNumber": "Not regulated",
+          "description": "Not regulated as Dangerous Goods",
+          "class": "Not regulated",
+          "packingGroup": "Not regulated",
+          "labels": "Not regulated",
+          "marinePollutant": "no"
+        },
+        "otherInformation": "Regulatory Conclusion: GHS - Classified due to health and combustible hazards. DG - Regulated (U.S. DOT only) → bulk shipments. Not regulated → non-bulk, air, or sea transport. This dual outcome is common for fragrance and specialty chemical mixtures with moderate flash points but significant health hazards."
+      }
+    },
+    "uploadedDate": "2025-10-09"
+  },
+  {
+    "id": 21,
+    "materialId": "9999-31-8021",
+    "materialName": "TX-85",
+    "source": "RDS",
+    "partNumber": "TX-85",
+    "synonyms": [],
+    "productType": "Mixture (cosmetic raw material)",
+    "intendedUse": "Cosmetics",
+    "manufacturer": "SUNJIN BEAUTY SCIENCE CO., LTD.",
+    "manufacturerLocation": "Seoul, Republic of Korea (Head Office). Manufacturing site: Chungcheongnam-do, Republic of Korea",
+    "emergencyContact": "Not specified",
+    "aiRecommendedDGCode": "Not regulated as Dangerous Goods",
+    "rationaleSummary": "Not classified as hazardous under GHS/CLP. Non-flammable, non-reactive, non-toxic for transport purposes.",
+    "ghsRationale": "The SDS explicitly states \"Not Applicable\" for GHS/CLP classification. Although titanium dioxide is present at high concentration, the SDS clarifies that it does not meet the respirable particle criteria (≤10 μm at ≥1%), which is the trigger for TiO₂ carcinogenic classification under EU CLP. Toxicological data indicate: No skin corrosion or serious eye damage, No sensitization, No acute toxicity classification thresholds met. The EUH212 statement is precautionary and applies only if dust is generated, not under normal handling conditions.",
+    "dgRationale": "The material is: Non-flammable, Non-reactive, Non-toxic for transport purposes, Solid powder with no DG hazard classes. No UN number, hazard class, or packing group is assigned under IMDG, IATA, ADR, RID, or ADN. Environmental hazard criteria are not met for DG transport.",
+    "ghsPictograms": [],
+    "hazardousWaste": false,
+    "sdsSheetUrl": "/public/sds sheets/MSDS2.pdf",
+    "GHSStatus": "Approved",
+    "DGStatus": "Approved",
+    "GHS Approval/Rejection Date": "2025-10-05",
+    "DG Approval/Rejection Date": "2025-10-05",
+    "feedback": "",
+    "sections": {
+      "section2": {
+        "classification": "Not classified as hazardous under Regulation (EC) No. 1272/2008 (CLP)",
+        "hazards": [],
+        "ghsCodes": [
+          "EUH210",
+          "EUH212"
+        ],
+        "signalWord": "Not applicable",
+        "hazardStatements": "EUH210: Safety Data Sheet available on request. EUH212: Warning! Hazardous respirable dust may be formed when used. Do not breathe dust.",
+        "precautionaryCodes": [],
+        "precautionaryStatements": "These EUH statements are supplemental information only and do not constitute a GHS hazard classification.",
+        "carcinogenicity": "The titanium dioxide present is not in powder form containing ≥1% respirable particles ≤10 μm, which is critical for classification decisions.",
+        "additionalNotes": "TX-85 is considered a non-hazardous cosmetic raw material under both GHS and Dangerous Goods transport regulations, with standard industrial hygiene controls recommended to minimize dust exposure."
+      },
+      "section3": {
+        "chemicalNature": "Mixture (cosmetic raw material)",
+        "description": "TX-85 - Cosmetic raw material. Main Components (Typical Ranges): Titanium Dioxide: 82–87%, Silica: 7–18%, Dimethicone: 1–7%. Manufacturer: SUNJIN BEAUTY SCIENCE CO., LTD., Seoul, Republic of Korea.",
+        "composition": [
+          {
+            "chemicalName": "Titanium Dioxide",
+            "casNumber": "Not specified",
+            "concentration": "82–87%",
+            "ghsClassification": [],
+            "hazardStatements": []
+          },
+          {
+            "chemicalName": "Silica",
+            "casNumber": "Not specified",
+            "concentration": "7–18%",
+            "ghsClassification": [],
+            "hazardStatements": []
+          },
+          {
+            "chemicalName": "Dimethicone",
+            "casNumber": "Not specified",
+            "concentration": "1–7%",
+            "ghsClassification": [],
+            "hazardStatements": []
+          }
+        ]
+      },
+      "section9": {
+        "physicalState": "solid",
+        "appearance": "White fine powder",
+        "odour": "Odorless",
+        "flashPoint": "Not applicable",
+        "boilingPoint": "Not specified",
+        "vapourPressure": "Not specified",
+        "note": "Water insoluble. Primary handling concern: Dust control (occupational exposure)."
+      },
+      "section14": {
+        "dot": "Not regulated as Dangerous Goods",
+        "iata": {
+          "unNumber": "Not regulated",
+          "description": "Not regulated as Dangerous Goods",
+          "class": "Not regulated",
+          "packingGroup": "Not regulated",
+          "labels": "Not regulated"
+        },
+        "imdg": {
+          "unNumber": "Not regulated",
+          "description": "Not regulated as Dangerous Goods",
+          "class": "Not regulated",
+          "packingGroup": "Not regulated",
+          "labels": "Not regulated",
+          "marinePollutant": "no"
+        },
+        "otherInformation": "Regulatory Conclusion: GHS/CLP - Not classified (EUH statements only). DG (All modes) - Not Dangerous Goods. Transport restrictions: None. Primary handling concern: Dust control (occupational exposure)."
+      }
+    },
+    "uploadedDate": "2025-10-03"
+  },
+  {
+    "id": 22,
+    "materialId": "9999-31-8022",
+    "materialName": "JUVENESSENCE AD",
+    "source": "RDS",
+    "partNumber": "11649M",
+    "synonyms": [],
+    "productType": "Mixture",
+    "intendedUse": "Cosmetic Active Agent",
+    "manufacturer": "BiotechMarine (Subsidiary of SEPPIC Group)",
+    "manufacturerLocation": "Pontrieux, France",
+    "emergencyContact": "CHEMTREC (1-800-424-9300)",
+    "aiRecommendedDGCode": "Not regulated as Dangerous Goods",
+    "rationaleSummary": "Not classified as hazardous. Non-flammable, non-toxic for transport, non-reactive, not environmentally hazardous.",
+    "ghsRationale": "The SDS clearly confirms no physical, health, or environmental hazards meeting GHS classification thresholds. Toxicological data show: No skin or eye irritation classification, No sensitization, No acute or chronic toxicity triggers. The very high flash point (240°C) excludes flammable liquid classification. No hazardous ingredients are present at reportable concentrations under GHS criteria.",
+    "dgRationale": "The product is: Non-flammable, Non-toxic for transport, Non-reactive, Not environmentally hazardous. Transport regulations (DOT, IMDG, IATA, TDG) explicitly state \"Not regulated\", meaning no DG class, UN number, or packing group applies.",
+    "ghsPictograms": [],
+    "hazardousWaste": false,
+    "sdsSheetUrl": "/public/sds sheets/MSDS-3.pdf",
+    "GHSStatus": "Rejected",
+    "DGStatus": "Rejected",
+    "GHS Approval/Rejection Date": "2025-09-25",
+    "DG Approval/Rejection Date": "2025-09-25",
+    "feedback": "",
+    "sections": {
+      "section2": {
+        "classification": "Not classified as hazardous",
+        "hazards": [],
+        "ghsCodes": [],
+        "signalWord": "No signal word",
+        "hazardStatements": "None",
+        "precautionaryCodes": [],
+        "precautionaryStatements": "The SDS explicitly states: \"Classification of the substance or mixture: Not classified.\"",
+        "carcinogenicity": "Not applicable - product not classified as hazardous.",
+        "additionalNotes": "JUVENESSENCE AD does not belong to any GHS hazard class or Dangerous Goods class. Overall Status: Non-hazardous cosmetic raw material."
+      },
+      "section3": {
+        "chemicalNature": "Mixture",
+        "description": "JUVENESSENCE AD - Cosmetic Active Agent. Product Code: 11649M. INCI Name: Caprylic/Capric Triglyceride / Algae Extract. Manufacturer: BiotechMarine (Subsidiary of SEPPIC Group), Pontrieux, France.",
+        "composition": [
+          {
+            "chemicalName": "Caprylic/Capric Triglyceride / Algae Extract",
+            "casNumber": "Not specified",
+            "concentration": "Not specified",
+            "ghsClassification": [],
+            "hazardStatements": []
+          }
+        ]
+      },
+      "section9": {
+        "physicalState": "liquid",
+        "appearance": "Liquid (oily), Yellow to green-yellow",
+        "odour": "Not specified",
+        "flashPoint": "240°C (464°F) (Closed cup, estimated)",
+        "boilingPoint": "Not specified",
+        "vapourPressure": "Not specified",
+        "density": "0.92–0.95 g/cm³",
+        "note": "Very high flash point (240°C) excludes flammable liquid classification."
+      },
+      "section14": {
+        "dot": "Not regulated as Dangerous Goods",
+        "iata": {
+          "unNumber": "Not assigned",
+          "description": "Not regulated",
+          "class": "None",
+          "packingGroup": "None",
+          "labels": "Not applicable"
+        },
+        "imdg": {
+          "unNumber": "Not assigned",
+          "description": "Not regulated",
+          "class": "None",
+          "packingGroup": "None",
+          "labels": "Not applicable",
+          "marinePollutant": "no"
+        },
+        "tdg": {
+          "class": "Not regulated",
+          "packingGroup": "Not regulated"
+        },
+        "otherInformation": "Regulatory Conclusion: DOT (US) - Not regulated. IMDG (Sea) - Not regulated. IATA (Air) - Not regulated. TDG (Canada) - Not regulated. ADR/RID / Mexico - Not regulated. Overall Status: Non-hazardous cosmetic raw material."
+      }
+    },
+    "uploadedDate": "2025-09-20"
+  },
+  {
+    "id": 23,
+    "materialId": "9999-31-8023",
+    "materialName": "6263732 Woods 25 X EXT 3",
+    "source": "RDS",
+    "partNumber": "6263732",
+    "sdsNumber": "300001162644",
+    "synonyms": [],
+    "productType": "Fragrance Compound (consumer product fragrance)",
+    "intendedUse": "Fragrance compound",
+    "manufacturer": "International Flavors & Fragrances (IFF)",
+    "manufacturerLocation": "IFF (Nederland) BV, Tilburg, Netherlands",
+    "emergencyContact": "Not specified",
+    "aiRecommendedDGCode": "UN3082 - Class 9 (IATA/IMDG only)",
+    "rationaleSummary": "Causes skin irritation. May cause an allergic skin reaction. Environmentally hazardous substance.",
+    "ghsRationale": "The product causes skin irritation and skin sensitization, meeting the criteria for: Skin Irritation Category 2 (H315), Skin Sensitisation Category 1 (H317). No components trigger carcinogenicity, flammability, or systemic toxicity classifications at reportable levels. The flash point of 119 °C is well above the GHS flammable liquid thresholds, excluding flammability classification.",
+    "dgRationale": "The product contains fragrance ingredients (e.g., octahydro tetramethyl naphthalenyl ethanone) that meet aquatic environmental hazard criteria. Under IATA and IMDG, substances hazardous to the aquatic environment are classified as UN 3082, Class 9, Packing Group III. Ground transport under DOT allows exemption; however, air and sea regulations mandate DG classification, making this product conditionally regulated depending on transport mode.",
+    "ghsPictograms": [
+      "GHS07"
+    ],
+    "hazardousWaste": true,
+    "sdsSheetUrl": "/public/sds sheets/MSDS4.pdf",
+    "GHSStatus": "Approved",
+    "DGStatus": "Approved",
+    "GHS Approval/Rejection Date": "2025-09-15",
+    "DG Approval/Rejection Date": "2025-09-15",
+    "feedback": "",
+    "sections": {
+      "section2": {
+        "classification": "Skin Irritation, Category 2; Skin Sensitisation, Category 1",
+        "hazards": [
+          "Skin irritation",
+          "Skin sensitization"
+        ],
+        "ghsCodes": [
+          "GHS07",
+          "H315",
+          "H317"
+        ],
+        "signalWord": "Warning",
+        "hazardStatements": "H315: Causes skin irritation. H317: May cause an allergic skin reaction.",
+        "precautionaryCodes": [
+          "P261",
+          "P280",
+          "P302+P352",
+          "P333+P313",
+          "P501"
+        ],
+        "precautionaryStatements": "P261: Avoid breathing mist or vapours. P280: Wear protective gloves. P302+P352: IF ON SKIN: Wash with plenty of soap and water. P333+P313: If skin irritation or rash occurs: Get medical advice/attention. P501: Dispose of contents/container to an approved waste disposal plant.",
+        "carcinogenicity": "No components trigger carcinogenicity, flammability, or systemic toxicity classifications at reportable levels.",
+        "additionalNotes": "Despite a relatively high flash point, the product is not classified as a flammable liquid under GHS."
+      },
+      "section3": {
+        "chemicalNature": "Fragrance Compound",
+        "description": "6263732 Woods 25 X EXT 3 - Fragrance Compound (consumer product fragrance). Sales No.: 6263732, SDS No.: 300001162644. Manufacturer: International Flavors & Fragrances (IFF), IFF (Nederland) BV, Tilburg, Netherlands.",
+        "composition": [
+          {
+            "chemicalName": "Octahydro Tetramethyl Naphthalenyl Ethanone",
+            "casNumber": "Not specified",
+            "concentration": "Not specified",
+            "ghsClassification": [],
+            "hazardStatements": []
+          }
+        ]
+      },
+      "section9": {
+        "physicalState": "liquid",
+        "appearance": "Clear liquid",
+        "odour": "Not specified",
+        "flashPoint": "246 °F (119 °C)",
+        "boilingPoint": "Not specified",
+        "vapourPressure": "0.03 hPa at 20 °C",
+        "note": "Flash point of 119 °C is well above the GHS flammable liquid thresholds, excluding flammability classification."
+      },
+      "section14": {
+        "dot": "Not regulated as Dangerous Goods under DOT when shipped by ground only",
+        "iata": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9"
+        },
+        "imdg": {
+          "unNumber": "UN3082",
+          "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Octahydro Tetramethyl Naphthalenyl Ethanone)",
+          "class": "9",
+          "packingGroup": "III",
+          "labels": "9",
+          "emsNumber1": "F-A",
+          "emsNumber2": "S-F",
+          "marinePollutant": "yes"
+        },
+        "otherInformation": "Important Transport Note: IFF states that although DOT ground shipment is non-regulated, the product may be shipped as UN 3082 to support multi-modal transport consistency (air/sea). Ground transport under DOT allows exemption; however, air and sea regulations mandate DG classification, making this product conditionally regulated depending on transport mode."
+      }
+    },
+    "uploadedDate": "2025-09-10"
+  },
+  {
+    "id": 24,
+    "materialId": "9999-31-8024",
+    "materialName": "Ethanol",
+    "source": "NEW",
+    "partNumber": "001114",
+    "synonyms": [
+      "Ethyl alcohol",
+      "Alcohol",
+      "EtOH",
+      "Grain alcohol",
+      "Denatured Alcohol",
+      "Methylated Spirits",
+      "Ethyl hydroxide",
+      "Cologne spirit",
+      "Methylcarbinol"
+    ],
+    "casNumber": "64-17-5",
+    "productType": "Substance (100% ethanol)",
+    "intendedUse": "Synthetic / Analytical chemistry",
+    "manufacturer": "Airgas USA, LLC",
+    "manufacturerLocation": "Radnor, Pennsylvania, USA",
+    "emergencyContact": "1-866-734-3438",
+    "aiRecommendedDGCode": "UN1170 - Class 3",
+    "rationaleSummary": "Highly flammable liquid and vapor. May form explosive mixtures with air.",
+    "ghsRationale": "Ethanol has a very low flash point (9.7 °C) and produces flammable vapors capable of forming explosive air–vapor mixtures. These properties clearly meet the criteria for Flammable Liquid Category 2 under GHS. No additional health or environmental hazard classes are assigned at this concentration (pure ethanol), but flammability alone is sufficient for GHS hazard classification.",
+    "dgRationale": "Under UN Model Regulations and modal transport rules, liquids with a flash point below 23 °C and initial boiling point above 35 °C fall under Class 3 – Flammable Liquids. Ethanol meets these criteria and is therefore assigned: UN 1170, Class 3, Packing Group II (medium danger). The classification is consistent and mandatory across road, sea, and air transport.",
+    "ghsPictograms": [
+      "GHS02"
+    ],
+    "hazardousWaste": true,
+    "sdsSheetUrl": "/public/sds sheets/001114.pdf",
+    "GHSStatus": "Approved",
+    "DGStatus": "Approved",
+    "GHS Approval/Rejection Date": "2025-09-10",
+    "DG Approval/Rejection Date": "2025-09-10",
+    "feedback": "",
+    "sections": {
+      "section2": {
+        "classification": "Flammable Liquids, Category 2",
+        "hazards": [
+          "Flammable liquid"
+        ],
+        "ghsCodes": [
+          "GHS02",
+          "H225"
+        ],
+        "signalWord": "Danger",
+        "hazardStatements": "H225: Highly flammable liquid and vapor. Additional statement: May form explosive mixtures with air.",
+        "precautionaryCodes": [
+          "P210",
+          "P233",
+          "P240",
+          "P241",
+          "P242",
+          "P243"
+        ],
+        "precautionaryStatements": "Keep away from heat, sparks, open flames – No smoking. Use explosion-proof equipment. Take precautionary measures against static discharge. Store in a well-ventilated place; keep cool.",
+        "carcinogenicity": "No additional health or environmental hazard classes are assigned at this concentration (pure ethanol), but flammability alone is sufficient for GHS hazard classification.",
+        "additionalNotes": "No additional health or environmental hazard classes are assigned at this concentration (pure ethanol), but flammability alone is sufficient for GHS hazard classification."
+      },
+      "section3": {
+        "chemicalNature": "Substance (100% ethanol)",
+        "description": "Ethanol - CAS Number: 64-17-5. Product Type: Substance (100% ethanol). Product Use: Synthetic / Analytical chemistry. Supplier: Airgas USA, LLC, Radnor, Pennsylvania, USA.",
+        "composition": [
+          {
+            "chemicalName": "Ethanol",
+            "casNumber": "64-17-5",
+            "concentration": "100%",
+            "ghsClassification": [
+              "Flam. Liq. 2"
+            ],
+            "hazardStatements": [
+              "H225"
+            ]
+          }
+        ]
+      },
+      "section9": {
+        "physicalState": "liquid",
+        "appearance": "Clear, colorless liquid",
+        "odour": "Not specified",
+        "flashPoint": "9.7 °C (closed cup)",
+        "boilingPoint": "78.29 °C",
+        "vapourPressure": "Not specified",
+        "lowerExplosiveLimit": "3.3%",
+        "upperExplosiveLimit": "19%",
+        "note": "Lower explosive limit: 3.3%. Upper explosive limit: 19%."
+      },
+      "section14": {
+        "dot": "UN 1170, Ethanol / Ethyl Alcohol / Ethanol Solution, Class 3, Packing Group II",
+        "iata": {
+          "unNumber": "UN1170",
+          "description": "ETHANOL / ETHYL ALCOHOL / ETHANOL SOLUTION",
+          "class": "3",
+          "packingGroup": "II",
+          "labels": "3",
+          "limitedQuantity": "Allowed, subject to volume limits (e.g., 5 L passenger aircraft, 60 L cargo aircraft)"
+        },
+        "imdg": {
+          "unNumber": "UN1170",
+          "description": "ETHANOL / ETHYL ALCOHOL / ETHANOL SOLUTION",
+          "class": "3",
+          "packingGroup": "II",
+          "labels": "3",
+          "marinePollutant": "no"
+        },
+        "tdg": {
+          "class": "3",
+          "packingGroup": "II"
+        },
+        "mexico": {
+          "class": "3",
+          "packingGroup": "II"
+        },
+        "otherInformation": "Transport Modes: DOT (US): Class 3, PG II; IMDG (Sea): Class 3, PG II; IATA/ICAO (Air): Class 3, PG II; TDG (Canada): Class 3, PG II; Mexico: Class 3, PG II. Limited Quantity: Allowed, subject to volume limits (e.g., 5 L passenger aircraft, 60 L cargo aircraft). The classification is consistent and mandatory across road, sea, and air transport."
+      }
+    },
+    "uploadedDate": "2025-09-05"
+  }
+]

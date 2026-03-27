@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Super Admin",
+    "email": "superadmin@elc.com",
+    "password": "admin@123",
+    "role": "Super Admin",
+    "status": true,
+    "last_login": null,
+    "created_at": "2024-01-15T10:00:00Z",
+    "updated_at": "2024-01-15T10:00:00Z"
+  },
+  {
+    "name": "User 1",
+    "email": "user1@elc.com",
+    "password": "user@123",
+    "role": "User",
+    "status": true,
+    "last_login": null,
+    "created_at": "2024-01-20T10:00:00Z",
+    "updated_at": "2024-01-20T10:00:00Z"
+  },
+  {
+    "name": "User 2",
+    "email": "user2@elc.com",
+    "password": "user@123",
+    "role": "User",
+    "status": true,
+    "last_login": null,
+    "created_at": "2024-01-20T10:00:00Z",
+    "updated_at": "2024-01-20T10:00:00Z"
+  }
+  ,
+  {
+    "name": "User 3",
+    "email": "user3@elc.com",
+    "password": "user@123",
+    "role": "User",
+    "status": true,
+    "last_login": null,
+    "created_at": "2024-01-20T10:00:00Z",
+    "updated_at": "2024-01-20T10:00:00Z"
+  },
+  {
+    "name": "User 4",
+    "email": "user4@elc.com",
+    "password": "user@123",
+    "role": "User",
+    "status": true,
+    "last_login": null,
+    "created_at": "2024-01-20T10:00:00Z",
+    "updated_at": "2024-01-20T10:00:00Z"
+  }
+]
+
